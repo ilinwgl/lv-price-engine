@@ -1,0 +1,223 @@
+﻿category;name;description;unit;unit_price;supplier;supplier_location;valid_from;valid_to
+Erdarbeiten / Schüttgüter;Füllsand 0/2;Füllsand Körnung 0/2 mm, gewaschen, für Verfüllungen und Bettung, lose geliefert.;t;24.50;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Bettungssand 0/4;Bettungssand 0/4 mm, für Pflaster- und Leitungsbau, lose geliefert.;t;27.80;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Brechsand 0/5;Brechsand 0/5 mm, kantiges Korn, für Bettung und Ausgleichsschichten.;t;31.20;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Kies 0/16;Rundkies 0/16 mm, gewaschen, für Drainage, Verfüllung und allgemeine Bauzwecke.;t;29.90;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Kies 16/32;Rundkies 16/32 mm, gewaschen, für Drainage- und Filterschichten.;t;32.50;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Schotter 0/32;Mineralgemisch 0/32 mm, frostbeständig, für Tragschichten im Verkehrswegebau.;t;34.90;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Schotter 0/45;Mineralgemisch 0/45 mm, verdichtungsfähig, für Frostschutz- und Tragschichten.;t;33.40;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Frostschutz 0/32;Frostschutzmaterial 0/32 mm, güteüberwacht, für Straßen- und Wegebau.;t;36.20;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Frostschutz 0/56;Frostschutzmaterial 0/56 mm, für hoch belastete Unterbauten und Verkehrsflächen.;t;35.60;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Recycling-Schotter 0/45;RC-Mineralgemisch 0/45 mm, güteüberwacht, für technische Verfüllungen und Tragschichten.;t;22.80;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Mutterboden gesiebt;Gesiebter Oberboden, steinfrei, für Grünflächen und Landschaftsbau.;m³;38.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Humus-Sand-Gemisch;Vegetationstragschicht aus Humus und Sand, für Rasenflächen und Pflanzbereiche.;m³;46.50;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Splitt 2/5;Edelsplitt 2/5 mm, gewaschen, für Pflasterbettung und Fugen.;t;43.20;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Splitt 5/8;Edelsplitt 5/8 mm, für Drainage, Pflasterbau und Ausgleich.;t;44.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Basaltsplitt 8/16;Basaltsplitt 8/16 mm, druckfest, für Außenanlagen und Drainage.;t;52.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Filterkies 8/16;Filterkies 8/16 mm, gewaschen, für Dränleitungen und Sickerschichten.;t;39.50;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Leichtschüttung Blähton;Blähton-Schüttung, trocken, für leichte Ausgleichs- und Dämmschichten.;m³;128.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Erdarbeiten / Schüttgüter;Glasschaumschotter;Glasschaumschotter 10/60 mm, kapillarbrechend und wärmedämmend, für Bodenplattenunterbau.;m³;112.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Beton;Transportbeton C20/25 XC1 F3;Transportbeton C20/25, Expositionsklasse XC1, Konsistenzklasse F3, Größtkorn 16 mm, für Innenbauteile.;m³;118.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Beton;Transportbeton C20/25 XC2 F3;Transportbeton C20/25, Expositionsklasse XC2, Konsistenzklasse F3, Größtkorn 16 mm, für feuchte Innenbereiche und Fundamente.;m³;121.50;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Beton;Transportbeton C25/30 XC2 F3;Transportbeton C25/30, Expositionsklasse XC2, Konsistenzklasse F3, Größtkorn 16 mm, pumpfähig.;m³;124.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Beton;Transportbeton C25/30 XC3 F3;Transportbeton C25/30, Expositionsklasse XC3, Konsistenzklasse F3, Größtkorn 16 mm, für mäßig feuchte Bauteile.;m³;126.50;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Beton;Transportbeton C30/37 XC3 F3;Transportbeton C30/37, Expositionsklasse XC3, Konsistenzklasse F3, Größtkorn 16 mm, pumpfähig.;m³;130.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Beton;Transportbeton C30/37 XC4 F3;Transportbeton C30/37, Expositionsklasse XC4, Konsistenzklasse F3, Größtkorn 16 mm, pumpfähig, für Außenbauteile.;m³;133.50;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Beton;Transportbeton C30/37 XC4 F4;Transportbeton C30/37, Expositionsklasse XC4, Konsistenzklasse F4, Größtkorn 16 mm, erhöhte Fließfähigkeit.;m³;137.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Beton;Transportbeton C30/37 XD1 F3;Transportbeton C30/37, Expositionsklasse XD1, Konsistenzklasse F3, Größtkorn 16 mm, für chloridbeanspruchte Bauteile.;m³;139.50;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Beton;Transportbeton C35/45 XC4 F3;Transportbeton C35/45, Expositionsklasse XC4, Konsistenzklasse F3, Größtkorn 16 mm, für hoch beanspruchte Außenbauteile.;m³;142.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Beton;Transportbeton C35/45 XD2 F3;Transportbeton C35/45, Expositionsklasse XD2, Konsistenzklasse F3, Größtkorn 16 mm, chloridbeständig.;m³;148.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Beton;Transportbeton C35/45 XF1 F3;Transportbeton C35/45, Expositionsklasse XF1, Konsistenzklasse F3, frostbeständig.;m³;146.50;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Beton;Transportbeton C35/45 XF2 F3;Transportbeton C35/45, Expositionsklasse XF2, Konsistenzklasse F3, frost- und tausalzbeanspruchte Bereiche.;m³;153.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Beton;Magerbeton C12/15;Magerbeton C12/15, Konsistenz F2, für Sauberkeitsschichten und einfache Unterbetonierungen.;m³;108.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Beton;Estrichbeton C25/30;Beton C25/30, feine Gesteinskörnung, für Verbundestriche und kleinere Betonierarbeiten.;m³;129.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Beton;Sichtbeton C30/37 SB2;Transportbeton C30/37, Sichtbetonklasse SB2, Konsistenz F4, für sichtbar bleibende Bauteile.;m³;162.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Beton;Sichtbeton C30/37 SB3;Transportbeton C30/37, Sichtbetonklasse SB3, Konsistenz F4, erhöhte Anforderungen an Oberfläche.;m³;178.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Beton;WU-Beton C30/37;Wasserundurchlässiger Beton C30/37, XC4, WU-Anforderung, für Kellerwände und Bodenplatten.;m³;154.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Beton;Faserbeton C30/37;Stahlfaserbeton C30/37, mittlere Faserzugabe, für Industrieböden und Bodenplatten.;m³;168.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Beton;Leichtbeton LC25/28;Leichtbeton LC25/28, für gewichtsreduzierte Bauteile, pumpfähig.;m³;184.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Beton;Schnellbeton C30/37;Schnell erhärtender Transportbeton C30/37, für zeitkritische Reparatur- und Betonierarbeiten.;m³;196.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahl B500B Ø8;Betonstahl B500B, Durchmesser 8 mm, gerippt, als Stabstahl.;t;1010.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahl B500B Ø10;Betonstahl B500B, Durchmesser 10 mm, gerippt, als Stabstahl.;t;995.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahl B500B Ø12;Betonstahl B500B, Durchmesser 12 mm, gerippt, als Stabstahl.;t;985.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahl B500B Ø16;Betonstahl B500B, Durchmesser 16 mm, gerippt, als Stabstahl.;t;978.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahl B500B Ø20;Betonstahl B500B, Durchmesser 20 mm, gerippt, als Stabstahl.;t;972.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahl B500B Ø25;Betonstahl B500B, Durchmesser 25 mm, gerippt, als Stabstahl.;t;968.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahlmatte Q188A;Bewehrungsmatte Q188A, B500A, für Bodenplatten, Decken und Wände.;t;1075.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahlmatte Q257A;Bewehrungsmatte Q257A, B500A, für stärker bewehrte Flächenbauteile.;t;1090.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Bewehrungsstahl;Betonstahlmatte Q335A;Bewehrungsmatte Q335A, B500A, für hoch beanspruchte Bodenplatten und Decken.;t;1110.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Bewehrungsstahl;Edelstahlbewehrung 1.4362;Nichtrostende Bewehrung aus Duplexstahl 1.4362, für korrosiv beanspruchte Bauteile.;kg;6.80;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Bewehrungsstahl;Abstandhalter Faserbeton 40 mm;Faserbeton-Abstandhalter für 40 mm Betondeckung, für horizontale Bewehrung.;Stk;0.48;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Bewehrungsstahl;Abstandhalter Kunststoff 30 mm;Kunststoff-Abstandhalter für 30 mm Betondeckung, für Wand- und Deckenbewehrung.;Stk;0.18;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Schalung;Rahmenschalung Wand;System-Rahmenschalung für gerade Stahlbetonwände, mittlere Oberflächenanforderung.;m²;18.50;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Schalung;Rahmenschalung Wand Sichtbeton;System-Rahmenschalung für Sichtbetonwände, erhöhte Anforderungen an Fugenbild und Oberfläche.;m²;27.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Schalung;Deckenschalung Standard;Deckenschalungssystem für Ortbetondecken, normale Geschosshöhen bis ca. 3,5 m.;m²;19.80;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Schalung;Deckenschalung hohe Räume;Deckenschalungssystem für Raumhöhen über 3,5 m, einschließlich verstärkter Unterstützung.;m²;29.50;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Schalung;Stützenschalung rechteckig;Systemschalung für rechteckige Stahlbetonstützen, variable Querschnitte.;m²;33.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Schalung;Rundstützenschalung;Schalung für runde Stahlbetonstützen, wiederverwendbares System.;m²;48.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Schalung;Fundamentschalung;Einfache Schalung für Streifen- und Einzelfundamente, normale Oberflächenanforderung.;m²;15.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Schalung;Randabschalung Decke;Randabschalung für Stahlbetondecken, Höhe bis 30 cm.;m;11.50;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Schalung;Schalhaut 3-Schicht 21 mm;3-Schicht-Schalungsplatte 21 mm, beschichtet, mehrfach verwendbar.;m²;31.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Schalung;Schalungsanker DW15;Schalungsanker DW15 inklusive Mutter und Teller, für Wandschalung.;Stk;6.50;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Mauerwerk;Kalksandstein 17,5 cm;Kalksandstein-Mauerwerk, Wanddicke 17,5 cm, Rohdichteklasse 1,8, Dünnbettmörtel.;m²;42.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Mauerwerk;Kalksandstein 24 cm;Kalksandstein-Mauerwerk, Wanddicke 24 cm, Rohdichteklasse 1,8, Dünnbettmörtel.;m²;49.50;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Mauerwerk;Porenbeton 11,5 cm;Porenbeton-Plansteine, Wanddicke 11,5 cm, für nichttragende Innenwände.;m²;34.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Mauerwerk;Porenbeton 17,5 cm;Porenbeton-Plansteine, Wanddicke 17,5 cm, für tragende und aussteifende Wände.;m²;41.50;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Mauerwerk;Porenbeton 24 cm;Porenbeton-Plansteine, Wanddicke 24 cm, wärmedämmendes Außenmauerwerk.;m²;52.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Mauerwerk;Hochlochziegel 24 cm;Hochlochziegel, Wanddicke 24 cm, tragendes Mauerwerk, Normalmörtel.;m²;54.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Mauerwerk;Planziegel 36,5 cm;Wärmedämmender Planziegel, Wanddicke 36,5 cm, Dünnbettmörtel, Außenwand.;m²;83.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Mauerwerk;Verblendklinker rot;Verblendklinker rot, frostbeständig, für zweischalige Außenwände.;m²;69.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Mauerwerk;Verblendklinker anthrazit;Verblendklinker anthrazit, frostbeständig, hochwertige Sichtfassade.;m²;78.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Mauerwerk;Leichtbetonstein 17,5 cm;Leichtbeton-Hohlblockstein, Wanddicke 17,5 cm, tragende Innenwand.;m²;39.50;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Mauerwerk;Mauermörtel MG IIa;Werk-Trockenmörtel Mörtelgruppe IIa für allgemeines Mauerwerk.;t;215.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Mauerwerk;Dünnbettmörtel;Dünnbettmörtel für Plansteine und Planziegel, Schichtdicke 1 bis 3 mm.;kg;0.62;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Mauerwerk;Mauerwerksanker Edelstahl;Edelstahl-Luftschichtanker für zweischaliges Mauerwerk, mit Dämmstoffhalter.;Stk;0.95;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Mauerwerk;Sturz Fertigteil 1,50 m;Vorgefertigter Mauerwerkssturz, Länge 1,50 m, für Tür- und Fensteröffnungen.;Stk;46.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Dämmung;EPS 035 100 mm;EPS-Dämmplatte WLS 035, Dicke 100 mm, für Fassaden und Innenbereiche.;m²;13.50;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Dämmung;EPS 035 160 mm;EPS-Dämmplatte WLS 035, Dicke 160 mm, für Wärmedämmverbundsysteme.;m²;20.80;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Dämmung;EPS 032 160 mm;EPS-Dämmplatte WLS 032, Dicke 160 mm, erhöhte Wärmedämmleistung.;m²;24.50;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Dämmung;XPS 035 80 mm;XPS-Dämmplatte WLS 035, Dicke 80 mm, druckfest und feuchtebeständig, für Sockel und Perimeter.;m²;19.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Dämmung;XPS 035 120 mm;XPS-Dämmplatte WLS 035, Dicke 120 mm, druckfest, für Perimeterdämmung.;m²;27.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Dämmung;XPS 035 160 mm;XPS-Dämmplatte WLS 035, Dicke 160 mm, hohe Druckfestigkeit, für Bodenplatten und Perimeter.;m²;35.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Dämmung;Mineralwolle 035 100 mm;Mineralwolle-Dämmplatte WLS 035, Dicke 100 mm, nicht brennbar, für Fassaden und Trennwände.;m²;18.50;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Dämmung;Mineralwolle 035 160 mm;Mineralwolle-Dämmplatte WLS 035, Dicke 160 mm, nicht brennbar, Fassadendämmung.;m²;27.50;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Dämmung;Steinwolle Flachdach 120 mm;Druckfeste Steinwolle-Dämmplatte, Dicke 120 mm, für Flachdachaufbauten.;m²;31.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Dämmung;PIR 024 100 mm;PIR-Hartschaumdämmung WLS 024, Dicke 100 mm, für Dach und Boden.;m²;29.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Dämmung;PIR 024 140 mm;PIR-Hartschaumdämmung WLS 024, Dicke 140 mm, hohe Dämmleistung.;m²;39.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Dämmung;Holzfaser 040 160 mm;Holzfaser-Dämmplatte WLS 040, Dicke 160 mm, für Dach- und Holzrahmenbau.;m²;34.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Dämmung;Trittschalldämmung EPS 30 mm;EPS-Trittschalldämmplatte, Dicke 30 mm, für schwimmenden Estrich.;m²;6.80;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Dämmung;Schaumglas 100 mm;Schaumglasdämmplatte, Dicke 100 mm, druckfest, dampfdicht und nicht brennbar.;m²;58.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Abdichtung;Bitumenbahn G200 S4;Bitumen-Schweißbahn G200 S4, als Abdichtungslage auf Betonflächen.;m²;7.80;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Abdichtung;Polymerbitumenbahn PYE PV200 S5;Polymerbitumen-Schweißbahn PYE PV200 S5, für hochwertige Dach- und Bauwerksabdichtung.;m²;11.50;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Abdichtung;EPDM-Bahn 1,2 mm;EPDM-Abdichtungsbahn 1,2 mm, UV-beständig, für Flachdächer und Anschlüsse.;m²;16.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Abdichtung;PVC-Dachbahn 1,5 mm;PVC-P Dachabdichtungsbahn 1,5 mm, mechanisch befestigt, für Flachdächer.;m²;13.50;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Abdichtung;Flüssigkunststoff PMMA;PMMA-Flüssigabdichtung für Detailanschlüsse, Aufkantungen und Durchdringungen.;kg;18.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Abdichtung;KMB 2K;Zweikomponentige kunststoffmodifizierte Bitumendickbeschichtung für erdberührte Bauteile.;kg;4.60;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Abdichtung;Mineralische Dichtungsschlämme;Flexible mineralische Dichtungsschlämme für Sockel, Keller und Nassbereiche.;kg;2.90;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Abdichtung;Dichtband 120 mm;Elastisches Dichtband 120 mm für Innen- und Außenecken in Verbundabdichtungen.;m;3.20;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Abdichtung;Quellband Bentonit;Bentonit-Quellband für Arbeitsfugen in wasserundurchlässigen Betonbauteilen.;m;7.80;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Abdichtung;Fugenband PVC 240 mm;Innenliegendes PVC-Fugenband, Breite 240 mm, für Betonarbeitsfugen.;m;12.50;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Abdichtung;Radon-Sperrbahn;Radondichte Kunststoffbahn für Bodenplatten und erdberührte Bauteile.;m²;9.80;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Abdichtung;Noppenbahn 20 mm;Noppenbahn 20 mm als Schutz- und Dränlage an erdberührten Kellerwänden.;m²;6.20;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;KG-Rohr DN110 SN4;PVC-KG-Abwasserrohr DN110, Ringsteifigkeit SN4, für erdverlegte Grundstücksentwässerung.;m;8.50;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;KG-Rohr DN160 SN4;PVC-KG-Abwasserrohr DN160, Ringsteifigkeit SN4, für erdverlegte Entwässerungsleitungen.;m;14.80;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;KG-Rohr DN200 SN4;PVC-KG-Abwasserrohr DN200, Ringsteifigkeit SN4, für Hauptentwässerungsleitungen.;m;22.50;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;KG2000 DN110 SN10;PP-Abwasserrohr DN110, Ringsteifigkeit SN10, hoch belastbar, für erdverlegte Leitungen.;m;15.50;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;KG2000 DN160 SN10;PP-Abwasserrohr DN160, Ringsteifigkeit SN10, für Verkehrsflächen und hohe Belastung.;m;27.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;HT-Rohr DN50;PP-HT-Abflussrohr DN50, temperaturbeständig, für Gebäudeentwässerung.;m;4.20;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;HT-Rohr DN100;PP-HT-Abflussrohr DN100, temperaturbeständig, für Fall- und Sammelleitungen.;m;8.90;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;PE-HD Rohr DN32;PE-HD Druckrohr DN32, PN10, für Wasser- und Medienleitungen.;m;3.80;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;PE-HD Rohr DN63;PE-HD Druckrohr DN63, PN10, für Wasser- und Versorgungsleitungen.;m;7.90;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;PE-HD Rohr DN110;PE-HD Druckrohr DN110, PN10, für größere Versorgungsleitungen.;m;16.50;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;SML-Rohr DN100;Gusseisernes SML-Abflussrohr DN100, nicht brennbar, schallgedämmt für Gebäudeentwässerung.;m;28.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;SML-Rohr DN150;Gusseisernes SML-Abflussrohr DN150 für Fall- und Sammelleitungen.;m;44.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;Drainagerohr DN100;PVC-Drainagerohr DN100, gelocht, mit Filtervlies, für Bauwerksdrainage.;m;5.60;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;Drainagerohr DN160;PVC-Drainagerohr DN160, gelocht, für größere Dränanlagen.;m;9.80;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;Betonrohr DN300;Stahlbetonrohr DN300, für Regenwasserkanäle und Grundstücksentwässerung.;m;58.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;Betonrohr DN500;Stahlbetonrohr DN500, für größere Regenwasser- und Entwässerungskanäle.;m;96.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;Schacht DN1000;Beton-Schachtring DN1000, Standardhöhe 500 mm, für Kontroll- und Revisionsschächte.;Stk;145.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Rohrleitungen / Entwässerung;Schachtabdeckung D400;Gusseiserne Schachtabdeckung Klasse D400, lichte Weite 600 mm, für Fahrbahnen.;Stk;285.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Betonpflaster grau 20x10x8;Rechteckpflaster Beton, grau, 20x10x8 cm, für Geh- und Fahrflächen.;m²;22.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Betonpflaster anthrazit 20x10x8;Rechteckpflaster Beton, anthrazit, 20x10x8 cm, für Außenanlagen.;m²;27.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Ökopflaster 20x20x8;Wasserdurchlässiges Betonpflaster 20x20x8 cm mit Sickerfugen, für Stellplätze.;m²;31.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Granitpflaster 10/10;Naturstein-Kleinpflaster Granit 10/10 cm, grau, gespalten.;t;310.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Bordstein 15x30;Beton-Hochbordstein 15x30 cm, Länge 1,0 m, grau.;m;12.50;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Tiefbord 8x25;Beton-Tiefbordstein 8x25 cm, Länge 1,0 m, grau.;m;8.20;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Rasenbord 5x25;Beton-Rasenbord 5x25 cm, zur Einfassung von Grünflächen.;m;5.80;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Betonplatten 40x40x5;Gehwegplatten aus Beton 40x40x5 cm, grau, für Terrassen und Wege.;m²;24.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Keramikplatte außen 60x60x2;Feinsteinzeugplatte 60x60x2 cm, frostbeständig und rutschhemmend, für Terrassen.;m²;49.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Fallschutzbelag 40 mm;Elastischer Fallschutzbelag 40 mm aus Gummigranulat, für Spielbereiche.;m²;55.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Gabionenkorb 100x50x50;Gabionenkorb 100x50x50 cm, verzinkt, ohne Füllmaterial.;Stk;78.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Pflaster / Außenanlagen;Gabionenstein 80/150;Natursteinfüllung 80/150 mm für Gabionen, frostbeständig.;t;145.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Metallbau;HEA 160 S235;Stahlprofil HEA 160 aus S235JR, walzblank, für tragende Stahlkonstruktionen.;kg;1.85;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Metallbau;HEA 200 S235;Stahlprofil HEA 200 aus S235JR, walzblank, für tragende Stahlkonstruktionen.;kg;1.82;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Metallbau;IPE 160 S235;Stahlprofil IPE 160 aus S235JR, für Träger und Rahmen.;kg;1.86;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Metallbau;IPE 240 S355;Stahlprofil IPE 240 aus S355JR, für höher belastete Tragkonstruktionen.;kg;2.05;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Metallbau;Rechteckrohr 80x40x4;Stahl-Rechteckrohr 80x40x4 mm, S235, roh, für Geländer und Rahmen.;m;18.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Metallbau;Quadratrohr 60x60x4;Stahl-Quadratrohr 60x60x4 mm, S235, roh, für Metallbaukonstruktionen.;m;20.50;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Metallbau;Edelstahlrohr 42,4x2;Edelstahl-Rundrohr 42,4x2 mm, Werkstoff 1.4301, geschliffen, für Geländer.;m;28.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Metallbau;Gitterrost verzinkt 30/30;Pressrost aus Stahl, feuerverzinkt, Masche 30/30 mm, für Laufstege.;m²;86.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Metallbau;Tränenblech 5 mm;Stahl-Tränenblech 5 mm, roh, rutschhemmend für Podeste und Abdeckungen.;m²;72.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Metallbau;Geländer verzinkt;Einfaches Stahlgeländer, feuerverzinkt, Höhe ca. 1,0 m, mit Handlauf und Füllstäben.;m;185.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Metallbau;Geländer Edelstahl;Edelstahlgeländer, Werkstoff 1.4301, geschliffen, mit Rundrohr-Handlauf.;m;295.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Metallbau;Stahltür T30 1,01x2,135;Feuerschutztür T30 aus Stahl, einflügelig, ca. 1,01 x 2,135 m, grundiert.;Stk;980.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Trockenbau;Gipskartonplatte 12,5 mm;Gipskarton-Bauplatte 12,5 mm, Standardausführung für Innenausbau.;m²;4.80;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Trockenbau;Gipskarton imprägniert 12,5 mm;Imprägnierte Gipskartonplatte 12,5 mm für Feuchträume.;m²;7.20;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Trockenbau;Gipskarton Feuerschutz 15 mm;Feuerschutzplatte Typ DF, 15 mm, für brandschutztechnische Konstruktionen.;m²;9.50;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Trockenbau;CW-Profil 75;Metallständerprofil CW 75, verzinkt, für Trockenbauwände.;m;2.80;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Trockenbau;UW-Profil 75;Metall-Rahmenprofil UW 75, verzinkt, für Boden- und Deckenanschlüsse.;m;2.50;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Trockenbau;CW-Profil 100;Metallständerprofil CW 100, verzinkt, für höhere oder stärker gedämmte Trockenbauwände.;m;3.40;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Trockenbau;Mineralwolle Trennwand 60 mm;Mineralwolle 60 mm für Schall- und Wärmedämmung in Trockenbauwänden.;m²;8.20;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Trockenbau;Mineralwolle Trennwand 100 mm;Mineralwolle 100 mm für erhöhte Schallschutzanforderungen in Trockenbauwänden.;m²;12.80;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Trockenbau;Akustikdecke Lochplatte;Gelochte Gipskarton-Akustikplatte für abgehängte Decken.;m²;22.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Trockenbau;Abhänger CD-Decke;Direktabhänger für CD-Unterkonstruktion bei abgehängten Decken.;Stk;0.65;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Trockenbau;Spachtelmasse Q2;Gips-Spachtelmasse für Fugen und Oberflächenqualität Q2.;kg;0.95;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Trockenbau;Spachtelmasse Q4;Feinspachtel für hochwertige Oberflächenqualität Q4.;kg;1.45;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Estrich / Boden;Zementestrich CT-C25-F4;Zementestrich CT-C25-F4, für Innenräume, als schwimmender oder Verbundestrich.;m²;18.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Estrich / Boden;Zementestrich CT-C35-F5;Hochfester Zementestrich CT-C35-F5 für höher beanspruchte Flächen.;m²;22.50;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Estrich / Boden;Calciumsulfatestrich CA-C25-F5;Fließestrich auf Calciumsulfatbasis, CA-C25-F5, für Innenräume.;m²;21.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Estrich / Boden;Industrieestrich hart;Zementgebundener Industrieestrich mit Hartstoffzusatz für hohe mechanische Belastung.;m²;36.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Estrich / Boden;Epoxidharzboden 2 mm;2K-Epoxidharz-Beschichtung ca. 2 mm, für Lager- und Technikräume.;m²;42.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Estrich / Boden;PU-Bodenbeschichtung;Elastische Polyurethan-Bodenbeschichtung, rissüberbrückend, für Innenbereiche.;m²;48.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Estrich / Boden;Feinsteinzeug 30x60;Feinsteinzeugfliese 30x60 cm, R10, für Innenböden.;m²;31.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Estrich / Boden;Feinsteinzeug R11 30x30;Feinsteinzeugfliese 30x30 cm, R11, für Nass- und Arbeitsbereiche.;m²;36.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Estrich / Boden;Vinylbelag 2,5 mm;Heterogener Vinylboden 2,5 mm, Nutzungsklasse 33, für stark frequentierte Innenräume.;m²;27.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Estrich / Boden;Kautschukbelag 3 mm;Kautschuk-Bodenbelag 3 mm, rutschhemmend und hoch belastbar.;m²;44.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Holz / Dach;KVH C24 60x120;Konstruktionsvollholz C24, Querschnitt 60x120 mm, technisch getrocknet.;m;7.80;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Holz / Dach;KVH C24 80x160;Konstruktionsvollholz C24, Querschnitt 80x160 mm, technisch getrocknet.;m;13.50;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Holz / Dach;BSH GL24h 120x240;Brettschichtholz GL24h, Querschnitt 120x240 mm, gehobelt.;m;31.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Holz / Dach;OSB/3 18 mm;OSB/3-Platte 18 mm, tragend für feuchtebeanspruchte Bereiche.;m²;11.50;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Holz / Dach;OSB/3 22 mm;OSB/3-Platte 22 mm, tragend für Dach, Wand und Boden.;m²;13.80;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Holz / Dach;Dachlatte 40x60;Nadelholz-Dachlatte 40x60 mm, technisch getrocknet und sortiert.;m;1.35;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Holz / Dach;Unterdeckbahn diffusionsoffen;Diffusionsoffene Unterdeck- und Unterspannbahn für geneigte Dächer.;m²;3.80;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Holz / Dach;Dampfbremse sd 2 m;Luftdichte Dampfbremse mit variablem bzw. mittlerem sd-Wert für Dachausbau.;m²;2.90;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Holz / Dach;Dachziegel rot;Ton-Dachziegel, rot engobiert, für geneigte Dächer.;Stk;2.10;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Holz / Dach;Dachziegel anthrazit;Ton-Dachziegel, anthrazit engobiert, für geneigte Dächer.;Stk;2.45;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Holz / Dach;Dachrinne Titanzink DN125;Halbrunde Dachrinne aus Titanzink, Nenngröße 125.;m;15.50;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Holz / Dach;Fallrohr Titanzink DN100;Regenfallrohr aus Titanzink DN100 mit Steckmuffe.;m;17.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Fenster / Türen;Kunststofffenster 1,23x1,48;Kunststofffenster, 3-fach Verglasung, Uw ca. 0,9 W/m²K, Dreh-Kipp, weiß.;Stk;520.00;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Fenster / Türen;Kunststofffenster 2,00x1,50;Zweiteiliges Kunststofffenster, 3-fach Verglasung, Uw ca. 0,9 W/m²K.;Stk;860.00;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Fenster / Türen;Aluminiumfenster 1,23x1,48;Aluminiumfenster thermisch getrennt, 3-fach Verglasung, pulverbeschichtet.;Stk;890.00;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Fenster / Türen;Aluminiumfenster 2,00x1,50;Zweiteiliges Aluminiumfenster, thermisch getrennt, 3-fach Verglasung.;Stk;1380.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Fenster / Türen;Holz-Alu-Fenster 1,23x1,48;Holz-Aluminium-Fenster, 3-fach Verglasung, hochwertige Ausführung.;Stk;1120.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Fenster / Türen;Innentür CPL 885x1985;Innentürelement CPL, Türblatt 885x1985 mm, Röhrenspankern, Zarge inklusive.;Stk;310.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Fenster / Türen;Innentür Schallschutz Rw 37 dB;Schallschutz-Innentür, Schalldämmmaß Rw ca. 37 dB, inklusive Zarge.;Stk;780.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Fenster / Türen;Brandschutztür T30-RS;Stahltür T30-RS, rauchdicht, einflügelig, inklusive Zarge.;Stk;1180.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Fenster / Türen;Aluminium-Außentür;Thermisch getrennte Aluminium-Außentür, 3-fach verglast, einflügelig.;Stk;2450.00;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Fenster / Türen;Sektionaltor 3,00x3,00;Gedämmtes Sektionaltor ca. 3,00 x 3,00 m, elektrisch betrieben.;Stk;3200.00;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Beschichtung / Farbe;Dispersionsfarbe innen weiß;Weiße Innen-Dispersionsfarbe, Nassabriebklasse 2, Deckvermögen Klasse 1.;l;4.20;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Beschichtung / Farbe;Silikatfarbe innen;Mineralische Silikatfarbe für diffusionsoffene Innenwandflächen.;l;6.80;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Beschichtung / Farbe;Fassadenfarbe Silikonharz;Silikonharz-Fassadenfarbe, wasserabweisend und diffusionsoffen.;l;8.50;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Beschichtung / Farbe;Tiefgrund;Lösemittelfreier Tiefgrund für saugende mineralische Untergründe.;l;3.20;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Beschichtung / Farbe;Betonlasur transparent;Transparente Betonlasur für Sichtbetonflächen, UV-beständig.;l;14.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Beschichtung / Farbe;Epoxidharz-Grundierung;2K-Epoxidharz-Grundierung für Beton- und Estrichflächen.;kg;9.80;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Beschichtung / Farbe;Korrosionsschutzgrundierung;Zinkphosphat-Grundierung für Stahlbauteile im Innen- und Außenbereich.;l;11.50;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Beschichtung / Farbe;Brandschutzbeschichtung R30;Dämmschichtbildende Brandschutzbeschichtung für Stahlprofile, Feuerwiderstand bis R30.;kg;18.50;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Elektro;NYM-J 3x1,5;Installationsleitung NYM-J 3x1,5 mm² für feste Verlegung in Gebäuden.;m;0.85;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Elektro;NYM-J 5x2,5;Installationsleitung NYM-J 5x2,5 mm² für Drehstrom- und Versorgungsleitungen.;m;2.10;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Elektro;NYY-J 5x16;Erdkabel NYY-J 5x16 mm² für feste Verlegung im Erdreich und Außenbereich.;m;13.50;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Elektro;CAT7 Datenkabel;Geschirmtes Datenkabel Cat.7, 4x2xAWG23, halogenarm.;m;1.25;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Elektro;Kabelrinne 100 mm;Verzinkte Kabelrinne, Breite 100 mm, gelocht, für Elektroinstallationen.;m;8.50;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Elektro;Kabelrinne 300 mm;Verzinkte Kabelrinne, Breite 300 mm, gelocht, für Haupttrassen.;m;16.50;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Elektro;Schuko-Steckdose UP;Unterputz-Schutzkontaktsteckdose 16 A, Standardprogramm, weiß.;Stk;8.90;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Elektro;LED-Panel 600x600;LED-Panel 600x600 mm, ca. 36 W, neutralweiß, für Rasterdecken.;Stk;54.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Elektro;Bewegungsmelder IP55;Aufputz-Bewegungsmelder IP55 für Außen- und Feuchträume.;Stk;42.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Elektro;Unterverteilung 36 TE;Kleinverteiler 36 Teilungseinheiten, Unterputz, mit Tür und Hutschienen.;Stk;115.00;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Sanitär / Heizung;Kupferrohr 15x1;Kupferrohr 15x1 mm, halbhart, für Trinkwasser- und Heizungsinstallationen.;m;6.20;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Sanitär / Heizung;Kupferrohr 22x1;Kupferrohr 22x1 mm, halbhart, für Heizungs- und Versorgungsleitungen.;m;9.80;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Sanitär / Heizung;Mehrschichtverbundrohr 16x2;Mehrschichtverbundrohr 16x2 mm, für Trinkwasser und Fußbodenheizung.;m;2.20;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Sanitär / Heizung;Mehrschichtverbundrohr 26x3;Mehrschichtverbundrohr 26x3 mm, für Heizungs- und Sanitärinstallationen.;m;5.60;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Sanitär / Heizung;Rohrdämmung 22 mm;Elastomere Rohrdämmung für Rohrdurchmesser 22 mm, Dämmstärke 19 mm.;m;3.80;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Sanitär / Heizung;Waschtisch Keramik 60 cm;Sanitärkeramik-Waschtisch 60 cm, weiß, mit Hahnloch und Überlauf.;Stk;145.00;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Sanitär / Heizung;WC wandhängend;Wandhängendes Tiefspül-WC aus Sanitärkeramik, weiß.;Stk;185.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Sanitär / Heizung;Vorwandelement WC;Vorwandelement für wandhängendes WC, Bauhöhe ca. 112 cm, mit Unterputzspülkasten.;Stk;240.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
+Sanitär / Heizung;Plattenheizkörper Typ 22;Plattenheizkörper Typ 22, Bauhöhe 600 mm, Länge 1000 mm, weiß.;Stk;260.00;Bauhandel Süd GmbH;Mannheim;2026-01-01;2026-12-31
+Sanitär / Heizung;Fußbodenheizungsrohr 16x2;PE-X/PE-RT Heizungsrohr 16x2 mm mit Sauerstoffsperre für Fußbodenheizung.;m;1.10;Hessen Baustofflogistik GmbH;Wiesbaden;2026-01-01;2026-12-31
+Fassade / Putz;Kalkzementputz innen 15 mm;Kalkzement-Unterputz, mittlere Dicke 15 mm, für mineralische Innenwände.;m²;12.50;Main Baustoffe KG;Offenbach am Main;2026-01-01;2026-12-31
+Fassade / Putz;Gipsputz innen 10 mm;Gips-Maschinenputz, Dicke ca. 10 mm, für trockene Innenräume.;m²;10.80;Neckar Bauprodukte GmbH;Heidelberg;2026-01-01;2026-12-31
+Fassade / Putz;Armierungsmörtel WDVS;Mineralischer Armierungs- und Klebemörtel für Wärmedämmverbundsysteme.;kg;0.72;Taunus Baustoffhandel GmbH;Bad Homburg;2026-01-01;2026-12-31
+Fassade / Putz;Glasfasergewebe WDVS;Alkalibeständiges Armierungsgewebe für WDVS, Flächengewicht ca. 160 g/m².;m²;1.85;Bergstraße Baustoffe GmbH;Bensheim;2026-01-01;2026-12-31
+Fassade / Putz;Silikonharzputz 2 mm;Silikonharz-Oberputz, Körnung 2,0 mm, für Fassaden und WDVS.;kg;2.60;Rhein Stahl & Bau GmbH;Mainz;2026-01-01;2026-12-31
+Fassade / Putz;Mineralputz 3 mm;Mineralischer Scheibenputz, Körnung 3,0 mm, diffusionsoffen.;kg;1.45;ProBau Technik GmbH;Hanau;2026-01-01;2026-12-31
+Fassade / Putz;Fassadenplatte HPL 8 mm;HPL-Fassadenplatte 8 mm, UV-beständig, für hinterlüftete Fassaden.;m²;58.00;Muster Baustoffe GmbH;Frankfurt am Main;2026-01-01;2026-12-31
+Fassade / Putz;Faserzementplatte 8 mm;Faserzement-Fassadenplatte 8 mm, nicht brennbar, für hinterlüftete Fassaden.;m²;46.00;Rhein-Main Beton GmbH;Darmstadt;2026-01-01;2026-12-31
