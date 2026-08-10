@@ -1,7 +1,7 @@
 from datetime import date
 from decimal import Decimal
 
-from database.connector import DBConnector
+from src.database.connector import DBConnector
 
 
 class DBRepository:
