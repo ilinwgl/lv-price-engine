@@ -7,12 +7,12 @@ AI-assisted construction price matching based on tender positions and supplier p
 
 iTWO 中的 LV 数据具有相对固定的结构。每个 LV 按层级组织，并由多个 Position 组成。每个 Position 通常包含固定字段，例如：
 
+* OZ
 * Positionsnummer
 * Kurztext
 * Longtext
 * Menge
 * Einheit
-* 层级信息
 
 整个报价和 Kalkulation 流程都在 iTWO 中完成，并通过标准化的数据格式进行交换。
 
