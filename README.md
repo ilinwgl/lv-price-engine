@@ -101,7 +101,7 @@ Position 描述
 
 ## 6. 匹配策略
 
-建议采用混合方式，而不是完全依赖 LLM 或 Vector Search：
+采用混合方式，而不是完全依赖 LLM 或 Vector Search：
 
 **结构化字段匹配 + Vector Search + LLM/规则判断**
 
