@@ -2,6 +2,7 @@ from datetime import date
 from decimal import Decimal
 
 from src.database.connector import DBConnector
+from src.models.price_candidate import PriceCandidate
 
 
 class DBRepository:
@@ -20,6 +21,40 @@ class DBRepository:
             result = cursor.fetchone()
 
             return result[0]  # type: ignore
+
+    def read_all_data(self) -> list[PriceCandidate]:
+        all_data: list[PriceCandidate] = []
+        with self._connector.connect() as conn, conn.cursor() as cursor:
+            cursor.execute(
+                """
+                    SELECT 
+                        id,
+                        category,
+                        name,
+                        description,
+                        unit,
+                        unit_price,
+                        supplier,
+                        supplier_location
+                    FROM public.supplier_prices;
+                    """
+            )
+            result = cursor.fetchall()
+
+        all_data = [
+            PriceCandidate(
+                price_id=res[0],
+                category=res[1],
+                name=res[2],
+                description=res[3],
+                unit=res[4],
+                unit_price=res[5],
+                supplier=res[6],
+                supplier_location=res[7],
+            )
+            for res in result
+        ]
+        return all_data
 
     def insert(
         self,
