@@ -1,0 +1,73 @@
+﻿OZ;Kurztext;Longtext;Menge;Einheit
+01.01.0010;Oberbodenarbeiten;Vorhandenen Oberboden im Bereich der Außenanlagen aufnehmen, seitlich lagern und nach Abschluss der Erdarbeiten wieder einbauen. Für Ergänzungen gesiebten Oberboden verwenden.;420.0;m³
+01.01.0020;Gelände auffüllen und verdichten;"Gelände in Teilbereichen lagenweise auffüllen und verdichten. Geeignetes verdichtungsfähiges Material verwenden; örtlich können Sand-Kies-Gemische oder Recyclingmaterial eingesetzt werden.";185.0;m³
+01.01.0030;Frostschutzschicht herstellen;Frostschutzschicht unter Verkehrsflächen herstellen, lagenweise einbauen und verdichten. Körnung entsprechend Planung, im Regelfall Mineralgemisch bis etwa 32 mm.;240.0;m³
+01.01.0040;Pflasterbettung herstellen;Bettung für Betonpflaster und Randbereiche herstellen. Geeigneten Bettungssand oder Splitt verwenden und höhengerecht abziehen.;680.0;m²
+01.01.0050;Drainagepackung herstellen;Filter- und Dränschicht entlang erdberührter Bauteile aus gewaschenem Kies oder geeignetem Splitt herstellen.;76.5;m³
+02.01.0010;Fundamente betonieren;"Einzel- und Streifenfundamente herstellen. Beton einschließlich Lieferung, Einbringen, Verdichten und Nachbehandlung; Festigkeitsklasse mindestens C25/30, Expositionsklasse entsprechend Erdberührung.";118.0;m³
+02.01.0020;Außenwand aus Stahlbeton;"Stahlbeton-Außenwände herstellen. Beton C30/37, für Außenbauteile geeignet; Konsistenz für Pumpförderung geeignet. Schalung und Bewehrung werden gesondert beschrieben.";265.0;m³
+02.01.0030;Kellerwand WU-Konstruktion;Wasserundurchlässige Kellerwand aus Stahlbeton herstellen. Beton mit WU-Anforderung, Festigkeitsklasse C30/37, einschließlich fachgerechter Nachbehandlung.;142.0;m³
+02.01.0040;Sichtbetonwand herstellen;Sichtbar bleibende Stahlbetonwand herstellen. Beton C30/37 mit erhöhten Anforderungen an Oberfläche und gleichmäßiges Erscheinungsbild.;61.0;m³
+02.01.0060;Industrieboden betonieren;Betonboden für mechanisch beanspruchte Hallenfläche herstellen. Beton C30/37, bei Bedarf mit Faserzugabe, Oberfläche zur späteren Beschichtung vorbereiten.;310.0;m³
+03.01.0010;Bewehrung Bodenplatte;Bewehrung der Bodenplatte liefern, schneiden, biegen und verlegen. Betonstahl B500, überwiegend Stabdurchmesser zwischen 12 und 20 mm.;28.4;t
+03.01.0030;Abstandhalter Bewehrung;Geeignete Abstandhalter zur Sicherstellung der Betondeckung liefern und einbauen. Betondeckung je nach Bauteil etwa 30 bis 40 mm.;9200;Stk
+04.01.0010;Wandschalung;Systemschalung für gerade Stahlbetonwände stellen, ausrichten, verspannen und nach Erhärten des Betons ausschalen.;890.0;m²
+04.01.0030;Deckenschalung;Deckenschalung für Ortbetondecken einschließlich erforderlicher Unterstützung bis zu üblichen Geschosshöhen herstellen.;1240.0;m²
+04.01.0040;Fundamentschalung;Seitliche Schalung für Einzel- und Streifenfundamente herstellen und nach Betonage entfernen.;320.0;m²
+05.01.0010;Kalksandstein-Innenwand;Tragende Innenwand aus Kalksandstein herstellen. Wanddicke gemäß Planung etwa 17,5 cm, Verarbeitung mit geeignetem Dünnbettmörtel.;410.0;m²
+05.01.0020;Porenbetonwand;Nichttragende und leichte Trennwände aus Porenbeton-Plansteinen herstellen. Wanddicken je nach Raum zwischen 11,5 und 17,5 cm.;360.0;m²
+05.01.0030;Außenmauerwerk Ziegel;Tragendes Außenmauerwerk aus wärmedämmenden Ziegeln herstellen. Wanddicke gemäß Wärmeschutzkonzept.;520.0;m²
+05.01.0040;Verblendmauerwerk;"Sichtmauerwerk aus frostbeständigen Verblendsteinen vor Außenwand herstellen; Farbe gemäß Bemusterung.";275.0;m²
+06.01.0010;Fassadendämmung EPS;Wärmedämmung an Fassadenflächen aus EPS-Platten herstellen. Dämmstoffdicke etwa 160 mm, Wärmeleitfähigkeit gemäß Energiekonzept.;980.0;m²
+06.01.0020;Perimeterdämmung;Druckfeste und feuchteunempfindliche Dämmung an erdberührten Kellerflächen herstellen. Plattendicke ca. 120 mm.;310.0;m²
+06.01.0030;Mineralwolldämmung Fassade;Nicht brennbare Fassadendämmung aus Mineralwolle herstellen. Dämmstoffdicke etwa 160 mm.;430.0;m²
+06.01.0040;Dachdämmung;"Dämmung des Flachdachs mit druckfesten Dämmplatten herstellen; erforderliche Dicke gemäß Wärmeschutznachweis.";720.0;m²
+06.01.0050;Trittschalldämmung;Trittschalldämmung unter schwimmendem Estrich verlegen. Plattenstärke ungefähr 30 mm.;1080.0;m²
+07.01.0010;Abdichtung Bodenplatte;Abdichtung auf Betonflächen gegen Bodenfeuchte herstellen. Bituminöse Bahn vollflächig bzw. nach Systemvorgabe verlegen.;760.0;m²
+07.01.0020;Flachdachabdichtung;Mehrlagige Dachabdichtung auf Flachdach herstellen. Oberlage als hochwertige Polymerbitumenbahn oder gleichwertiges System.;690.0;m²
+07.01.0030;Kelleraußenabdichtung;Erdberührte Kelleraußenwände gegen Feuchtigkeit abdichten. Dickbeschichtung bzw. geeignetes mineralisches Abdichtungssystem verwenden.;295.0;m²
+07.01.0040;Fugenabdichtung WU-Beton;Arbeitsfugen in wasserundurchlässigen Betonbauteilen mit geeignetem Quell- oder Fugenbandsystem abdichten.;185.0;m
+08.01.0010;Grundleitung DN 160;"Erdverlegte Abwasserleitung aus Kunststoff herstellen. Nennweite DN 160, einschließlich Verbindung und Ausrichtung; Belastung für übliche Grundstücksentwässerung.";145.0;m
+08.01.0020;Entwässerungsleitung DN 110;Abwasserleitung innerhalb bzw. unmittelbar außerhalb des Gebäudes herstellen. Rohrdimension DN 110, Material entsprechend Einsatzbereich.;210.0;m
+08.01.0030;Drainageleitung;Dränleitung entlang Kelleraußenwand herstellen. Gelochtes Rohr mit Filterwirkung, Nennweite ungefähr DN 100.;128.0;m
+08.01.0040;Regenwasserkanal;Regenwasserleitung im Außenbereich aus Betonrohren herstellen. Nennweite im Hauptstrang etwa DN 300.;64.0;m
+08.01.0050;Kontrollschacht;Kontroll- und Revisionsschacht aus Betonfertigteilen herstellen, lichte Nennweite etwa 1000 mm, einschließlich belastbarer Abdeckung.;5;Stk
+09.01.0010;Betonpflaster Gehweg;Gehwegflächen mit Betonrechteckpflaster herstellen. Pflasterformat etwa 20 x 10 cm, Dicke 8 cm, Farbe grau oder ähnlich.;520.0;m²
+09.01.0020;Pflaster Stellplätze;Versickerungsfähige Pflasterfläche für Stellplätze herstellen. Betonpflaster mit offenen bzw. sickerfähigen Fugen.;380.0;m²
+09.01.0030;Bordsteine setzen;Betonbordsteine zur Einfassung von Fahr- und Gehflächen liefern und in Beton setzen.;240.0;m
+09.01.0040;Terrassenplatten;Plattenbelag im Außenbereich herstellen. Frostbeständige Platten im Format ungefähr 60 x 60 cm verwenden.;135.0;m²
+10.01.0010;Stahlträger montieren;Tragende Stahlprofile für Rahmenkonstruktion liefern und montieren. Profile aus Baustahl S235 bzw. S355 gemäß Statik.;6400;kg
+10.01.0020;Rechteckrohrkonstruktion;Rahmenkonstruktion aus Stahlhohlprofilen herstellen. Rechteck- und Quadratrohre gemäß Werkstattplanung.;180.0;m
+10.01.0030;Gitterrost Laufsteg;Verzinkte Gitterroste für Wartungs- und Laufbereiche liefern und befestigen.;74.0;m²
+10.01.0040;Stahlgeländer;Geländer an Treppen und Podesten herstellen, Stahl feuerverzinkt, Höhe etwa 1,0 m.;95.0;m
+11.01.0010;Trockenbau-Trennwand;Metallständerwand mit beidseitiger Gipskartonbeplankung herstellen. Unterkonstruktion etwa 75 mm, Hohlraum mit Mineralwolle füllen.;610.0;m²
+11.01.0020;Feuchtraumvorsatzschale;Vorsatzschale in Feuchträumen mit imprägnierten Gipskartonplatten und Metallunterkonstruktion herstellen.;180.0;m²
+11.01.0030;Brandschutzbekleidung;Trockenbaukonstruktion mit Feuerschutzplatten herstellen. Plattendicke und Lagenzahl nach Brandschutzanforderung.;210.0;m²
+11.01.0040;Akustikdecke;Abgehängte Akustikdecke mit gelochten Gipskartonplatten einschließlich Unterkonstruktion und Abhängern herstellen.;295.0;m²
+12.01.0010;Zementestrich;Schwimmenden Zementestrich auf Dämmlage herstellen. Festigkeitsklasse entsprechend Nutzung, Oberfläche belegreif abziehen.;940.0;m²
+12.01.0020;Industriebodenbeschichtung;Mechanisch belastbare Bodenbeschichtung auf vorbereiteten Beton- bzw. Estrichflächen herstellen. Epoxidharzsystem etwa 2 mm.;360.0;m²
+12.01.0030;Fliesenboden;Bodenbelag aus Feinsteinzeug herstellen. Rutschhemmung je nach Raum, Formate ca. 30 x 30 bis 30 x 60 cm.;440.0;m²
+12.01.0040;Elastischer Bodenbelag;Elastischen Bodenbelag in stark frequentierten Innenräumen verlegen. Vinyl- oder Kautschukbelag gemäß Bemusterung.;275.0;m²
+13.01.0010;Holzdachkonstruktion;Holzkonstruktion aus technisch getrocknetem Konstruktionsvollholz herstellen. Querschnitte und Festigkeitsklasse gemäß Statik.;520.0;m
+13.01.0020;OSB-Beplankung;Tragende Holzwerkstoffbeplankung auf Dach- und Wandflächen herstellen. OSB-Platten für den vorgesehenen Feuchtebereich, Dicke etwa 18 bis 22 mm.;680.0;m²
+13.01.0030;Unterdeckbahn;Diffusionsoffene Unterdeckbahn auf geneigter Dachfläche verlegen, Anschlüsse und Überlappungen winddicht ausführen.;720.0;m²
+13.01.0040;Dachentwässerung;Dachrinne und Regenfallrohre aus Titanzink liefern und montieren. Rinnengröße und Rohrdurchmesser gemäß Entwässerungsplanung.;115.0;m
+14.01.0010;Kunststofffenster;Fensterelemente aus Kunststoff mit Dreifachverglasung liefern und montieren. Abmessungen gemäß Fensterliste, Wärmedurchgangswert etwa 0,9 W/m²K.;34;Stk
+14.01.0020;Aluminiumfenster;Thermisch getrennte Aluminiumfenster mit Dreifachverglasung liefern und montieren. Unterschiedliche Elementgrößen gemäß Planung.;18;Stk
+14.01.0030;Innentüren;Innentürelemente einschließlich Zarge liefern und montieren. Standardtüren sowie einzelne Türen mit erhöhtem Schallschutz.;46;Stk
+14.01.0040;Brandschutztür;Einflügelige Brandschutztür aus Stahl einschließlich Zarge montieren. Feuerwiderstand T30, teilweise mit Rauchschutzanforderung.;6;Stk
+15.01.0010;Innenanstrich;Wand- und Deckenflächen grundieren und mit weißer Innenfarbe beschichten. Beschichtung für normal beanspruchte Innenräume.;2650.0;m²
+15.01.0020;Fassadenbeschichtung;Mineralische bzw. silikonharzbasierte Fassadenbeschichtung auf vorbereiteten Außenflächen herstellen.;920.0;m²
+15.01.0030;Korrosionsschutz Stahl;Stahlbauteile mit geeignetem Korrosionsschutzsystem grundieren und beschichten.;840.0;m²
+16.01.0010;Elektro-Hauptleitungen;Installations- und Versorgungsleitungen in unterschiedlichen Querschnitten verlegen. Leitungen für Licht-, Steckdosen- und Drehstromkreise.;1650.0;m
+16.01.0020;Kabeltrassen;Verzinkte Kabelrinnen für Haupt- und Nebentrassen montieren. Unterschiedliche Breiten entsprechend Leitungsbelegung.;310.0;m
+16.01.0030;Steckdosen;Unterputz-Schutzkontaktsteckdosen liefern, montieren und anschließen.;160;Stk
+16.01.0040;LED-Beleuchtung;LED-Panels für Rasterdecken liefern und betriebsfertig montieren. Standardformat etwa 600 x 600 mm.;72;Stk
+17.01.0010;Trinkwasserleitungen;Trinkwasserleitungen aus Kupfer- oder Mehrschichtverbundrohr herstellen. Rohrdimensionen je nach Strang und Anschlussstelle.;420.0;m
+17.01.0020;Heizungsleitungen;Heizungsleitungen einschließlich erforderlicher Rohrdämmung verlegen. Unterschiedliche Rohrdimensionen gemäß Planung.;380.0;m
+17.01.0030;Sanitärobjekte;Wandhängende WCs und Waschtische einschließlich Vorwandelementen und Befestigung montieren.;28;Stk
+17.01.0040;Fußbodenheizung;Heizrohre für Fußbodenheizung auf Systemfläche verlegen und an Verteiler anschließen. Rohrdimension etwa 16 x 2 mm.;2400.0;m
+18.01.0010;Innenputz;Innenwandflächen mit Gips- oder Kalkzementputz herstellen. Putzart abhängig von Raumnutzung und Untergrund.;2100.0;m²
+18.01.0020;WDVS Armierung;Armierungsschicht eines Wärmedämmverbundsystems aus Klebe- und Armierungsmörtel mit eingebettetem Glasfasergewebe herstellen.;940.0;m²
+18.01.0030;Fassadenoberputz;Mineralischen oder silikonharzgebundenen Oberputz auf WDVS aufbringen. Körnung etwa 2 bis 3 mm.;940.0;m²
+18.01.0040;Hinterlüftete Fassadenbekleidung;Plattenbekleidung auf hinterlüfteter Fassade montieren. Nicht brennbare bzw. witterungsbeständige Fassadenplatten verwenden.;260.0;m²
