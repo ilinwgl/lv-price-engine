@@ -289,6 +289,7 @@ name = "lv-price-engine"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "huggingface-hub" },
     { name = "openpyxl" },
     { name = "pandas" },
     { name = "pgvector" },
@@ -305,6 +306,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
+    { name = "huggingface-hub", specifier = ">=1.27.0" },
     { name = "openpyxl", specifier = ">=3.1.5" },
     { name = "pandas", specifier = ">=3.0.5" },
     { name = "pgvector", specifier = ">=0.5.0" },
