@@ -12,13 +12,14 @@ load_dotenv()
 
 class LVReader:
     @staticmethod
-    def read_csv_file(file_path: Path) -> list[LVPosition]:
+    def read_csv_file() -> list[LVPosition]:
         positions: list[LVPosition] = []
 
+        file_path = os.getenv("LV_FILE_PATH", "")
         encoding = os.getenv("LV_CSV_ENCODING", "utf-8-sig")
         delimiter = os.getenv("LV_CSV_DELIMITER", ";")
 
-        with file_path.open(mode="r", encoding=encoding, newline="") as file:
+        with Path(file_path).open(mode="r", encoding=encoding, newline="") as file:
             reader = csv.DictReader(file, delimiter=delimiter)
 
             for row in reader:

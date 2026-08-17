@@ -7,7 +7,7 @@ from src.database.connector import DBConnector
 from src.database.repository import DBRepository
 from src.ingestion.lv_reader import LVReader
 from src.logging.logger_config import LoggerConfig
-from src.matching.matcher import Matcher
+from src.matching.vector_matcher import VectorMatcher
 
 logger = logging.getLogger(__name__)
 
@@ -64,7 +64,7 @@ def main() -> None:
     )
 
     # Select usefull text from candidate
-    selected_candidates = Matcher.filter_by_unit(lv_position, all_candidates)
+    selected_candidates = VectorMatcher.filter_by_unit(lv_position, all_candidates)
     candidate_texts = [
         f"{candidate.name}. {candidate.description}"
         for candidate in selected_candidates
@@ -97,7 +97,7 @@ def main() -> None:
         len(selected_candidates),
     )
 
-    matched_candidates = Matcher.match(
+    matched_candidates = VectorMatcher.match(
         lv_embedding, candidate_embeddings, selected_candidates, top_k
     )
 

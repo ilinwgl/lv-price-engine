@@ -1,10 +1,13 @@
+import logging
+
 import torch
 
-from src.models.lv_position import LVPosition
 from src.models.price_candidate import PriceCandidate
 
+logger = logging.getLogger(__name__)
 
-class Matcher:
+
+class VectorMatcher:
     @staticmethod
     def match(
         lv_embedding: torch.Tensor,
@@ -29,12 +32,3 @@ class Matcher:
             results.append(candidate)
 
         return results
-
-    @staticmethod
-    def filter_by_unit(
-        lv_position: LVPosition, candidates: list[PriceCandidate]
-    ) -> list[PriceCandidate]:
-
-        return [
-            candidate for candidate in candidates if candidate.unit == lv_position.unit
-        ]

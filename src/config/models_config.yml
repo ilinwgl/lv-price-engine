@@ -1,0 +1,15 @@
+model:
+    - name: bge-m3
+      path: models/embeddings/bge-m3
+      device: cuda
+      trust_remote_code: false
+
+    - name: multilingual-e5-large
+      path: models/embeddings/multilingual-e5-large
+      device: cuda
+      trust_remote_code: false
+
+    - name: jina-embeddings-v2-base-de
+      path: models/embeddings/jina-embeddings-v2-base-de
+      device: cuda
+      trust_remote_code: true
