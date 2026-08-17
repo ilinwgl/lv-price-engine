@@ -5,6 +5,7 @@ from sentence_transformers import SentenceTransformer
 from database.connector import DBConnector
 from database.repository import DBRepository
 from ingestion.lv_reader import LVReader
+from matching.match_pipeline import MatchPipeline
 from models.embedding_model import EmbeddingModel
 from src.config.model_config_load import load_models_config
 from src.logging.logger_config import LoggerConfig
@@ -45,7 +46,7 @@ def main() -> None:
         )
 
         embedding_model = EmbeddingModel(name=model_name, model=model)
-        match_pipeline = (embedding_model, all_candidates)
+        match_pipeline = MatchPipeline(embedding_model, lv_positions, all_candidates)
         match_pipeline.run()
 
 
