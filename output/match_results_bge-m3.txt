@@ -1,0 +1,1335 @@
+================================================================================
+OZ:          02.05.0010
+GAEB ID:     AAAAAAABIEPHNNAA
+Quantity:    17.000
+Unit:        m2
+Short Text:  Ortbeton Sauberkeitsschicht MLV-MBR_01100010
+Long Text:   Sauberkeitsschicht aus Ortbeton, Untergrund horizontal, obere Betonfläche horizontal, als unbewehrter Beton, Normalbeton C 12/15, X0, Dicke 0,10 m . Oberfläche eben abziehen
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.7943
+ID:            3
+Code:          Beton C12/15
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0 Sauberkeitsschicht
+Description:   Beton C12/15-X0 Sauberkeitsschicht
+Unit:          m³
+
+Commodity Prices:
+  ID: 3, Price: 103.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 5, Type: Estimation, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 6, Type: DWTMRate, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.7912
+ID:            1
+Code:          Beton C8/10
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C8/10-X0 Sauberkeitsschicht
+Description:   Beton C8/10-X0 Sauberkeitsschicht
+Unit:          m³
+
+Commodity Prices:
+  ID: 1, Price: 100.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 1, Type: Estimation, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 2, Type: DWTMRate, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6929
+ID:            4
+Code:          Beton C15
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
+Description:   Beton C12/15-X0
+Unit:          m³
+
+Commodity Prices:
+  ID: 4, Price: 98.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 7, Type: Estimation, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 8, Type: DWTMRate, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.05.0020
+GAEB ID:     AAAAAAABIFGNACMI
+Quantity:    4.000
+Unit:        m3
+Short Text:  Ortbeton Streifenfundamente
+Long Text:   Ortbeton Streifenfundamente als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA2, W0 DIN EN 206, Bauteil: Fundamente für Wandscheiben einschließlich Schalung: glatte Schalung nach Wahl des AN. Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.7038
+ID:            8
+Code:          Beton C37 XA2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA2, W0
+Description:   Beton C 30/37, XC3, XF1, XA2, W0
+Unit:          m³
+
+Commodity Prices:
+  ID: 8, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 15, Type: Estimation, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 16, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.7036
+ID:            7
+Code:          Beton C37 XA1
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA1, W0
+Description:   Beton C 30/37, XC3, XF1, XA1, W0
+Unit:          m³
+
+Commodity Prices:
+  ID: 7, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 13, Type: Estimation, Price: 164.9100 EUR, Factor: 1.2700, Fixed: False
+  ID: 14, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6928
+ID:            11
+Code:          Beton C37 XF2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C30/37, XC2, XF2, XD1, WF
+Description:   Beton C30/37, XC2, XF2, XD1, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 11, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 21, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 22, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.05.0030
+GAEB ID:     AAAAAAABIFGNCKIA
+Quantity:    12.000
+Unit:        m3
+Short Text:  Ortbeton Wandscheiben zwischen den Gleishallenfundamenten 17-19
+Long Text:   Ortbeton Wandscheiben als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA1, W0 DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Wandscheiben zwischen den Gleishallenfundamenten 17-19 in Längsrichtung einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6170
+ID:            11
+Code:          Beton C37 XF2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C30/37, XC2, XF2, XD1, WF
+Description:   Beton C30/37, XC2, XF2, XD1, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 11, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 21, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 22, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6164
+ID:            8
+Code:          Beton C37 XA2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA2, W0
+Description:   Beton C 30/37, XC3, XF1, XA2, W0
+Unit:          m³
+
+Commodity Prices:
+  ID: 8, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 15, Type: Estimation, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 16, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6154
+ID:            7
+Code:          Beton C37 XA1
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA1, W0
+Description:   Beton C 30/37, XC3, XF1, XA1, W0
+Unit:          m³
+
+Commodity Prices:
+  ID: 7, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 13, Type: Estimation, Price: 164.9100 EUR, Factor: 1.2700, Fixed: False
+  ID: 14, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.05.0040
+GAEB ID:     AAAAAAABIFGNEONI
+Quantity:    6.000
+Unit:        m3
+Short Text:  Ortbeton Wandscheiben quer auf Gleishallenfundamente 18 und 19
+Long Text:   Ortbeton Wandscheiben als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA1, W0 DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Wandscheiben quer auf die Gleishallenfundamente 18 und 19 einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.05.0050
+GAEB ID:     AAAAAAABIFGNHDBI
+Quantity:    5.100
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Fundamente und Wandscheiben
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6903
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.05.0060
+GAEB ID:     AAAAAAABIFGNJCCI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: Verbindung der Wandscheiben mit bestehenden Gleishallenfundamenten 17-19
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6141
+ID:            26
+Code:          6210012
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
+Description:   Abdstandhalter, Bindedraht, etc.
+Unit:          to
+
+Commodity Prices:
+  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6133
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5752
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.05.0070
+GAEB ID:     AAAAAAABIFGNLDKI
+Quantity:    3.000
+Unit:        St
+Short Text:  Hydraulische Hebetechnik
+Long Text:   Bereitstellung, Anlieferung, Montage und betriebsbereite Einrichtung sowie Demontage von hydraulischen Pressen/Hebezylindern einschließlich aller erforderlichen Pumpen (manuell oder elektrisch), Leitungen, Druckmess- und Sicherheitseinrichtungen zum kontrollierten, temporären Anheben eines Gleishallenfundamentes. Mindesttragkraft = 5000kN
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.05.0080
+GAEB ID:     AAAAAAABIFGNNDHI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Ausführungsplanung u. Statik f. Hebetechnik
+Long Text:   Alle für die Hebetechnik der Vorposition notwendigen Ausführungszeichnungen und Statischen Unterlagen einschl. Werkstattzeichnungen erstellen. Unterlagen 1* digital, 5 * in Papierform zur Prüfung liefern, Prüfungsanmerkungen einarbeiten, nach Gleichstellung 1* digital, 1 Original und 4 Kopien an AG liefern. Digitale Unterlagen im Format PDF/A-1b (Level B) gemäß ISO 19005-1, Papierformate gemäß DIN-Norm 476 bzw. EN ISO 216.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.06.0010
+GAEB ID:     AAAAAAABIEPIBOMI
+Quantity:    900.000
+Unit:        m2
+Short Text:  Ortbeton Sauberkeitsschicht MLV-MBR_01120010
+Long Text:   Sauberkeitsschicht aus Ortbeton, Untergrund horizontal, obere Betonfläche horizontal, als unbewehrter Beton, Normalbeton C 12/15, X0 , Dicke 0,10 m , Oberfläche eben abziehen.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.8063
+ID:            3
+Code:          Beton C12/15
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0 Sauberkeitsschicht
+Description:   Beton C12/15-X0 Sauberkeitsschicht
+Unit:          m³
+
+Commodity Prices:
+  ID: 3, Price: 103.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 5, Type: Estimation, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 6, Type: DWTMRate, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.7979
+ID:            1
+Code:          Beton C8/10
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C8/10-X0 Sauberkeitsschicht
+Description:   Beton C8/10-X0 Sauberkeitsschicht
+Unit:          m³
+
+Commodity Prices:
+  ID: 1, Price: 100.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 1, Type: Estimation, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 2, Type: DWTMRate, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.7068
+ID:            4
+Code:          Beton C15
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
+Description:   Beton C12/15-X0
+Unit:          m³
+
+Commodity Prices:
+  ID: 4, Price: 98.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 7, Type: Estimation, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 8, Type: DWTMRate, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0020
+GAEB ID:     AAAAAAABIEPIEDHA
+Quantity:    593.000
+Unit:        m3
+Short Text:  Fundamentplatte aus Stahlbeton MLV-MBR_01120030
+Long Text:   Fundamentplatte Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Bauteil: 'Sohle für (>Postpaketkammer<) ' einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.7051
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.7000
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6807
+ID:            16
+Code:          Beton C45 XD1
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
+Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0030
+GAEB ID:     AAAAAAABIEPIGGOI
+Quantity:    20.000
+Unit:        m3
+Short Text:  Zulage für Aufdickungen der Fundamentplatte
+Long Text:   Zulage zu vorbeschriebener Position für alle Erschwernisse bei Ausführung der Aufdickungen bei der Fundamentplatte. Bauteil: Fundamentplatte in der PPK
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6990
+ID:            24
+Code:          620172
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage SV Beton
+Description:   Zulage SV Beton
+Unit:          m3
+
+Commodity Prices:
+  ID: 24, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 47, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 48, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0040
+GAEB ID:     AAAAAAABIEPIIGBI
+Quantity:    150.000
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Fundamentplatte
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Fundamentplatte
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6592
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6493
+ID:            28
+Code:          6210021
+Category Path: Stoffe | Bewehrung | Mattenstahl | Betonstahlmatte N141
+Description:   Betonstahlmatte N141
+Unit:          m2
+
+Commodity Prices:
+  ID: 28, Price: 14.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 55, Type: Estimation, Price: 12.0000 EUR, Factor: 0.8600, Fixed: False
+  ID: 56, Type: DWTMRate, Price: 14.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6181
+ID:            26
+Code:          6210012
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
+Description:   Abdstandhalter, Bindedraht, etc.
+Unit:          to
+
+Commodity Prices:
+  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0050
+GAEB ID:     AAAAAAABIEPIKFBI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Zulage für Auswechslungen bei Bewehrung für Hebungsinjektionen
+Long Text:   Zulage zur vorbeschriebenen Position für alle Erschwernisse bei Auswechslungen der Bewehrung in den Bereichen, in denen die zukünftigen Hebungsinjektionen durchgeführt werden. Bauteil: Fundamentplatte in der PPK um die Gleishallenfundamente.
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6031
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0060
+GAEB ID:     AAAAAAABIEPIMFAI
+Quantity:    23.000
+Unit:        m3
+Short Text:  Ortbeton Stützen und Wände
+Long Text:   Ortbeton Stützen und Wände als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stützen und Wände der Postpaketkammer einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6855
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6832
+ID:            8
+Code:          Beton C37 XA2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA2, W0
+Description:   Beton C 30/37, XC3, XF1, XA2, W0
+Unit:          m³
+
+Commodity Prices:
+  ID: 8, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 15, Type: Estimation, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 16, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6812
+ID:            13
+Code:          Beton C45 (XM2)
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0070
+GAEB ID:     AAAAAAABIEPIOIPI
+Quantity:    14.000
+Unit:        m3
+Short Text:  Aufbeton bestehende westliche Außenwand
+Long Text:   Ortbeton Stützen und Wände als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stützen und Wände der Postpaketkammer einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6967
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6962
+ID:            13
+Code:          Beton C45 (XM2)
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6894
+ID:            9
+Code:          Beton C37 XD2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC2, XD2, WA
+Description:   Beton C 30/37, XC2, XD2, WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 9, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 17, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 18, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0080
+GAEB ID:     AAAAAAABIEPDAMEA
+Quantity:    5.000
+Unit:        m3
+Short Text:  Ergänzungsbeton zwischen der Decke
+Long Text:   Ergänzungsbeton aus als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: zwischen der bestehenden Decke unter dem Gleis 24 und der neuen Decke vom Bahnsteig 24/25 einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6513
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6469
+ID:            6
+Code:          Beton C30 XA1
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6464
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0090
+GAEB ID:     AAAAAAABIEPDDABI
+Quantity:    9.200
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Stützen und Wände
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Stützen und Wände PPK
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6908
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0100
+GAEB ID:     AAAAAAABIEPDEPCI
+Quantity:    1.000
+Unit:        t
+Short Text:  Zulage für Einbohren der Stecker
+Long Text:   Zulage zu vorbeschriebener Betonstabstahl-Position für Ausführung der horizontalen und vertikalen Bewehrung als Bohrstecker in den bestehenden Bauteilen. Bauteil: neue Wand- und Deckenbereiche bei der westlichen Außenwand im Bereich des Zufahrtstunnels zur PPK und unter der neuen Decke unter dem Bahnsteig 24/25
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6564
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0110
+GAEB ID:     AAAAAAABIEPDGPKI
+Quantity:    14.000
+Unit:        m3
+Short Text:  Diagonale Aussteifungen aus Ortbeton
+Long Text:   Diagonale Aussteifungen als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Aussteifungen in Längs- und Querrichtung einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6386
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6384
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6297
+ID:            13
+Code:          Beton C45 (XM2)
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0120
+GAEB ID:     AAAAAAABIEPDJDII
+Quantity:    3.400
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Aussteifungen
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Aussteifungen in Längs- und Querrichtung
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6827
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0130
+GAEB ID:     AAAAAAABIEPDLCKI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: alle Bauteile
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6581
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6570
+ID:            26
+Code:          6210012
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
+Description:   Abdstandhalter, Bindedraht, etc.
+Unit:          to
+
+Commodity Prices:
+  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6141
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0010
+GAEB ID:     AAAAAAABIFHEAAAA
+Quantity:    301.000
+Unit:        m3
+Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 1
+Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.07.0020
+GAEB ID:     AAAAAAABIFHECAGI
+Quantity:    76.000
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 1
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6363
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0030
+GAEB ID:     AAAAAAABIFHGKLPA
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für das nachträgliche Verschließen der bauzeitlichen Fluchttreppenöffnung
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6305
+ID:            26
+Code:          6210012
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
+Description:   Abdstandhalter, Bindedraht, etc.
+Unit:          to
+
+Commodity Prices:
+  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6192
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5989
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0040
+GAEB ID:     AAAAAAABIFHEGHKI
+Quantity:    148.000
+Unit:        m3
+Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 2
+Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 2 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.07.0050
+GAEB ID:     AAAAAAABIFHEINAI
+Quantity:    37.000
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 2
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 2 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6347
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0060
+GAEB ID:     AAAAAAABIFHEKMLI
+Quantity:    17.000
+Unit:        m3
+Short Text:  Stahlbetonplatte als feste Fahrbahn unter Gleis 25 Bereich 2
+Long Text:   Stahlbetonplatte, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stahlbetonplatte mit Hochzug unter Gleis 25 im Bereich 2 als feste Fahrbahn für den Prellbock einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6009
+ID:            13
+Code:          Beton C45 (XM2)
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6004
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5934
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0070
+GAEB ID:     AAAAAAABIFHENBMI
+Quantity:    4.300
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für feste Fahrbahn unter Gleis 25 Bereich 2
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Stahlbetonplatte unter Gleis 25 Bereich 2 als feste Fahrbahn für den Prellbock
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6252
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0080
+GAEB ID:     AAAAAAABIFHEPBJA
+Quantity:    5.000
+Unit:        St
+Short Text:  Zulage für Einbau Telleranker
+Long Text:   Zulage zu vorbeschriebener Betonstabstahl-Position für die Lieferung und Einbau der Telleranker gemäß Ril 804.5601, 6.1. Bauteil: Anbindung der neuen Stahlbetonplatte unter der Prellbockkonstruktion an die darunterliegende Decke unter dem Gleis 25.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.07.0090
+GAEB ID:     AAAAAAABIEICBBEI
+Quantity:    57.000
+Unit:        m3
+Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Bstg. 24/25 Bereich 1
+Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6050
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6004
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5967
+ID:            6
+Code:          Beton C30 XA1
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0100
+GAEB ID:     AAAAAAABIEICDGKI
+Quantity:    14.200
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 1
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6261
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0110
+GAEB ID:     AAAAAAABIEICFGJI
+Quantity:    36.000
+Unit:        m3
+Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Bstg. 24/25 Bereich 2
+Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 im Bereich 2 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzüge stirnseitig einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.07.0120
+GAEB ID:     AAAAAAABIEICHMAI
+Quantity:    8.900
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 2
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 2 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzüge stirnseitig
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6282
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0130
+GAEB ID:     AAAAAAABIEICJLDI
+Quantity:    125.000
+Unit:        m3
+Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 Höhensprung mit Auskragung Bereich 1
+Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 1 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.07.0140
+GAEB ID:     AAAAAAABIEICMAII
+Quantity:    31.000
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 1
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 1
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6356
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0150
+GAEB ID:     AAAAAAABIEICNPOI
+Quantity:    111.000
+Unit:        m3
+Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 Höhensprung mit Auskragung Bereich 2
+Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 2 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.07.0160
+GAEB ID:     AAAAAAABIEPJAGAA
+Quantity:    28.000
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 2
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 2
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6320
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0170
+GAEB ID:     AAAAAAABIEPJCEOI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für den Höhensprung mit Auskragung
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6141
+ID:            26
+Code:          6210012
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
+Description:   Abdstandhalter, Bindedraht, etc.
+Unit:          to
+
+Commodity Prices:
+  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6097
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5842
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0180
+GAEB ID:     AAAAAAABIEPJEFPI
+Quantity:    105.000
+Unit:        m
+Short Text:  Spaltverschluss
+Long Text:   Herstellen einer Blechkonstruktion aus verzinktem Stahlblech zur temporären Abdeckung eines linearen Spaltes. Verschluss der Öffnung zwischen der neuen Decke der PPK und der bestehenden Gleisbrücke v. Gleis 24.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================

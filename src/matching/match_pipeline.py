@@ -1,14 +1,13 @@
 import logging
-from collections import defaultdict
 
 import torch
 
 from src.matching.text_builder import TextBuilder
 from src.matching.vector_matcher import VectorMatcher
+from src.models.commodity_candidate import CommodityCandidate
 from src.models.embedding_model import EmbeddingModel
 from src.models.lv_position import LVPosition
-from src.models.match_result import MatchStatus, PositionMatchResult
-from src.models.price_candidate import PriceCandidate
+from src.models.match_result import MatchCandidate, MatchStatus, PositionMatchResult
 
 logger = logging.getLogger(__name__)
 
@@ -18,14 +17,14 @@ class MatchPipeline:
         self,
         embedding_model: EmbeddingModel,
         lv_positions: list[LVPosition],
-        candidates: list[PriceCandidate],
+        candidates: list[CommodityCandidate],
     ):
         self._embedding_model = embedding_model
         self._lv_positions = lv_positions
         self._candidates = candidates
         self._top_k = 5
         self._min_score = 0.6
-        self._min_gap = 0.1
+        self._min_gap = 0.02
 
     def run(self) -> list[PositionMatchResult]:
         logger.info(
@@ -39,7 +38,7 @@ class MatchPipeline:
         ]
 
         logger.info(
-            "Create embeddings for %d price candidates",
+            "Create embeddings for %d commodity candidates",
             len(candidate_texts),
         )
 
@@ -50,54 +49,27 @@ class MatchPipeline:
             show_progress_bar=True,
         )
 
-        candidates_by_unit = defaultdict(list)
-        for candidate, embedding in zip(
-            self._candidates,
-            candidate_embeddings,
-            strict=True,
-        ):
-            candidates_by_unit[candidate.unit].append((candidate, embedding))
-
-        logger.info(
-            "Candidates grouped into %d units",
-            len(candidates_by_unit),
-        )
+        candidate_embeddings = torch.as_tensor(candidate_embeddings)
 
         match_results: list[PositionMatchResult] = []
+
         for lv_position in self._lv_positions:
-            unit_candidates = candidates_by_unit.get(
-                lv_position.unit,
-                [],
-            )
-
-            if not unit_candidates:
-                logger.warning(
-                    "%s | no candidates for unit '%s'",
-                    lv_position.oz,
-                    lv_position.unit,
-                )
-
-                match_results.append(
-                    PositionMatchResult(
-                        lv_position=lv_position,
-                        match_status=MatchStatus.UNMATCHED,
-                        matched_candidates=[],
-                    )
-                )
-                continue
-
-            selected_candidates = [candidate for candidate, _ in unit_candidates]
-
-            selected_embeddings = torch.stack(
-                [torch.as_tensor(embedding) for _, embedding in unit_candidates]
-            )
-
             lv_text = TextBuilder.create_lv_position_text(lv_position)
-            lv_embedding = self._embedding_model.model.encode(lv_text)
+
+            lv_embedding = self._embedding_model.model.encode(
+                inputs=lv_text,
+                normalize_embeddings=True,
+            )
+
+            lv_embedding = torch.as_tensor(lv_embedding)
 
             matched_candidates = VectorMatcher.match(
-                lv_embedding, selected_embeddings, selected_candidates, self._top_k
+                lv_embedding=lv_embedding,
+                candidate_embeddings=candidate_embeddings,
+                candidates=self._candidates,
+                top_k=self._top_k,
             )
+
             matched_status, matched_candidates = self._post_process_match_results(
                 matched_candidates
             )
@@ -126,8 +98,8 @@ class MatchPipeline:
 
     def _post_process_match_results(
         self,
-        matched_candidates: list[PriceCandidate],
-    ) -> tuple[MatchStatus, list[PriceCandidate]]:
+        matched_candidates: list[MatchCandidate],
+    ) -> tuple[MatchStatus, list[MatchCandidate]]:
         if not matched_candidates:
             return MatchStatus.UNMATCHED, []
 

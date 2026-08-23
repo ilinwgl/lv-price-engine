@@ -1,14 +1,16 @@
 import logging
+from pathlib import Path
 
 from sentence_transformers import SentenceTransformer
 
-from database.connector import DBConnector
-from database.repository import DBRepository
-from ingestion.lv_reader import LVReader
-from matching.match_pipeline import MatchPipeline
-from models.embedding_model import EmbeddingModel
 from src.config.model_config_load import load_models_config
+from src.database.connector import DBConnector
+from src.database.repository import DBRepository
+from src.exporter.result_exporter import ResultExporter
+from src.ingestion.gaeb_lv_loader import GAEBLVLoader
 from src.logging.logger_config import LoggerConfig
+from src.matching.match_pipeline import MatchPipeline
+from src.models.embedding_model import EmbeddingModel
 
 logger = logging.getLogger(__name__)
 
@@ -19,15 +21,25 @@ def main() -> None:
     connector = DBConnector()
     repository = DBRepository(connector)
 
-    all_candidates = repository.read_all_data()
+    all_candidates = repository.read_all_commodity_candidates()
     if not all_candidates:
         logger.error("No supplier prices found.")
         return
+    logger.info(f"Number of Candidates: {len(all_candidates)}")
+    ResultExporter.write_commodity_candidates(
+        all_candidates,
+        Path("./output/commodity_candidates.txt"),
+    )
 
-    lv_positions = LVReader.read_csv_file()
+    lv_positions = GAEBLVLoader.load()
     if not lv_positions:
         logger.error("No LV positions found.")
         return
+    logger.info(f"Number of LV Positions: {len(lv_positions)}")
+    ResultExporter.write_lv_positions(
+        lv_positions,
+        Path("./output/lv_positions.txt"),
+    )
 
     models_config = load_models_config()
 
@@ -39,6 +51,8 @@ def main() -> None:
             logger.warning("Not get model config")
             continue
 
+        logger.info(f"Model Name: {model_name}")
+
         model = SentenceTransformer(
             model_name_or_path=model_path,
             device=model_config.get("device", "cpu"),
@@ -47,7 +61,10 @@ def main() -> None:
 
         embedding_model = EmbeddingModel(name=model_name, model=model)
         match_pipeline = MatchPipeline(embedding_model, lv_positions, all_candidates)
-        match_pipeline.run()
+        match_results = match_pipeline.run()
+        ResultExporter.write_match_results(
+            match_results, Path(f"./output/match_results_{model_name}.txt")
+        )
 
 
 if __name__ == "__main__":

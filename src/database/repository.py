@@ -8,6 +8,11 @@ from src.db_article_importing.db_article_models import (
     ParsedEstimatePrice,
     ParsedProductGroup,
 )
+from src.models.commodity_candidate import (
+    CommodityCandidate,
+    CommodityPrice,
+    EstimatePrice,
+)
 
 
 class DBRepository:
@@ -24,22 +29,6 @@ class DBRepository:
             raise RuntimeError("Database connection is required for import operations.")
 
         return self._connection
-
-    def count(self) -> int:
-        with self._connector.connect() as conn, conn.cursor() as cursor:
-            cursor.execute(
-                """
-                    SELECT COUNT(*)
-                    FROM public.supplier_prices;
-                """
-            )
-
-            result = cursor.fetchone()
-
-            if result is None:
-                return 0
-
-            return int(result[0])
 
     def insert_product_group(
         self,
@@ -313,3 +302,159 @@ class DBRepository:
                 )
 
             return int(result[0])
+
+    def read_all_commodity_candidates(self) -> list[CommodityCandidate]:
+        candidates: dict[int, CommodityCandidate] = {}
+
+        with self._connector.connect() as conn, conn.cursor() as cursor:
+            # ---------------------------------------------------------------------
+            # Commodities + complete commodity group hierarchy
+            # ---------------------------------------------------------------------
+
+            cursor.execute(
+                """
+                WITH RECURSIVE group_paths AS (
+                    SELECT
+                        id,
+                        parent_id,
+                        description,
+                        COALESCE(description, '') AS category_path
+                    FROM commodity_groups
+                    WHERE parent_id IS NULL
+
+                    UNION ALL
+
+                    SELECT
+                        child.id,
+                        child.parent_id,
+                        child.description,
+                        CONCAT_WS(
+                            ' | ',
+                            NULLIF(parent.category_path, ''),
+                            child.description
+                        ) AS category_path
+                    FROM commodity_groups AS child
+                    INNER JOIN group_paths AS parent
+                        ON child.parent_id = parent.id
+                )
+                SELECT
+                    commodity.id,
+                    commodity.code,
+                    commodity.description,
+                    commodity.unit,
+                    TRIM(
+                        CONCAT_WS(
+                            ' | ',
+                            NULLIF(group_paths.category_path, ''),
+                            commodity.description
+                        )
+                    ) AS matching_text
+                FROM commodities AS commodity
+                LEFT JOIN group_paths
+                    ON group_paths.id = commodity.commodity_group_id
+                ORDER BY commodity.id;
+                """
+            )
+
+            rows = cursor.fetchall()
+
+            for row in rows:
+                commodity_id = int(row[0])
+
+                candidates[commodity_id] = CommodityCandidate(
+                    id=commodity_id,
+                    code=row[1],
+                    description=row[2],
+                    unit=row[3],
+                    category_path=row[4] or "",
+                )
+
+            # ---------------------------------------------------------------------
+            # Commodity Prices
+            # ---------------------------------------------------------------------
+
+            cursor.execute(
+                """
+                SELECT
+                    id,
+                    commodity_id,
+                    unit_price,
+                    currency,
+                    discount,
+                    freight_costs,
+                    miscellaneous,
+                    wastage,
+                    modified_date,
+                    modified_user
+                FROM commodity_prices
+                ORDER BY commodity_id, id;
+                """
+            )
+
+            rows = cursor.fetchall()
+
+            for row in rows:
+                commodity_id = int(row[1])
+
+                candidate = candidates.get(commodity_id)
+                if candidate is None:
+                    continue
+
+                price = CommodityPrice(
+                    id=int(row[0]),
+                    unit_price=row[2],
+                    currency=row[3],
+                    discount=row[4],
+                    freight_costs=row[5],
+                    miscellaneous=row[6],
+                    wastage=row[7],
+                    modified_date=row[8],
+                    modified_user=row[9],
+                )
+
+                candidate.commodity_prices.append(price)
+
+            # ---------------------------------------------------------------------
+            # Estimate Prices
+            # ---------------------------------------------------------------------
+
+            cursor.execute(
+                """
+                SELECT
+                    id,
+                    commodity_id,
+                    price_type,
+                    factor,
+                    price,
+                    currency,
+                    modified_date,
+                    modified_user,
+                    fixed_price
+                FROM estimate_prices
+                ORDER BY commodity_id, id;
+                """
+            )
+
+            rows = cursor.fetchall()
+
+            for row in rows:
+                commodity_id = int(row[1])
+
+                candidate = candidates.get(commodity_id)
+                if candidate is None:
+                    continue
+
+                price = EstimatePrice(
+                    id=int(row[0]),
+                    price_type=row[2],
+                    factor=row[3],
+                    price=row[4],
+                    currency=row[5],
+                    modified_date=row[6],
+                    modified_user=row[7],
+                    fixed_price=row[8],
+                )
+
+                candidate.estimate_prices.append(price)
+
+        return list(candidates.values())

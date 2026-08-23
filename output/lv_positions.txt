@@ -1,0 +1,507 @@
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPHNNAA
+OZ:       02.05.0010
+Quantity: 17.000
+Unit:     m2
+
+Short Text:
+Ortbeton Sauberkeitsschicht MLV-MBR_01100010
+
+Long Text:
+Sauberkeitsschicht aus Ortbeton, Untergrund horizontal, obere Betonfläche horizontal, als unbewehrter Beton, Normalbeton C 12/15, X0, Dicke 0,10 m . Oberfläche eben abziehen
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFGNACMI
+OZ:       02.05.0020
+Quantity: 4.000
+Unit:     m3
+
+Short Text:
+Ortbeton Streifenfundamente
+
+Long Text:
+Ortbeton Streifenfundamente als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA2, W0 DIN EN 206, Bauteil: Fundamente für Wandscheiben einschließlich Schalung: glatte Schalung nach Wahl des AN. Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFGNCKIA
+OZ:       02.05.0030
+Quantity: 12.000
+Unit:     m3
+
+Short Text:
+Ortbeton Wandscheiben zwischen den Gleishallenfundamenten 17-19
+
+Long Text:
+Ortbeton Wandscheiben als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA1, W0 DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Wandscheiben zwischen den Gleishallenfundamenten 17-19 in Längsrichtung einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFGNEONI
+OZ:       02.05.0040
+Quantity: 6.000
+Unit:     m3
+
+Short Text:
+Ortbeton Wandscheiben quer auf Gleishallenfundamente 18 und 19
+
+Long Text:
+Ortbeton Wandscheiben als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA1, W0 DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Wandscheiben quer auf die Gleishallenfundamente 18 und 19 einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFGNHDBI
+OZ:       02.05.0050
+Quantity: 5.100
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Fundamente und Wandscheiben
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFGNJCCI
+OZ:       02.05.0060
+Quantity: 1.000
+Unit:     psch
+
+Short Text:
+Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+
+Long Text:
+Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: Verbindung der Wandscheiben mit bestehenden Gleishallenfundamenten 17-19
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFGNLDKI
+OZ:       02.05.0070
+Quantity: 3.000
+Unit:     St
+
+Short Text:
+Hydraulische Hebetechnik
+
+Long Text:
+Bereitstellung, Anlieferung, Montage und betriebsbereite Einrichtung sowie Demontage von hydraulischen Pressen/Hebezylindern einschließlich aller erforderlichen Pumpen (manuell oder elektrisch), Leitungen, Druckmess- und Sicherheitseinrichtungen zum kontrollierten, temporären Anheben eines Gleishallenfundamentes. Mindesttragkraft = 5000kN
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFGNNDHI
+OZ:       02.05.0080
+Quantity: 1.000
+Unit:     psch
+
+Short Text:
+Ausführungsplanung u. Statik f. Hebetechnik
+
+Long Text:
+Alle für die Hebetechnik der Vorposition notwendigen Ausführungszeichnungen und Statischen Unterlagen einschl. Werkstattzeichnungen erstellen. Unterlagen 1* digital, 5 * in Papierform zur Prüfung liefern, Prüfungsanmerkungen einarbeiten, nach Gleichstellung 1* digital, 1 Original und 4 Kopien an AG liefern. Digitale Unterlagen im Format PDF/A-1b (Level B) gemäß ISO 19005-1, Papierformate gemäß DIN-Norm 476 bzw. EN ISO 216.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPIBOMI
+OZ:       02.06.0010
+Quantity: 900.000
+Unit:     m2
+
+Short Text:
+Ortbeton Sauberkeitsschicht MLV-MBR_01120010
+
+Long Text:
+Sauberkeitsschicht aus Ortbeton, Untergrund horizontal, obere Betonfläche horizontal, als unbewehrter Beton, Normalbeton C 12/15, X0 , Dicke 0,10 m , Oberfläche eben abziehen.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPIEDHA
+OZ:       02.06.0020
+Quantity: 593.000
+Unit:     m3
+
+Short Text:
+Fundamentplatte aus Stahlbeton MLV-MBR_01120030
+
+Long Text:
+Fundamentplatte Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Bauteil: 'Sohle für (>Postpaketkammer<) ' einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPIGGOI
+OZ:       02.06.0030
+Quantity: 20.000
+Unit:     m3
+
+Short Text:
+Zulage für Aufdickungen der Fundamentplatte
+
+Long Text:
+Zulage zu vorbeschriebener Position für alle Erschwernisse bei Ausführung der Aufdickungen bei der Fundamentplatte. Bauteil: Fundamentplatte in der PPK
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPIIGBI
+OZ:       02.06.0040
+Quantity: 150.000
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Fundamentplatte
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Fundamentplatte
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPIKFBI
+OZ:       02.06.0050
+Quantity: 1.000
+Unit:     psch
+
+Short Text:
+Zulage für Auswechslungen bei Bewehrung für Hebungsinjektionen
+
+Long Text:
+Zulage zur vorbeschriebenen Position für alle Erschwernisse bei Auswechslungen der Bewehrung in den Bereichen, in denen die zukünftigen Hebungsinjektionen durchgeführt werden. Bauteil: Fundamentplatte in der PPK um die Gleishallenfundamente.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPIMFAI
+OZ:       02.06.0060
+Quantity: 23.000
+Unit:     m3
+
+Short Text:
+Ortbeton Stützen und Wände
+
+Long Text:
+Ortbeton Stützen und Wände als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stützen und Wände der Postpaketkammer einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPIOIPI
+OZ:       02.06.0070
+Quantity: 14.000
+Unit:     m3
+
+Short Text:
+Aufbeton bestehende westliche Außenwand
+
+Long Text:
+Ortbeton Stützen und Wände als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stützen und Wände der Postpaketkammer einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPDAMEA
+OZ:       02.06.0080
+Quantity: 5.000
+Unit:     m3
+
+Short Text:
+Ergänzungsbeton zwischen der Decke
+
+Long Text:
+Ergänzungsbeton aus als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: zwischen der bestehenden Decke unter dem Gleis 24 und der neuen Decke vom Bahnsteig 24/25 einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPDDABI
+OZ:       02.06.0090
+Quantity: 9.200
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Stützen und Wände
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Stützen und Wände PPK
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPDEPCI
+OZ:       02.06.0100
+Quantity: 1.000
+Unit:     t
+
+Short Text:
+Zulage für Einbohren der Stecker
+
+Long Text:
+Zulage zu vorbeschriebener Betonstabstahl-Position für Ausführung der horizontalen und vertikalen Bewehrung als Bohrstecker in den bestehenden Bauteilen. Bauteil: neue Wand- und Deckenbereiche bei der westlichen Außenwand im Bereich des Zufahrtstunnels zur PPK und unter der neuen Decke unter dem Bahnsteig 24/25
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPDGPKI
+OZ:       02.06.0110
+Quantity: 14.000
+Unit:     m3
+
+Short Text:
+Diagonale Aussteifungen aus Ortbeton
+
+Long Text:
+Diagonale Aussteifungen als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Aussteifungen in Längs- und Querrichtung einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPDJDII
+OZ:       02.06.0120
+Quantity: 3.400
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Aussteifungen
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Aussteifungen in Längs- und Querrichtung
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPDLCKI
+OZ:       02.06.0130
+Quantity: 1.000
+Unit:     psch
+
+Short Text:
+Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+
+Long Text:
+Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: alle Bauteile
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHEAAAA
+OZ:       02.07.0010
+Quantity: 301.000
+Unit:     m3
+
+Short Text:
+Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 1
+
+Long Text:
+Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHECAGI
+OZ:       02.07.0020
+Quantity: 76.000
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 1
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHGKLPA
+OZ:       02.07.0030
+Quantity: 1.000
+Unit:     psch
+
+Short Text:
+Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+
+Long Text:
+Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für das nachträgliche Verschließen der bauzeitlichen Fluchttreppenöffnung
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHEGHKI
+OZ:       02.07.0040
+Quantity: 148.000
+Unit:     m3
+
+Short Text:
+Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 2
+
+Long Text:
+Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 2 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHEINAI
+OZ:       02.07.0050
+Quantity: 37.000
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 2
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 2 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHEKMLI
+OZ:       02.07.0060
+Quantity: 17.000
+Unit:     m3
+
+Short Text:
+Stahlbetonplatte als feste Fahrbahn unter Gleis 25 Bereich 2
+
+Long Text:
+Stahlbetonplatte, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stahlbetonplatte mit Hochzug unter Gleis 25 im Bereich 2 als feste Fahrbahn für den Prellbock einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHENBMI
+OZ:       02.07.0070
+Quantity: 4.300
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für feste Fahrbahn unter Gleis 25 Bereich 2
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Stahlbetonplatte unter Gleis 25 Bereich 2 als feste Fahrbahn für den Prellbock
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIFHEPBJA
+OZ:       02.07.0080
+Quantity: 5.000
+Unit:     St
+
+Short Text:
+Zulage für Einbau Telleranker
+
+Long Text:
+Zulage zu vorbeschriebener Betonstabstahl-Position für die Lieferung und Einbau der Telleranker gemäß Ril 804.5601, 6.1. Bauteil: Anbindung der neuen Stahlbetonplatte unter der Prellbockkonstruktion an die darunterliegende Decke unter dem Gleis 25.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEICBBEI
+OZ:       02.07.0090
+Quantity: 57.000
+Unit:     m3
+
+Short Text:
+Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Bstg. 24/25 Bereich 1
+
+Long Text:
+Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEICDGKI
+OZ:       02.07.0100
+Quantity: 14.200
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 1
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEICFGJI
+OZ:       02.07.0110
+Quantity: 36.000
+Unit:     m3
+
+Short Text:
+Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Bstg. 24/25 Bereich 2
+
+Long Text:
+Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 im Bereich 2 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzüge stirnseitig einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEICHMAI
+OZ:       02.07.0120
+Quantity: 8.900
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 2
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 2 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzüge stirnseitig
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEICJLDI
+OZ:       02.07.0130
+Quantity: 125.000
+Unit:     m3
+
+Short Text:
+Rahmendecke aus Stahlbeton MLV-MBR_01120060 Höhensprung mit Auskragung Bereich 1
+
+Long Text:
+Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 1 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEICMAII
+OZ:       02.07.0140
+Quantity: 31.000
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 1
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 1
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEICNPOI
+OZ:       02.07.0150
+Quantity: 111.000
+Unit:     m3
+
+Short Text:
+Rahmendecke aus Stahlbeton MLV-MBR_01120060 Höhensprung mit Auskragung Bereich 2
+
+Long Text:
+Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 2 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPJAGAA
+OZ:       02.07.0160
+Quantity: 28.000
+Unit:     t
+
+Short Text:
+Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 2
+
+Long Text:
+Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 2
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPJCEOI
+OZ:       02.07.0170
+Quantity: 1.000
+Unit:     psch
+
+Short Text:
+Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+
+Long Text:
+Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für den Höhensprung mit Auskragung
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+GAEB ID:  AAAAAAABIEPJEFPI
+OZ:       02.07.0180
+Quantity: 105.000
+Unit:     m
+
+Short Text:
+Spaltverschluss
+
+Long Text:
+Herstellen einer Blechkonstruktion aus verzinktem Stahlblech zur temporären Abdeckung eines linearen Spaltes. Verschluss der Öffnung zwischen der neuen Decke der PPK und der bestehenden Gleisbrücke v. Gleis 24.
+--------------------------------------------------------------------------------
+

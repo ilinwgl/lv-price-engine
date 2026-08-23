@@ -1,0 +1,510 @@
+--------------------------------------------------------------------------------
+ID:            1
+Code:          Beton C8/10
+Description:   Beton C8/10-X0 Sauberkeitsschicht
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C8/10-X0 Sauberkeitsschicht
+
+Commodity Prices:
+  ID: 1, Price: 100.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 1, Type: Estimation, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 2, Type: DWTMRate, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            2
+Code:          Beton C10
+Description:   Beton C8/10-X0
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C8/10-X0
+
+Commodity Prices:
+  ID: 2, Price: 95.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 3, Type: Estimation, Price: 95.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 4, Type: DWTMRate, Price: 95.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            3
+Code:          Beton C12/15
+Description:   Beton C12/15-X0 Sauberkeitsschicht
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0 Sauberkeitsschicht
+
+Commodity Prices:
+  ID: 3, Price: 103.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 5, Type: Estimation, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 6, Type: DWTMRate, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            4
+Code:          Beton C15
+Description:   Beton C12/15-X0
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
+
+Commodity Prices:
+  ID: 4, Price: 98.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 7, Type: Estimation, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 8, Type: DWTMRate, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            5
+Code:          Beton C30
+Description:   Beton C 25/30, XC4, XD1, XF2, WA
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, WA
+
+Commodity Prices:
+  ID: 5, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 9, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 10, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            6
+Code:          Beton C30 XA1
+Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
+
+Commodity Prices:
+  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            7
+Code:          Beton C37 XA1
+Description:   Beton C 30/37, XC3, XF1, XA1, W0
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA1, W0
+
+Commodity Prices:
+  ID: 7, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 13, Type: Estimation, Price: 164.9100 EUR, Factor: 1.2700, Fixed: False
+  ID: 14, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            8
+Code:          Beton C37 XA2
+Description:   Beton C 30/37, XC3, XF1, XA2, W0
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA2, W0
+
+Commodity Prices:
+  ID: 8, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 15, Type: Estimation, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 16, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            9
+Code:          Beton C37 XD2
+Description:   Beton C 30/37, XC2, XD2, WA
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC2, XD2, WA
+
+Commodity Prices:
+  ID: 9, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 17, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 18, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            10
+Code:          Beton C37 XF1
+Description:   Beton C30/37, XC4, XF1,
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C30/37, XC4, XF1,
+
+Commodity Prices:
+  ID: 10, Price: 133.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 19, Type: Estimation, Price: 133.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 20, Type: DWTMRate, Price: 133.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            11
+Code:          Beton C37 XF2
+Description:   Beton C30/37, XC2, XF2, XD1, WF
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C30/37, XC2, XF2, XD1, WF
+
+Commodity Prices:
+  ID: 11, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 21, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 22, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            12
+Code:          Beton C37 XF4
+Description:   Beton C 30/37, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC4, XF4, XD2, XA2, WF
+
+Commodity Prices:
+  ID: 12, Price: 133.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 23, Type: Estimation, Price: 133.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 24, Type: DWTMRate, Price: 133.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            13
+Code:          Beton C45 (XM2)
+Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+
+Commodity Prices:
+  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            14
+Code:          Beton C45 WU
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            15
+Code:          Beton C45 XC4
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            16
+Code:          Beton C45 XD1
+Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
+
+Commodity Prices:
+  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            17
+Code:          62000151
+Description:   Beton C12/15-X0
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
+
+Commodity Prices:
+  ID: 17, Price: 85.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 33, Type: Estimation, Price: 85.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 34, Type: DWTMRate, Price: 85.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            18
+Code:          62000152
+Description:   None
+Unit:          None
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton
+
+Commodity Prices:
+  ID: 18, Price: 0.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 35, Type: Estimation, Price: 0.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 36, Type: DWTMRate, Price: 0.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            19
+Code:          62000161
+Description:   Beton C12/15-X0
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
+
+Commodity Prices:
+  ID: 19, Price: 85.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 37, Type: Estimation, Price: 85.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 38, Type: DWTMRate, Price: 85.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            20
+Code:          62000162
+Description:   None
+Unit:          None
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton
+
+Commodity Prices:
+  ID: 20, Price: 0.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 39, Type: Estimation, Price: 0.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 40, Type: DWTMRate, Price: 0.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            21
+Code:          620161
+Description:   Prüfkosten IG-Beton
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Betonlabor / Überwachung / Betonprüfungen | Prüfkosten IG-Beton
+
+Commodity Prices:
+  ID: 21, Price: 4.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 41, Type: Estimation, Price: 4.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 42, Type: DWTMRate, Price: 4.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            22
+Code:          62000181
+Description:   Zul. Prüfkosten LP-Beton
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Betonlabor / Überwachung / Betonprüfungen | Zul. Prüfkosten LP-Beton
+
+Commodity Prices:
+  ID: 22, Price: 15.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 43, Type: Estimation, Price: 15.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 44, Type: DWTMRate, Price: 15.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            23
+Code:          620171
+Description:   Zulage Beton Energie /CO²
+Unit:          m³
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage Beton Energie /CO²
+
+Commodity Prices:
+  ID: 23, Price: 3.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 45, Type: Estimation, Price: 3.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 46, Type: DWTMRate, Price: 3.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            24
+Code:          620172
+Description:   Zulage SV Beton
+Unit:          m3
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage SV Beton
+
+Commodity Prices:
+  ID: 24, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 47, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 48, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            25
+Code:          6210011
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            26
+Code:          6210012
+Description:   Abdstandhalter, Bindedraht, etc.
+Unit:          to
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
+
+Commodity Prices:
+  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            27
+Code:          B500B
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            28
+Code:          6210021
+Description:   Betonstahlmatte N141
+Unit:          m2
+Category Path: Stoffe | Bewehrung | Mattenstahl | Betonstahlmatte N141
+
+Commodity Prices:
+  ID: 28, Price: 14.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 55, Type: Estimation, Price: 12.0000 EUR, Factor: 0.8600, Fixed: False
+  ID: 56, Type: DWTMRate, Price: 14.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            29
+Code:          91010
+Description:   Sika-Schalöl/lt
+Unit:          lt
+Category Path: Stoffe | übrige Baustoffe | Bauchemie | Sonstiges | Sika-Schalöl/lt
+
+Commodity Prices:
+  ID: 29, Price: 1.1700 EUR, Discount: 0.0000, Freight: 0.0100, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 57, Type: Estimation, Price: 1.1800 EUR, Factor: 1.0000, Fixed: False
+  ID: 58, Type: DWTMRate, Price: 1.1800 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            30
+Code:          625100_117
+Description:   Diesel+Schmierstoffe Beton- und Stahlbetonarbeiten
+Unit:          l
+Category Path: Stoffe | Hilfs und Betriebstoffe | Energiebezüge Baust. | Diesel | Diesel | Diesel+Schmierstoffe Beton- und Stahlbetonarbeiten
+
+Commodity Prices:
+  ID: 30, Price: 1.7000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 59, Type: Estimation, Price: 1.7000 EUR, Factor: 1.0000, Fixed: False
+  ID: 60, Type: DWTMRate, Price: 1.7000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            31
+Code:          625110_127
+Description:   Elektr. Energie (Strom) Beton- und Stahlbetonarbeiten
+Unit:          kWh
+Category Path: Stoffe | Hilfs und Betriebstoffe | Strom | Elektr. Energie | Elektr. Energie (Strom) Beton- und Stahlbetonarbeiten
+
+Commodity Prices:
+  ID: 31, Price: 0.3000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 61, Type: Estimation, Price: 0.3000 EUR, Factor: 1.0000, Fixed: False
+  ID: 62, Type: DWTMRate, Price: 0.3000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            32
+Code:          625200_S
+Description:   Hilfsstoffe Schalung allgem.
+Unit:          EUR
+Category Path: Stoffe | Hilfs und Betriebstoffe | Hilfsstoffe Tiefbau | Hilfsstoffe und Diverses | Hilfsstoffe Schalung allgem.
+
+Commodity Prices:
+  ID: 32, Price: 1.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 63, Type: Estimation, Price: 1.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 64, Type: DWTMRate, Price: 1.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            33
+Code:          630100_17 02 170
+Description:   Schalung  Pos.07.02.0170- Oberhaupt-Einlaufbauwerk
+Unit:          psch
+Category Path: S-R-V | Schalung | Käufe RSV-Systeme incl. Reparaturen | Schalungen | Schalungen Schacht,Wand,Decken,Aufpreise | Schalung  - Oberhaupt-Einlaufbauwerk | Schalung  Pos.07.02.0170- Oberhaupt-Einlaufbauwerk
+
+Commodity Prices:
+  ID: 33, Price: 15167.8700 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 65, Type: Estimation, Price: 15167.8700 EUR, Factor: 1.0000, Fixed: False
+  ID: 66, Type: DWTMRate, Price: 15167.8700 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ID:            34
+Code:          02851
+Description:   Bet.-Pumpe Verschleiß + Energie
+Unit:          m³
+Category Path: Geräte | Fremdmieten / Leasing | Fremdmiete Betonpumpe | Bet.-Pumpe Verschleiß + Energie
+
+Commodity Prices:
+  ID: 34, Price: 18.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 67, Type: Estimation, Price: 18.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 68, Type: DWTMRate, Price: 18.0000 EUR, Factor: 1.0000, Fixed: False
+--------------------------------------------------------------------------------
+
