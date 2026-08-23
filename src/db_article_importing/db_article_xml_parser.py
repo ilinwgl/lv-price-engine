@@ -3,7 +3,7 @@ from datetime import date
 from decimal import Decimal
 from pathlib import Path
 
-from src.importing.models import (
+from src.db_article_importing.db_article_models import (
     ParsedArticleData,
     ParsedCommodity,
     ParsedCommodityGroup,

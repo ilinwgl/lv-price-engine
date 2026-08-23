@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from src.importing.xml_parser import ArticleXmlParser
+from src.db_article_importing.db_article_xml_parser import ArticleXmlParser
 
 
 def main():

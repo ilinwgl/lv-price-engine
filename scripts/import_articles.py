@@ -2,8 +2,8 @@ from pathlib import Path
 
 from src.database.connector import DBConnector
 from src.database.repository import DBRepository
-from src.importing.importer import ArticleImporter
-from src.importing.xml_parser import ArticleXmlParser
+from src.db_article_importing.db_article_importer import ArticleImporter
+from src.db_article_importing.db_article_xml_parser import ArticleXmlParser
 
 
 def main() -> None:

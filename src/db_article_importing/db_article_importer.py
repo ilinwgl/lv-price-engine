@@ -1,5 +1,6 @@
+from src.db_article_importing.models import ParsedArticleData
+
 from src.database.repository import DBRepository
-from src.importing.models import ParsedArticleData
 
 
 class ArticleImporter:

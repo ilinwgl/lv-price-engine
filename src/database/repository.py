@@ -1,7 +1,7 @@
 from psycopg import Connection
 
 from src.database.connector import DBConnector
-from src.importing.models import (
+from src.db_article_importing.db_article_models import (
     ParsedCommodity,
     ParsedCommodityGroup,
     ParsedCommodityPrice,
