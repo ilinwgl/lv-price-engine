@@ -41,30 +41,36 @@ def main() -> None:
         Path("./output/lv_positions.txt"),
     )
 
-    models_config = load_models_config()
+    model_config = load_models_config()
+    if model_config is None:
+        logger.warning("Not get model config")
+        return
 
-    for model_config in models_config:
-        model_name = model_config.get("name", "")
-        model_path = model_config.get("path", "")
+    model_config = model_config.get("model", {})
+    if not model_config:
+        logger.warning("Not get model config")
+        return
 
-        if not model_name or not model_path:
-            logger.warning("Not get model config")
-            continue
+    model_name = model_config.get("name", "")
+    model_path = model_config.get("path", "")
+    if not model_name or not model_path:
+        logger.warning("Not get model config")
+        return
 
-        logger.info(f"Model Name: {model_name}")
+    logger.info(f"Model Name: {model_name}")
 
-        model = SentenceTransformer(
-            model_name_or_path=model_path,
-            device=model_config.get("device", "cpu"),
-            trust_remote_code=model_config.get("trust_remote_code", False),
-        )
+    model = SentenceTransformer(
+        model_name_or_path=model_path,
+        device=model_config.get("device", "cpu"),
+        trust_remote_code=model_config.get("trust_remote_code", False),
+    )
 
-        embedding_model = EmbeddingModel(name=model_name, model=model)
-        match_pipeline = MatchPipeline(embedding_model, lv_positions, all_candidates)
-        match_results = match_pipeline.run()
-        ResultExporter.write_match_results(
-            match_results, Path(f"./output/match_results_{model_name}.txt")
-        )
+    embedding_model = EmbeddingModel(name=model_name, model=model)
+    match_pipeline = MatchPipeline(embedding_model, lv_positions, all_candidates)
+    match_results = match_pipeline.run()
+    ResultExporter.write_match_results(
+        match_results, Path(f"./output/match_results_{model_name}.txt")
+    )
 
 
 if __name__ == "__main__":

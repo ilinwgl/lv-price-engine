@@ -10,22 +10,7 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0325
-ID:            1
-Code:          Beton C8/10
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C8/10-X0 Sauberkeitsschicht
-Description:   Beton C8/10-X0 Sauberkeitsschicht
-Unit:          m³
-
-Commodity Prices:
-  ID: 1, Price: 100.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 1, Type: Estimation, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
-  ID: 2, Type: DWTMRate, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0325
+Score:         0.7943
 ID:            3
 Code:          Beton C12/15
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0 Sauberkeitsschicht
@@ -39,20 +24,35 @@ Estimate Prices:
   ID: 5, Type: Estimation, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
   ID: 6, Type: DWTMRate, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
-Rank:          3
-Score:         0.0289
-ID:            5
-Code:          Beton C30
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, WA
+Rank:          2
+Score:         0.7912
+ID:            1
+Code:          Beton C8/10
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C8/10-X0 Sauberkeitsschicht
+Description:   Beton C8/10-X0 Sauberkeitsschicht
 Unit:          m³
 
 Commodity Prices:
-  ID: 5, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 1, Price: 100.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 9, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 10, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 1, Type: Estimation, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 2, Type: DWTMRate, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6929
+ID:            4
+Code:          Beton C15
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
+Description:   Beton C12/15-X0
+Unit:          m³
+
+Commodity Prices:
+  ID: 4, Price: 98.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 7, Type: Estimation, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 8, Type: DWTMRate, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.05.0020
@@ -66,7 +66,7 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.7038
 ID:            8
 Code:          Beton C37 XA2
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA2, W0
@@ -81,7 +81,7 @@ Estimate Prices:
   ID: 16, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0323
+Score:         0.7036
 ID:            7
 Code:          Beton C37 XA1
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA1, W0
@@ -96,19 +96,19 @@ Estimate Prices:
   ID: 14, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0159
-ID:            6
-Code:          Beton C30 XA1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Score:         0.6928
+ID:            11
+Code:          Beton C37 XF2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C30/37, XC2, XF2, XD1, WF
+Description:   Beton C30/37, XC2, XF2, XD1, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 11, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 21, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 22, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.05.0030
@@ -122,7 +122,22 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0325
+Score:         0.6170
+ID:            11
+Code:          Beton C37 XF2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C30/37, XC2, XF2, XD1, WF
+Description:   Beton C30/37, XC2, XF2, XD1, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 11, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 21, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 22, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6164
 ID:            8
 Code:          Beton C37 XA2
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA2, W0
@@ -136,8 +151,8 @@ Estimate Prices:
   ID: 15, Type: Estimation, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
   ID: 16, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
-Rank:          2
-Score:         0.0323
+Rank:          3
+Score:         0.6154
 ID:            7
 Code:          Beton C37 XA1
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA1, W0
@@ -150,21 +165,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 13, Type: Estimation, Price: 164.9100 EUR, Factor: 1.2700, Fixed: False
   ID: 14, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0161
-ID:            19
-Code:          62000161
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
-Description:   Beton C12/15-X0
-Unit:          m³
-
-Commodity Prices:
-  ID: 19, Price: 85.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 37, Type: Estimation, Price: 85.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 38, Type: DWTMRate, Price: 85.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.05.0040
@@ -183,12 +183,12 @@ Quantity:    5.100
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Fundamente und Wandscheiben
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6903
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -201,9 +201,20 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.05.0060
+GAEB ID:     AAAAAAABIFGNJCCI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: Verbindung der Wandscheiben mit bestehenden Gleishallenfundamenten 17-19
+Match Status: review_required
+
+Matched Candidates:
 ----------------------------------------
-Rank:          2
-Score:         0.0323
+Rank:          1
+Score:         0.6141
 ID:            26
 Code:          6210012
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
@@ -217,34 +228,8 @@ Estimate Prices:
   ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
   ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
-Rank:          3
-Score:         0.0315
-ID:            28
-Code:          6210021
-Category Path: Stoffe | Bewehrung | Mattenstahl | Betonstahlmatte N141
-Description:   Betonstahlmatte N141
-Unit:          m2
-
-Commodity Prices:
-  ID: 28, Price: 14.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 55, Type: Estimation, Price: 12.0000 EUR, Factor: 0.8600, Fixed: False
-  ID: 56, Type: DWTMRate, Price: 14.0000 EUR, Factor: 1.0000, Fixed: False
-
-================================================================================
-OZ:          02.05.0060
-GAEB ID:     AAAAAAABIFGNJCCI
-Quantity:    1.000
-Unit:        psch
-Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
-Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: Verbindung der Wandscheiben mit bestehenden Gleishallenfundamenten 17-19
-Match Status: auto_matched
-
-Matched Candidates:
-----------------------------------------
-Rank:          1
-Score:         0.0328
+Rank:          2
+Score:         0.6133
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -257,6 +242,21 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5752
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.05.0070
@@ -290,7 +290,7 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.8063
 ID:            3
 Code:          Beton C12/15
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0 Sauberkeitsschicht
@@ -305,7 +305,7 @@ Estimate Prices:
   ID: 6, Type: DWTMRate, Price: 103.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0323
+Score:         0.7979
 ID:            1
 Code:          Beton C8/10
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C8/10-X0 Sauberkeitsschicht
@@ -320,19 +320,19 @@ Estimate Prices:
   ID: 2, Type: DWTMRate, Price: 100.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0291
-ID:            5
-Code:          Beton C30
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, WA
+Score:         0.7068
+ID:            4
+Code:          Beton C15
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Füll- und Unbewehrte Beton | Beton C12/15-X0
+Description:   Beton C12/15-X0
 Unit:          m³
 
 Commodity Prices:
-  ID: 5, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 4, Price: 98.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 9, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 10, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 7, Type: Estimation, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 8, Type: DWTMRate, Price: 98.7900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0020
@@ -346,7 +346,37 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0323
+Score:         0.7051
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.7000
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.6807
 ID:            16
 Code:          Beton C45 XD1
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
@@ -359,36 +389,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
   ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0310
-ID:            13
-Code:          Beton C45 (XM2)
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
-Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
-Unit:          m³
-
-Commodity Prices:
-  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
-  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0308
-ID:            6
-Code:          Beton C30 XA1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Unit:          m³
-
-Commodity Prices:
-  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0030
@@ -397,12 +397,12 @@ Quantity:    20.000
 Unit:        m3
 Short Text:  Zulage für Aufdickungen der Fundamentplatte
 Long Text:   Zulage zu vorbeschriebener Position für alle Erschwernisse bei Ausführung der Aufdickungen bei der Fundamentplatte. Bauteil: Fundamentplatte in der PPK
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6990
 ID:            24
 Code:          620172
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage SV Beton
@@ -415,36 +415,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 47, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
   ID: 48, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            23
-Code:          620171
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage Beton Energie /CO²
-Description:   Zulage Beton Energie /CO²
-Unit:          m³
-
-Commodity Prices:
-  ID: 23, Price: 3.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 45, Type: Estimation, Price: 3.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 46, Type: DWTMRate, Price: 3.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0290
-ID:            28
-Code:          6210021
-Category Path: Stoffe | Bewehrung | Mattenstahl | Betonstahlmatte N141
-Description:   Betonstahlmatte N141
-Unit:          m2
-
-Commodity Prices:
-  ID: 28, Price: 14.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 55, Type: Estimation, Price: 12.0000 EUR, Factor: 0.8600, Fixed: False
-  ID: 56, Type: DWTMRate, Price: 14.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0040
@@ -458,7 +428,7 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6592
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -473,22 +443,7 @@ Estimate Prices:
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0320
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0318
+Score:         0.6493
 ID:            28
 Code:          6210021
 Category Path: Stoffe | Bewehrung | Mattenstahl | Betonstahlmatte N141
@@ -501,50 +456,9 @@ Commodity Prices:
 Estimate Prices:
   ID: 55, Type: Estimation, Price: 12.0000 EUR, Factor: 0.8600, Fixed: False
   ID: 56, Type: DWTMRate, Price: 14.0000 EUR, Factor: 1.0000, Fixed: False
-
-================================================================================
-OZ:          02.06.0050
-GAEB ID:     AAAAAAABIEPIKFBI
-Quantity:    1.000
-Unit:        psch
-Short Text:  Zulage für Auswechslungen bei Bewehrung für Hebungsinjektionen
-Long Text:   Zulage zur vorbeschriebenen Position für alle Erschwernisse bei Auswechslungen der Bewehrung in den Bereichen, in denen die zukünftigen Hebungsinjektionen durchgeführt werden. Bauteil: Fundamentplatte in der PPK um die Gleishallenfundamente.
-Match Status: review_required
-
-Matched Candidates:
-----------------------------------------
-Rank:          1
-Score:         0.0325
-ID:            24
-Code:          620172
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage SV Beton
-Description:   Zulage SV Beton
-Unit:          m3
-
-Commodity Prices:
-  ID: 24, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 47, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 48, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0318
-ID:            25
-Code:          6210011
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Unit:          to
-
-Commodity Prices:
-  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0315
+Score:         0.6181
 ID:            26
 Code:          6210012
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
@@ -557,6 +471,32 @@ Commodity Prices:
 Estimate Prices:
   ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
   ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0050
+GAEB ID:     AAAAAAABIEPIKFBI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Zulage für Auswechslungen bei Bewehrung für Hebungsinjektionen
+Long Text:   Zulage zur vorbeschriebenen Position für alle Erschwernisse bei Auswechslungen der Bewehrung in den Bereichen, in denen die zukünftigen Hebungsinjektionen durchgeführt werden. Bauteil: Fundamentplatte in der PPK um die Gleishallenfundamente.
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6031
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0060
@@ -570,49 +510,49 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0313
-ID:            16
-Code:          Beton C45 XD1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
+Score:         0.6855
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0310
-ID:            6
-Code:          Beton C30 XA1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Score:         0.6832
+ID:            8
+Code:          Beton C37 XA2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC3, XF1, XA2, W0
+Description:   Beton C 30/37, XC3, XF1, XA2, W0
 Unit:          m³
 
 Commodity Prices:
-  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 8, Price: 129.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 15, Type: Estimation, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 16, Type: DWTMRate, Price: 129.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0310
-ID:            5
-Code:          Beton C30
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, WA
+Score:         0.6812
+ID:            13
+Code:          Beton C45 (XM2)
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
 Unit:          m³
 
 Commodity Prices:
-  ID: 5, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 9, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 10, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0070
@@ -626,49 +566,49 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0323
-ID:            16
-Code:          Beton C45 XD1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
+Score:         0.6967
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0310
-ID:            5
-Code:          Beton C30
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, WA
+Score:         0.6962
+ID:            13
+Code:          Beton C45 (XM2)
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
 Unit:          m³
 
 Commodity Prices:
-  ID: 5, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 9, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 10, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0308
-ID:            6
-Code:          Beton C30 XA1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Score:         0.6894
+ID:            9
+Code:          Beton C37 XD2
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 | Beton C 30/37, XC2, XD2, WA
+Description:   Beton C 30/37, XC2, XD2, WA
 Unit:          m³
 
 Commodity Prices:
-  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 9, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 17, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 18, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0080
@@ -682,7 +622,22 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0318
+Score:         0.6513
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6469
 ID:            6
 Code:          Beton C30 XA1
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
@@ -696,35 +651,20 @@ Estimate Prices:
   ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
   ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
-Rank:          2
-Score:         0.0313
-ID:            16
-Code:          Beton C45 XD1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Unit:          m³
-
-Commodity Prices:
-  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
 Rank:          3
-Score:         0.0301
-ID:            13
-Code:          Beton C45 (XM2)
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
-Description:   Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+Score:         0.6464
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 13, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 25, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
-  ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0090
@@ -733,12 +673,12 @@ Quantity:    9.200
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser für Stützen und Wände
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Stützen und Wände PPK
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6908
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -751,36 +691,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0315
-ID:            28
-Code:          6210021
-Category Path: Stoffe | Bewehrung | Mattenstahl | Betonstahlmatte N141
-Description:   Betonstahlmatte N141
-Unit:          m2
-
-Commodity Prices:
-  ID: 28, Price: 14.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 55, Type: Estimation, Price: 12.0000 EUR, Factor: 0.8600, Fixed: False
-  ID: 56, Type: DWTMRate, Price: 14.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0100
@@ -789,54 +699,24 @@ Quantity:    1.000
 Unit:        t
 Short Text:  Zulage für Einbohren der Stecker
 Long Text:   Zulage zu vorbeschriebener Betonstabstahl-Position für Ausführung der horizontalen und vertikalen Bewehrung als Bohrstecker in den bestehenden Bauteilen. Bauteil: neue Wand- und Deckenbereiche bei der westlichen Außenwand im Bereich des Zufahrtstunnels zur PPK und unter der neuen Decke unter dem Bahnsteig 24/25
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0323
-ID:            24
-Code:          620172
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage SV Beton
-Description:   Zulage SV Beton
-Unit:          m3
-
-Commodity Prices:
-  ID: 24, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 47, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 48, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0313
-ID:            23
-Code:          620171
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Zuschläge Lieferbeton, Ortbeton | Zulage Beton Energie /CO²
-Description:   Zulage Beton Energie /CO²
-Unit:          m³
-
-Commodity Prices:
-  ID: 23, Price: 3.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 45, Type: Estimation, Price: 3.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 46, Type: DWTMRate, Price: 3.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0313
-ID:            27
-Code:          B500B
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
-Description:   Bewehrung BSt 500 S // ATG
+Score:         0.6564
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
 Unit:          to
 
 Commodity Prices:
-  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
-  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.06.0110
@@ -850,175 +730,37 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0323
-ID:            16
-Code:          Beton C45 XD1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
+Score:         0.6386
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0308
-ID:            6
-Code:          Beton C30 XA1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Score:         0.6384
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0299
-ID:            5
-Code:          Beton C30
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, WA
-Unit:          m³
-
-Commodity Prices:
-  ID: 5, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 9, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 10, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-
-================================================================================
-OZ:          02.06.0120
-GAEB ID:     AAAAAAABIEPDJDII
-Quantity:    3.400
-Unit:        t
-Short Text:  Betonstabstahl B500B alle Durchmesser für Aussteifungen
-Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Aussteifungen in Längs- und Querrichtung
-Match Status: review_required
-
-Matched Candidates:
-----------------------------------------
-Rank:          1
-Score:         0.0328
-ID:            27
-Code:          B500B
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
-Description:   Bewehrung BSt 500 S // ATG
-Unit:          to
-
-Commodity Prices:
-  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
-  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0317
-ID:            25
-Code:          6210011
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Unit:          to
-
-Commodity Prices:
-  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-
-================================================================================
-OZ:          02.06.0130
-GAEB ID:     AAAAAAABIEPDLCKI
-Quantity:    1.000
-Unit:        psch
-Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
-Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: alle Bauteile
-Match Status: auto_matched
-
-Matched Candidates:
-----------------------------------------
-Rank:          1
-Score:         0.0328
-ID:            27
-Code:          B500B
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
-Description:   Bewehrung BSt 500 S // ATG
-Unit:          to
-
-Commodity Prices:
-  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
-  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-
-================================================================================
-OZ:          02.07.0010
-GAEB ID:     AAAAAAABIFHEAAAA
-Quantity:    301.000
-Unit:        m3
-Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 1
-Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
-Match Status: review_required
-
-Matched Candidates:
-----------------------------------------
-Rank:          1
-Score:         0.0325
-ID:            16
-Code:          Beton C45 XD1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Unit:          m³
-
-Commodity Prices:
-  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0320
-ID:            6
-Code:          Beton C30 XA1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Unit:          m³
-
-Commodity Prices:
-  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0305
+Score:         0.6297
 ID:            13
 Code:          Beton C45 (XM2)
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
@@ -1033,18 +775,44 @@ Estimate Prices:
   ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
-OZ:          02.07.0020
-GAEB ID:     AAAAAAABIFHECAGI
-Quantity:    76.000
+OZ:          02.06.0120
+GAEB ID:     AAAAAAABIEPDJDII
+Quantity:    3.400
 Unit:        t
-Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 1
-Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
+Short Text:  Betonstabstahl B500B alle Durchmesser für Aussteifungen
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Aussteifungen in Längs- und Querrichtung
+Match Status: auto_matched
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6827
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.06.0130
+GAEB ID:     AAAAAAABIEPDLCKI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: alle Bauteile
 Match Status: review_required
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6581
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1059,7 +827,7 @@ Estimate Prices:
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0323
+Score:         0.6570
 ID:            26
 Code:          6210012
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
@@ -1074,7 +842,7 @@ Estimate Prices:
   ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0317
+Score:         0.6141
 ID:            25
 Code:          6210011
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
@@ -1089,18 +857,28 @@ Estimate Prices:
   ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
-OZ:          02.07.0030
-GAEB ID:     AAAAAAABIFHGKLPA
-Quantity:    1.000
-Unit:        psch
-Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
-Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für das nachträgliche Verschließen der bauzeitlichen Fluchttreppenöffnung
+OZ:          02.07.0010
+GAEB ID:     AAAAAAABIFHEAAAA
+Quantity:    301.000
+Unit:        m3
+Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 1
+Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Match Status: unmatched
+Candidates:   None
+
+================================================================================
+OZ:          02.07.0020
+GAEB ID:     AAAAAAABIFHECAGI
+Quantity:    76.000
+Unit:        t
+Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 1
+Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
 Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6363
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1113,6 +891,62 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0030
+GAEB ID:     AAAAAAABIFHGKLPA
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für das nachträgliche Verschließen der bauzeitlichen Fluchttreppenöffnung
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6305
+ID:            26
+Code:          6210012
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
+Description:   Abdstandhalter, Bindedraht, etc.
+Unit:          to
+
+Commodity Prices:
+  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6192
+ID:            27
+Code:          B500B
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
+Description:   Bewehrung BSt 500 S // ATG
+Unit:          to
+
+Commodity Prices:
+  ID: 27, Price: 720.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
+  ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5989
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0040
@@ -1131,12 +965,12 @@ Quantity:    37.000
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 2
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 2 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6347
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1149,36 +983,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0317
-ID:            25
-Code:          6210011
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Unit:          to
-
-Commodity Prices:
-  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0060
@@ -1192,7 +996,7 @@ Match Status: review_required
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0318
+Score:         0.6009
 ID:            13
 Code:          Beton C45 (XM2)
 Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
@@ -1207,34 +1011,34 @@ Estimate Prices:
   ID: 26, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          2
-Score:         0.0315
-ID:            16
-Code:          Beton C45 XD1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 35/45, XC4, XD1, XF2, XA1, WA
+Score:         0.6004
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 16, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 31, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 32, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
 Rank:          3
-Score:         0.0313
-ID:            6
-Code:          Beton C30 XA1
-Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
-Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Score:         0.5934
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
 Unit:          m³
 
 Commodity Prices:
-  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
 
 Estimate Prices:
-  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
-  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0070
@@ -1243,12 +1047,12 @@ Quantity:    4.300
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser für feste Fahrbahn unter Gleis 25 Bereich 2
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Stahlbetonplatte unter Gleis 25 Bereich 2 als feste Fahrbahn für den Prellbock
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6252
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1261,36 +1065,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0315
-ID:            28
-Code:          6210021
-Category Path: Stoffe | Bewehrung | Mattenstahl | Betonstahlmatte N141
-Description:   Betonstahlmatte N141
-Unit:          m2
-
-Commodity Prices:
-  ID: 28, Price: 14.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 55, Type: Estimation, Price: 12.0000 EUR, Factor: 0.8600, Fixed: False
-  ID: 56, Type: DWTMRate, Price: 14.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0080
@@ -1309,8 +1083,54 @@ Quantity:    57.000
 Unit:        m3
 Short Text:  Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Bstg. 24/25 Bereich 1
 Long Text:   Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
-Match Status: unmatched
-Candidates:   None
+Match Status: review_required
+
+Matched Candidates:
+----------------------------------------
+Rank:          1
+Score:         0.6050
+ID:            14
+Code:          Beton C45 WU
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 14, Price: 140.7900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 27, Type: Estimation, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+  ID: 28, Type: DWTMRate, Price: 140.7900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          2
+Score:         0.6004
+ID:            15
+Code:          Beton C45 XC4
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C35/45 | Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Description:   Beton C 35/45, XC4, XF4, XD2, XA2, WF
+Unit:          m³
+
+Commodity Prices:
+  ID: 15, Price: 132.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 29, Type: Estimation, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 30, Type: DWTMRate, Price: 132.2900 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5967
+ID:            6
+Code:          Beton C30 XA1
+Category Path: Stoffe | Beton | Lieferbeton, Ortbeton | Beton C25/30 | Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Description:   Beton C 25/30, XC4, XD1, XF2, XA1, WA
+Unit:          m³
+
+Commodity Prices:
+  ID: 6, Price: 135.2900 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 11, Type: Estimation, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
+  ID: 12, Type: DWTMRate, Price: 135.2900 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0100
@@ -1319,12 +1139,12 @@ Quantity:    14.200
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 1
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6261
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1337,36 +1157,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0317
-ID:            25
-Code:          6210011
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Unit:          to
-
-Commodity Prices:
-  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0110
@@ -1385,12 +1175,12 @@ Quantity:    8.900
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 2
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 2 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzüge stirnseitig
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6282
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1403,36 +1193,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0317
-ID:            25
-Code:          6210011
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Unit:          to
-
-Commodity Prices:
-  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0130
@@ -1451,12 +1211,12 @@ Quantity:    31.000
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 1
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 1
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6356
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1469,36 +1229,6 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          2
-Score:         0.0323
-ID:            26
-Code:          6210012
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
-Description:   Abdstandhalter, Bindedraht, etc.
-Unit:          to
-
-Commodity Prices:
-  ID: 26, Price: 0.0100 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-  ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
-----------------------------------------
-Rank:          3
-Score:         0.0317
-ID:            25
-Code:          6210011
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Unit:          to
-
-Commodity Prices:
-  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0150
@@ -1517,12 +1247,12 @@ Quantity:    28.000
 Unit:        t
 Short Text:  Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 2
 Long Text:   Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 2
-Match Status: review_required
+Match Status: auto_matched
 
 Matched Candidates:
 ----------------------------------------
 Rank:          1
-Score:         0.0328
+Score:         0.6320
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1535,9 +1265,20 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+
+================================================================================
+OZ:          02.07.0170
+GAEB ID:     AAAAAAABIEPJCEOI
+Quantity:    1.000
+Unit:        psch
+Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für den Höhensprung mit Auskragung
+Match Status: review_required
+
+Matched Candidates:
 ----------------------------------------
-Rank:          2
-Score:         0.0323
+Rank:          1
+Score:         0.6141
 ID:            26
 Code:          6210012
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Abdstandhalter, Bindedraht, etc.
@@ -1551,34 +1292,8 @@ Estimate Prices:
   ID: 51, Type: Estimation, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
   ID: 52, Type: DWTMRate, Price: 0.0100 EUR, Factor: 1.0000, Fixed: False
 ----------------------------------------
-Rank:          3
-Score:         0.0317
-ID:            25
-Code:          6210011
-Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
-Unit:          to
-
-Commodity Prices:
-  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
-
-Estimate Prices:
-  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
-
-================================================================================
-OZ:          02.07.0170
-GAEB ID:     AAAAAAABIEPJCEOI
-Quantity:    1.000
-Unit:        psch
-Short Text:  Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
-Long Text:   Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für den Höhensprung mit Auskragung
-Match Status: auto_matched
-
-Matched Candidates:
-----------------------------------------
-Rank:          1
-Score:         0.0328
+Rank:          2
+Score:         0.6097
 ID:            27
 Code:          B500B
 Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Bewehrung BSt 500 S // ATG
@@ -1591,6 +1306,21 @@ Commodity Prices:
 Estimate Prices:
   ID: 53, Type: Estimation, Price: 730.0000 EUR, Factor: 1.0100, Fixed: False
   ID: 54, Type: DWTMRate, Price: 720.0000 EUR, Factor: 1.0000, Fixed: False
+----------------------------------------
+Rank:          3
+Score:         0.5842
+ID:            25
+Code:          6210011
+Category Path: Stoffe | Bewehrung | Bewehrung Stabstahl | Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Description:   Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+Unit:          to
+
+Commodity Prices:
+  ID: 25, Price: 30.0000 EUR, Discount: 0.0000, Freight: 0.0000, Misc: 0.0000, Wastage: 0.0000
+
+Estimate Prices:
+  ID: 49, Type: Estimation, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
+  ID: 50, Type: DWTMRate, Price: 30.0000 EUR, Factor: 1.0000, Fixed: False
 
 ================================================================================
 OZ:          02.07.0180

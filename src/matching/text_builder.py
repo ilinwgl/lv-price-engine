@@ -12,7 +12,10 @@ class TextBuilder:
     @staticmethod
     def create_candidate_text(candidate: CommodityCandidate) -> str:
         return TextBuilder._join_text_parts(
-            candidate.category_path, candidate.description, f"Unit: {candidate.unit}"
+            candidate.category_path,
+            candidate.code,
+            candidate.description,
+            f"Unit: {candidate.unit}",
         )
 
     @staticmethod
