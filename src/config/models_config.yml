@@ -1,4 +1,4 @@
-model:
+embedder:
   name: bge-m3
   path: ./models/embedding/bge-m3
   device: cuda
@@ -9,7 +9,8 @@ model:
 #   device: cuda
 #   trust_remote_code: false
 
-# - name: jina-embeddings-v2-base-de
-#   path: ./models/embedding/jina-embeddings-v2-base-de
-#   device: cuda
-#   trust_remote_code: true
+reranker:
+  name: bge-reranker-v2-m3
+  path: ./models/reranker/bge-reranker-v2-m3
+  device: cuda
+  trust_remote_code: false

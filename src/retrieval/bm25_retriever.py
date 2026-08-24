@@ -1,36 +1,46 @@
-import logging
 import re
 
 from rank_bm25 import BM25Okapi
 
 from src.models.commodity_candidate import CommodityCandidate
 from src.models.match_result import MatchCandidate
+from src.retrieval.base_retriever import BaseRetriever
 
-logger = logging.getLogger(__name__)
 
-
-class BM25Matcher:
-    @staticmethod
-    def match(
-        lv_text: str,
-        candidate_texts: list[str],
+class BM25Retriever(BaseRetriever):
+    def __init__(
+        self,
         candidates: list[CommodityCandidate],
-        top_k: int = 5,
-    ) -> list[MatchCandidate]:
+        candidate_texts: list[str],
+    ) -> None:
         if len(candidates) != len(candidate_texts):
             raise ValueError(
                 "Number of candidates must match number of candidate texts."
             )
 
-        tokenized_candidates = [BM25Matcher._tokenize(text) for text in candidate_texts]
+        self._candidates = candidates
 
-        tokenized_lv_text = BM25Matcher._tokenize(lv_text)
+        tokenized_candidates = [self._tokenize(text) for text in candidate_texts]
 
-        bm25 = BM25Okapi(tokenized_candidates)
+        self._bm25 = BM25Okapi(tokenized_candidates)
 
-        scores = bm25.get_scores(tokenized_lv_text)
+    def retrieve(
+        self,
+        query_text: str,
+        top_k: int,
+    ) -> list[MatchCandidate]:
+        if not self._candidates:
+            return []
 
-        top_k = min(top_k, len(candidates))
+        tokenized_query = self._tokenize(query_text)
+
+        scores = self._bm25.get_scores(tokenized_query)
+
+        top_k = min(
+            top_k,
+            len(self._candidates),
+        )
+
         top_indices = scores.argsort()[::-1][:top_k]
 
         results: list[MatchCandidate] = []
@@ -38,7 +48,7 @@ class BM25Matcher:
         for index in top_indices:
             results.append(
                 MatchCandidate(
-                    candidate=candidates[index],
+                    candidate=self._candidates[index],
                     score=float(scores[index]),
                 )
             )

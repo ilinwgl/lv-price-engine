@@ -8,11 +8,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def load_models_config() -> dict[str, Any]:
+def load_models_config() -> tuple[dict[str, Any], dict[str, Any]]:
     config_path = os.getenv("CONFIG_PATH")
 
     if not config_path:
-        raise ValueError("CONFIG_PATH is not set")
+        raise ValueError("CONFIG_PATH is not set.")
 
     config_path = Path(config_path)
 
@@ -22,4 +22,15 @@ def load_models_config() -> dict[str, Any]:
     with config_path.open("r", encoding="utf-8") as file:
         models_config = yaml.safe_load(file)
 
-    return models_config
+    if not isinstance(models_config, dict):
+        raise TypeError("Config file must contain a YAML mapping.")
+
+    embedder_config = models_config.get("embedder", {})
+    if not isinstance(embedder_config, dict) or not embedder_config:
+        raise ValueError("Embedder config is missing, empty, or invalid.")
+
+    reranker_config = models_config.get("reranker", {})
+    if not isinstance(reranker_config, dict) or not reranker_config:
+        raise ValueError("Reranker config is missing, empty, or invalid.")
+
+    return embedder_config, reranker_config

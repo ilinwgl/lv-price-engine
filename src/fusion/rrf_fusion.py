@@ -3,28 +3,26 @@ from collections import defaultdict
 from src.models.match_result import MatchCandidate
 
 
-class HybridMatcher:
+class RRFFusion:
     @staticmethod
     def fuse(
-        vector_candidates: list[MatchCandidate],
-        bm25_candidates: list[MatchCandidate],
+        candidate_lists: list[list[MatchCandidate]],
         top_k: int = 5,
         rrf_k: int = 60,
     ) -> list[MatchCandidate]:
         scores: dict[int, float] = defaultdict(float)
         candidates_by_id = {}
 
-        for rank, match in enumerate(vector_candidates, start=1):
-            candidate_id = match.candidate.id
+        for candidates in candidate_lists:
+            for rank, match_candidate in enumerate(
+                candidates,
+                start=1,
+            ):
+                candidate_id = match_candidate.candidate.id
 
-            scores[candidate_id] += 1 / (rrf_k + rank)
-            candidates_by_id[candidate_id] = match.candidate
+                scores[candidate_id] += 1 / (rrf_k + rank)
 
-        for rank, match in enumerate(bm25_candidates, start=1):
-            candidate_id = match.candidate.id
-
-            scores[candidate_id] += 1 / (rrf_k + rank)
-            candidates_by_id[candidate_id] = match.candidate
+                candidates_by_id[candidate_id] = match_candidate.candidate
 
         sorted_candidates = sorted(
             scores.items(),

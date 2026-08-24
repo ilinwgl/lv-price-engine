@@ -1,8 +1,6 @@
 import logging
 from pathlib import Path
 
-from sentence_transformers import SentenceTransformer
-
 from src.config.model_config_load import load_models_config
 from src.database.connector import DBConnector
 from src.database.repository import DBRepository
@@ -10,7 +8,7 @@ from src.exporter.result_exporter import ResultExporter
 from src.ingestion.gaeb_lv_loader import GAEBLVLoader
 from src.logging.logger_config import LoggerConfig
 from src.matching.match_pipeline import MatchPipeline
-from src.models.embedding_model import EmbeddingModel
+from src.models.model_loader import ModelLoader
 
 logger = logging.getLogger(__name__)
 
@@ -41,35 +39,34 @@ def main() -> None:
         Path("./output/lv_positions.txt"),
     )
 
-    model_config = load_models_config()
-    if model_config is None:
-        logger.warning("Not get model config")
-        return
+    embedder_config, reranker_config = load_models_config()
 
-    model_config = model_config.get("model", {})
-    if not model_config:
-        logger.warning("Not get model config")
-        return
-
-    model_name = model_config.get("name", "")
-    model_path = model_config.get("path", "")
-    if not model_name or not model_path:
-        logger.warning("Not get model config")
-        return
-
-    logger.info(f"Model Name: {model_name}")
-
-    model = SentenceTransformer(
-        model_name_or_path=model_path,
-        device=model_config.get("device", "cpu"),
-        trust_remote_code=model_config.get("trust_remote_code", False),
+    embedding_model = ModelLoader.load_embedder(embedder_config)
+    logger.info(
+        "Embedder Model: %s",
+        embedding_model.name,
     )
 
-    embedding_model = EmbeddingModel(name=model_name, model=model)
-    match_pipeline = MatchPipeline(embedding_model, lv_positions, all_candidates)
+    reranker_model = ModelLoader.load_reranker(reranker_config)
+    logger.info(
+        "Reranker Model: %s",
+        reranker_model.name,
+    )
+
+    match_pipeline = MatchPipeline(
+        embedding_model=embedding_model,
+        reranker_model=reranker_model,
+        lv_positions=lv_positions,
+        candidates=all_candidates,
+    )
+
     match_results = match_pipeline.run()
+
     ResultExporter.write_match_results(
-        match_results, Path(f"./output/match_results_{model_name}.txt")
+        match_results,
+        Path(
+            f"./output/match_results_retrieval_{embedding_model.name}_bm25_rerank_{reranker_model.name}.txt"
+        ),
     )
 
 
