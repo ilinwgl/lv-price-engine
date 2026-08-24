@@ -129,10 +129,10 @@ LV Position 和 Commodity Candidate 会先通过 `TextBuilder` 转换为统一�
 例如：
 
 ```text
-LV:
+LV (short text + long text + unit):
 Unit: m3 | Ortbeton Streifenfundamente | Normalbeton C30/37 XC3 XF1 XA2 W0 ...
 
-Candidate:
+Candidate (category path + label + description + unit):
 Unit: m³ | Stoffe | Beton | Lieferbeton, Ortbeton | Beton C30/37 XC3 XF1 XA2 W0
 ```
 
