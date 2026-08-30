@@ -1,0 +1,16 @@
+reinforcing_steel:
+  keywords:
+    - Betonstahl
+    - Bewehrungsstahl
+    - Stabstahl
+
+  attributes:
+    steel_grade:
+      type: single
+      values:
+        - B500A
+        - B500B
+
+    diameter:
+      type: single
+      values: []

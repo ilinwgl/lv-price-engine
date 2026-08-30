@@ -1,0 +1,11 @@
+reinforcement_accessory:
+  keywords:
+    - Abstandhalter
+    - Bindedraht
+
+  attributes:
+    accessory_type:
+      type: single
+      values:
+        - Abstandhalter
+        - Bindedraht

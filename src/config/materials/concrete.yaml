@@ -1,0 +1,52 @@
+concrete:
+  keywords:
+    - Beton
+    - Normalbeton
+    - Ortbeton
+    - Transportbeton
+
+  attributes:
+    strength_class:
+      type: single
+      values:
+        - C12/15
+        - C25/30
+        - C30/37
+        - C35/45
+
+    exposure_xc:
+      type: single
+      values:
+        - XC1
+        - XC2
+        - XC3
+        - XC4
+
+    exposure_xd:
+      type: single
+      values:
+        - XD1
+        - XD2
+        - XD3
+
+    exposure_xf:
+      type: single
+      values:
+        - XF1
+        - XF2
+        - XF3
+        - XF4
+
+    exposure_xa:
+      type: single
+      values:
+        - XA1
+        - XA2
+        - XA3
+
+    moisture_class:
+      type: single
+      values:
+        - W0
+        - WF
+        - WA

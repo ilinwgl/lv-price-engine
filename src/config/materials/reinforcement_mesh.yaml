@@ -1,0 +1,16 @@
+reinforcement_mesh:
+  keywords:
+    - Betonstahlmatte
+    - Bewehrungsmatte
+    - Stahlmatte
+
+  attributes:
+    mesh_type:
+      type: single
+      values: []
+
+    steel_grade:
+      type: single
+      values:
+        - B500A
+        - B500B
