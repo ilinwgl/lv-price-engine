@@ -8,7 +8,7 @@ from src.exporter.result_exporter import ResultExporter
 from src.ingestion.gaeb_lv_loader import GAEBLVLoader
 from src.logging.logger_config import LoggerConfig
 from src.matching.match_pipeline import MatchPipeline
-from src.models.model_loader import ModelLoader
+from src.models.inference_model.model_loader import ModelLoader
 
 logger = logging.getLogger(__name__)
 

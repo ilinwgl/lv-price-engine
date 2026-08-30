@@ -1,8 +1,8 @@
 from pathlib import Path
 
-from src.models.commodity_candidate import CommodityCandidate
-from src.models.lv_position import LVPosition
-from src.models.match_result import PositionMatchResult
+from src.models.database_candidate.commodity_candidate import CommodityCandidate
+from src.models.lv_position.lv_position import LVPosition
+from src.models.results.match_result import PositionMatchResult
 
 
 class ResultExporter:

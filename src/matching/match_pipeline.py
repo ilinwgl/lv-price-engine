@@ -1,15 +1,15 @@
 import logging
 
 from src.fusion.rrf_fusion import RRFFusion
-from src.models.commodity_candidate import CommodityCandidate
-from src.models.embedding_model import EmbeddingModel
-from src.models.lv_position import LVPosition
-from src.models.match_result import (
+from src.models.database_candidate.commodity_candidate import CommodityCandidate
+from src.models.inference_model.embedding_model import EmbeddingModel
+from src.models.inference_model.reranker_model import RerankerModel
+from src.models.lv_position.lv_position import LVPosition
+from src.models.results.match_result import (
     MatchCandidate,
     MatchStatus,
     PositionMatchResult,
 )
-from src.models.reranker_model import RerankerModel
 from src.ranking.cross_encoder_reranker import BGEReranker
 from src.retrieval.bm25_retriever import BM25Retriever
 from src.retrieval.vector_retriever import VectorRetriever

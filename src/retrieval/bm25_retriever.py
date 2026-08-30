@@ -2,8 +2,8 @@ import re
 
 from rank_bm25 import BM25Okapi
 
-from src.models.commodity_candidate import CommodityCandidate
-from src.models.match_result import MatchCandidate
+from src.models.database_candidate.commodity_candidate import CommodityCandidate
+from src.models.results.match_result import MatchCandidate
 from src.retrieval.base_retriever import BaseRetriever
 
 

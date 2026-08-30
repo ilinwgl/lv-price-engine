@@ -1,7 +1,7 @@
 from sentence_transformers import CrossEncoder, SentenceTransformer
 
-from src.models.embedding_model import EmbeddingModel
-from src.models.reranker_model import RerankerModel
+from src.models.inference_model.embedding_model import EmbeddingModel
+from src.models.inference_model.reranker_model import RerankerModel
 
 
 class ModelLoader:

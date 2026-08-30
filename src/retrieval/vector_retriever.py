@@ -1,8 +1,8 @@
 import torch
 
-from src.models.commodity_candidate import CommodityCandidate
-from src.models.embedding_model import EmbeddingModel
-from src.models.match_result import MatchCandidate
+from src.models.database_candidate.commodity_candidate import CommodityCandidate
+from src.models.inference_model.embedding_model import EmbeddingModel
+from src.models.results.match_result import MatchCandidate
 from src.retrieval.base_retriever import BaseRetriever
 
 

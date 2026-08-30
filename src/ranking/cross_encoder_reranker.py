@@ -1,5 +1,5 @@
-from src.models.match_result import MatchCandidate
-from src.models.reranker_model import RerankerModel
+from src.models.inference_model.reranker_model import RerankerModel
+from src.models.results.match_result import MatchCandidate
 from src.ranking.base_reranker import BaseReranker
 
 
