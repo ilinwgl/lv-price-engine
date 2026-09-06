@@ -1,0 +1,20 @@
+material_type: reinforcing_steel
+
+keywords:
+  - Betonstahl
+  - Bewehrungsstahl
+  - Stabstahl
+  - Bewehrungsstab
+
+core_attributes:
+  - steel_grade
+  - diameter
+  - product_form
+  - ductility_class
+
+supplementary_attributes:
+  - surface_type
+  - weldability
+  - length
+  - coating
+  - special_properties

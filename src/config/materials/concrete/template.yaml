@@ -1,0 +1,28 @@
+material_type: concrete
+
+keywords:
+  - Beton
+  - Normalbeton
+  - Ortbeton
+  - Transportbeton
+
+core_attributes:
+  - strength_class
+  - exposure_class
+  - moisture_class
+  - consistency_class
+  - max_aggregate_size
+
+supplementary_attributes:
+  - concrete_type
+  - density_class
+  - chloride_class
+  - cement_type
+  - cement_strength_class
+  - aggregate_type
+  - air_entrained
+  - fiber_type
+  - self_compacting
+  - water_cement_ratio
+  - binder_content
+  - special_properties

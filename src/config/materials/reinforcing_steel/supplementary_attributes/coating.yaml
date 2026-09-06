@@ -1,0 +1,7 @@
+name: coating
+type: single
+
+values:
+  - unbeschichtet
+  - verzinkt
+  - epoxidbeschichtet

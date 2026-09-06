@@ -1,0 +1,59 @@
+name: exposure_classes
+type: grouped
+
+groups:
+  x0:
+    attribute_name: exposure_x0
+    value_type: single
+    values:
+      - X0
+
+  xc:
+    attribute_name: exposure_xc
+    value_type: single
+    values:
+      - XC1
+      - XC2
+      - XC3
+      - XC4
+
+  xd:
+    attribute_name: exposure_xd
+    value_type: single
+    values:
+      - XD1
+      - XD2
+      - XD3
+
+  xs:
+    attribute_name: exposure_xs
+    value_type: single
+    values:
+      - XS1
+      - XS2
+      - XS3
+
+  xf:
+    attribute_name: exposure_xf
+    value_type: single
+    values:
+      - XF1
+      - XF2
+      - XF3
+      - XF4
+
+  xa:
+    attribute_name: exposure_xa
+    value_type: single
+    values:
+      - XA1
+      - XA2
+      - XA3
+
+  xm:
+    attribute_name: exposure_xm
+    value_type: single
+    values:
+      - XM1
+      - XM2
+      - XM3

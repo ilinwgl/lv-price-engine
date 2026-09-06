@@ -1,0 +1,10 @@
+name: cement_type
+type: single
+
+values:
+  - CEM I
+  - CEM II
+  - CEM III
+  - CEM IV
+  - CEM V
+  - CEM VI

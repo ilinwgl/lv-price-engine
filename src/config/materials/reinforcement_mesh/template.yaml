@@ -1,0 +1,24 @@
+material_type: reinforcement_mesh
+
+keywords:
+  - Betonstahlmatte
+  - Bewehrungsmatte
+  - Baustahlmatte
+  - Mattenbewehrung
+  - Lagermatte
+  - Listenmatte
+
+core_attributes:
+  - mesh_designation
+  - mesh_type
+  - steel_grade
+  - longitudinal_wire_diameter
+  - transverse_wire_diameter
+  - longitudinal_spacing
+  - transverse_spacing
+
+supplementary_attributes:
+  - length
+  - width
+  - surface_type
+  - special_properties

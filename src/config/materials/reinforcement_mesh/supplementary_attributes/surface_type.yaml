@@ -1,0 +1,6 @@
+name: surface_type
+type: single
+
+values:
+  - gerippt
+  - glatt

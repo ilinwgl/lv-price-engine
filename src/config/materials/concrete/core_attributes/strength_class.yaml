@@ -1,0 +1,37 @@
+name: strength_class
+type: single
+
+values:
+  # Normal- und Schwerbeton
+  - C8/10
+  - C12/15
+  - C16/20
+  - C20/25
+  - C25/30
+  - C30/37
+  - C35/45
+  - C40/50
+  - C45/55
+  - C50/60
+  - C55/67
+  - C60/75
+  - C70/85
+  - C80/95
+  - C90/105
+  - C100/115
+
+  # Leichtbeton
+  - LC8/9
+  - LC12/13
+  - LC16/18
+  - LC20/22
+  - LC25/28
+  - LC30/33
+  - LC35/38
+  - LC40/44
+  - LC45/50
+  - LC50/55
+  - LC55/60
+  - LC60/66
+  - LC70/77
+  - LC80/88

@@ -1,0 +1,9 @@
+name: chloride_class
+type: single
+
+values:
+  - Cl0.10
+  - Cl0.20
+  - Cl0.40
+  - Cl0.65
+  - Cl1.00

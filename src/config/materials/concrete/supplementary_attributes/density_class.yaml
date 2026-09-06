@@ -1,0 +1,10 @@
+name: density_class
+type: single
+
+values:
+  - D1.0
+  - D1.2
+  - D1.4
+  - D1.6
+  - D1.8
+  - D2.0

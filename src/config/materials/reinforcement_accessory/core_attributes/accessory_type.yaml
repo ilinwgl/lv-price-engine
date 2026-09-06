@@ -1,0 +1,8 @@
+name: accessory_type
+type: single
+
+values:
+  - Abstandhalter
+  - Bindedraht
+  - Distanzhalter
+  - Unterstützungskorb

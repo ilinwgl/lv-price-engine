@@ -1,0 +1,19 @@
+material_type: reinforcement_accessory
+
+keywords:
+  - Abstandhalter
+  - Bindedraht
+  - Distanzhalter
+  - Unterstützungskorb
+  - Bewehrungszubehör
+
+core_attributes:
+  - accessory_type
+  - material
+
+supplementary_attributes:
+  - diameter
+  - dimensions
+  - concrete_cover
+  - coating
+  - special_properties

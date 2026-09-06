@@ -1,0 +1,7 @@
+name: steel_grade
+type: single
+
+values:
+  - B500A
+  - B500B
+  - B500C
