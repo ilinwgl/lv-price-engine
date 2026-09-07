@@ -1,10 +1,20 @@
 material_type: reinforcing_steel
 
 keywords:
-  - Betonstahl
-  - Bewehrungsstahl
-  - Stabstahl
-  - Bewehrungsstab
+  - value: Betonstabstahl
+    level: high
+
+  - value: Bewehrungsstahl
+    level: high
+
+  - value: Betonstahl
+    level: high
+
+  - value: Stabstahl
+    level: medium
+
+  - value: Bewehrungsstab
+    level: medium
 
 core_attributes:
   - steel_grade

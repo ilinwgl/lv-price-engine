@@ -1,10 +1,41 @@
 material_type: concrete
 
 keywords:
-  - Beton
-  - Normalbeton
-  - Ortbeton
-  - Transportbeton
+  - value: Normalbeton
+    level: high
+
+  - value: Ortbeton
+    level: high
+
+  - value: Transportbeton
+    level: high
+
+  - value: Leichtbeton
+    level: medium
+
+  - value: Schwerbeton
+    level: medium
+
+  - value: WU-Beton
+    level: medium
+
+  - value: Sichtbeton
+    level: medium
+
+  - value: Pumpbeton
+    level: medium
+
+  - value: Faserbeton
+    level: medium
+
+  - value: Spritzbeton
+    level: medium
+
+  - value: Unterwasserbeton
+    level: medium
+
+  - value: Beton
+    level: low
 
 core_attributes:
   - strength_class

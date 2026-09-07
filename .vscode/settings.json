@@ -9,6 +9,10 @@
         "file:///home/guanlin/projects/lv-price-engine/src/config/materials/concrete/template.yaml",
         "file:///home/guanlin/projects/lv-price-engine/src/config/materials/reinforcing_steel/template.yaml",
         "file:///home/guanlin/projects/lv-price-engine/src/config/materials/reinforcement_accessory/template.yaml",
-        "file:///home/guanlin/projects/lv-price-engine/src/config/materials/reinforcement_mesh/template.yaml"
+        "file:///home/guanlin/projects/lv-price-engine/src/config/materials/reinforcement_mesh/template.yaml",
+        "file:///home/guanlin/projects/lv-price-engine/config/materials/concrete/template.yaml",
+        "file:///home/guanlin/projects/lv-price-engine/config/materials/reinforcing_steel/template.yaml",
+        "file:///home/guanlin/projects/lv-price-engine/config/materials/reinforcement_mesh/template.yaml",
+        "file:///home/guanlin/projects/lv-price-engine/config/materials/reinforcement_accessory/template.yaml"
     ]
 }

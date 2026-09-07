@@ -1,12 +1,23 @@
 material_type: reinforcement_mesh
 
 keywords:
-  - Betonstahlmatte
-  - Bewehrungsmatte
-  - Baustahlmatte
-  - Mattenbewehrung
-  - Lagermatte
-  - Listenmatte
+  - value: Betonstahlmatte
+    level: high
+
+  - value: Bewehrungsmatte
+    level: high
+
+  - value: Baustahlmatte
+    level: high
+
+  - value: Mattenbewehrung
+    level: high
+
+  - value: Lagermatte
+    level: medium
+
+  - value: Listenmatte
+    level: medium
 
 core_attributes:
   - mesh_designation
