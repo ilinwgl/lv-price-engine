@@ -21,6 +21,7 @@ Material: concrete
 Core attributes:
   strength_class: C 30/37
   exposure_class: {'xc': 'XC3', 'xf': 'XF1', 'xa': 'XA2'}
+  moisture_class: W0
 Supplementary attributes:
   concrete_type: Normalbeton
 
@@ -34,6 +35,7 @@ Material: concrete
 Core attributes:
   strength_class: C 30/37
   exposure_class: {'xc': 'XC3', 'xf': 'XF1', 'xa': 'XA1'}
+  moisture_class: W0
 Supplementary attributes:
   concrete_type: Normalbeton
   special_properties: ('Sichtbeton',)
@@ -48,6 +50,7 @@ Material: concrete
 Core attributes:
   strength_class: C 30/37
   exposure_class: {'xc': 'XC3', 'xf': 'XF1', 'xa': 'XA1'}
+  moisture_class: W0
 Supplementary attributes:
   concrete_type: Normalbeton
   special_properties: ('Sichtbeton',)
