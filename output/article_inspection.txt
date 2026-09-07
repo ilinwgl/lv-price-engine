@@ -1,0 +1,1619 @@
+========== GROUP RESULTS ==========
+
+Group #1
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200011 - Füll- und Unbewehrte Beton
+Commodity count: 4
+
+Commodities:
+  ID: Beton C8/10
+  Description: Beton C8/10-X0 Sauberkeitsschicht
+  UoM: m³
+  ChangeRestDate: 2026-04-15
+  ChangeRestUser: slong
+  Price: 100.79 EUR
+  ------------------------
+  ID: Beton C10
+  Description: Beton C8/10-X0
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 95.79 EUR
+  ------------------------
+  ID: Beton C12/15
+  Description: Beton C12/15-X0 Sauberkeitsschicht
+  UoM: m³
+  ChangeRestDate: 2026-04-15
+  ChangeRestUser: slong
+  Price: 103.79 EUR
+  ------------------------
+  ID: Beton C15
+  Description: Beton C12/15-X0
+  UoM: m³
+  ChangeRestDate: 2025-12-11
+  ChangeRestUser: omoussa
+  Price: 98.79 EUR
+  ------------------------
+
+Group #2
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200012 - Beton C25/30
+Commodity count: 2
+
+Commodities:
+  ID: Beton C30
+  Description: Beton C 25/30, XC4, XD1, XF2, WA
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 135.29 EUR
+  ------------------------
+  ID: Beton C30 XA1
+  Description: Beton C 25/30, XC4, XD1, XF2, XA1, WA
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 135.29 EUR
+  ------------------------
+
+Group #3
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200013 - Beton C30/37
+Commodity count: 6
+
+Commodities:
+  ID: Beton C37 XA1
+  Description: Beton C 30/37, XC3, XF1, XA1, W0
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 129.79 EUR
+  ------------------------
+  ID: Beton C37 XA2
+  Description: Beton C 30/37, XC3, XF1, XA2, W0
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 129.79 EUR
+  ------------------------
+  ID: Beton C37 XD2
+  Description: Beton C 30/37, XC2, XD2, WA
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 135.29 EUR
+  ------------------------
+  ID: Beton C37 XF1
+  Description: Beton C30/37, XC4, XF1,
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 133.29 EUR
+  ------------------------
+  ID: Beton C37 XF2
+  Description: Beton C30/37, XC2, XF2, XD1, WF
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 135.29 EUR
+  ------------------------
+  ID: Beton C37 XF4
+  Description: Beton C 30/37, XC4, XF4, XD2, XA2, WF
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 133.29 EUR
+  ------------------------
+
+Group #4
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200014 - Beton C35/45
+Commodity count: 4
+
+Commodities:
+  ID: Beton C45 (XM2)
+  Description: Beton C 35/45, XC2, XD2, XF2, XA1, (XM2), WA
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 140.79 EUR
+  ------------------------
+  ID: Beton C45 WU
+  Description: Beton C 35/45 WU, XC4, XF4, XD2, XA2, WF
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 140.79 EUR
+  ------------------------
+  ID: Beton C45 XC4
+  Description: Beton C 35/45, XC4, XF4, XD2, XA2, WF
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 132.29 EUR
+  ------------------------
+  ID: Beton C45 XD1
+  Description: Beton C 35/45, XC4, XD1, XF2, XA1, WA
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 132.29 EUR
+  ------------------------
+
+Group #5
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200015 - Füll- und Unbewehrte Beton
+Commodity count: 2
+
+Commodities:
+  ID: 62000151
+  Description: Beton C12/15-X0
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 85.00 EUR
+  ------------------------
+  ID: 62000152
+  Description: None
+  UoM: 
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 0.00 EUR
+  ------------------------
+
+Group #6
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200016 - Füll- und Unbewehrte Beton
+Commodity count: 2
+
+Commodities:
+  ID: 62000161
+  Description: Beton C12/15-X0
+  UoM: m³
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 85.00 EUR
+  ------------------------
+  ID: 62000162
+  Description: None
+  UoM: 
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 0.00 EUR
+  ------------------------
+
+Group #7
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200018 - Betonlabor / Überwachung / Betonprüfungen
+Commodity count: 2
+
+Commodities:
+  ID: 620161
+  Description: Prüfkosten IG-Beton
+  UoM: m³
+  ChangeRestDate: 2025-12-11
+  ChangeRestUser: omoussa
+  Price: 4.00 EUR
+  ------------------------
+  ID: 62000181
+  Description: Zul. Prüfkosten LP-Beton
+  UoM: m³
+  ChangeRestDate: 2026-04-20
+  ChangeRestUser: slong
+  Price: 15.00 EUR
+  ------------------------
+
+Group #8
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620001 - Lieferbeton, Ortbeton
+  Level 4: 6200019 - Zuschläge Lieferbeton, Ortbeton
+Commodity count: 2
+
+Commodities:
+  ID: 620171
+  Description: Zulage Beton Energie /CO²
+  UoM: m³
+  ChangeRestDate: 2025-12-11
+  ChangeRestUser: omoussa
+  Price: 3.00 EUR
+  ------------------------
+  ID: 620172
+  Description: Zulage SV Beton
+  UoM: m3
+  ChangeRestDate: 2026-03-17
+  ChangeRestUser: rhaq
+  Price: 30.00 EUR
+  ------------------------
+
+Group #9
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620002 - Betonzusatzstoffe /-mittel
+Commodity count: 0
+
+Commodities:
+
+Group #10
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620005 - Betonzuschlagstoffe (Kies, Sand, Füller ...)
+Commodity count: 0
+
+Commodities:
+
+Group #11
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620006 - Bentonit
+Commodity count: 0
+
+Commodities:
+
+Group #12
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620008 - Zement
+Commodity count: 0
+
+Commodities:
+
+Group #13
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 620 - Beton
+  Level 3: 620010 - Spritzbeton
+Commodity count: 0
+
+Commodities:
+
+Group #14
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621001 - Bewehrung Stabstahl
+Commodity count: 3
+
+Commodities:
+  ID: 6210011
+  Description: Zulagen (Dimension, Fracht, Anschlagmittel, etc.)
+  UoM: to
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 30.00 EUR
+  ------------------------
+  ID: 6210012
+  Description: Abdstandhalter, Bindedraht, etc.
+  UoM: to
+  ChangeRestDate: 2026-03-13
+  ChangeRestUser: slong
+  Price: 0.01 EUR
+  ------------------------
+  ID: B500B
+  Description: Bewehrung BSt 500 S // ATG
+  UoM: to
+  ChangeRestDate: 2026-03-30
+  ChangeRestUser: slong
+  Price: 720.00 EUR
+  ------------------------
+
+Group #15
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621002 - Mattenstahl
+Commodity count: 1
+
+Commodities:
+  ID: 6210021
+  Description: Betonstahlmatte N141
+  UoM: m2
+  ChangeRestDate: 2026-03-25
+  ChangeRestUser: slong
+  Price: 14.00 EUR
+  ------------------------
+
+Group #16
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621003 - Sonderbewehrung (verzinkt, VA, etc...)
+Commodity count: 0
+
+Commodities:
+
+Group #17
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621004 - Bewehrungstechnik (Absta, Anschlüsse, etc.)
+Commodity count: 0
+
+Commodities:
+
+Group #18
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621005 - Schlitzwandbewehrung
+Commodity count: 0
+
+Commodities:
+
+Group #19
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621006 - Bohrpfahlbewehrung
+Commodity count: 0
+
+Commodities:
+
+Group #20
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621008 - Einstabanker
+Commodity count: 0
+
+Commodities:
+
+Group #21
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 621 - Bewehrung
+  Level 3: 621010 - Spannstähle
+Commodity count: 0
+
+Commodities:
+
+Group #22
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 622 - Mauerwerk
+  Level 3: 622001 - Mauersteine
+Commodity count: 0
+
+Commodities:
+
+Group #23
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 622 - Mauerwerk
+  Level 3: 622010 - Mörtel, Kalk, Gips und Putz
+Commodity count: 0
+
+Commodities:
+
+Group #24
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 6239 - Bauchemie
+  Level 4: 623750_8 - Sonstiges
+Commodity count: 1
+
+Commodities:
+  ID: 91010
+  Description: Sika-Schalöl/lt
+  UoM: lt
+  ChangeRestDate: 2011-02-10
+  ChangeRestUser: cvoelkne
+  Price: 1.17 EUR
+  ------------------------
+
+Group #25
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623100 - Stahlbleche, -rohre
+Commodity count: 0
+
+Commodities:
+
+Group #26
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623200 - Stahlkonstrukt. ohne Montage
+Commodity count: 0
+
+Commodities:
+
+Group #27
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623300 - Einbauteile
+Commodity count: 0
+
+Commodities:
+
+Group #28
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623301 - Ankerschienen (Mauerwerk) u. Zubehör
+Commodity count: 0
+
+Commodities:
+
+Group #29
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623310 - Gitterbögen, Anker, Spiesse, Bohrstahl
+Commodity count: 0
+
+Commodities:
+
+Group #30
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623320 - Brückenausstattungen, Fahrbahnübergänge
+Commodity count: 0
+
+Commodities:
+
+Group #31
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623400 - Spundwandprofile
+Commodity count: 0
+
+Commodities:
+
+Group #32
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623500 - Fertigteile ohne Montage
+Commodity count: 0
+
+Commodities:
+
+Group #33
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623511 - Lieferung Spannbeton-Fertigteile
+Commodity count: 0
+
+Commodities:
+
+Group #34
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623512 - Lieferung Fertigteil-Hohl/Sandwichwände
+Commodity count: 0
+
+Commodities:
+
+Group #35
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623513 - Lieferung Filigrandecken
+Commodity count: 0
+
+Commodities:
+
+Group #36
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623514 - Lieferung Fertigteil Vollelemente (Wände, Unterzüge, etc.)
+Commodity count: 0
+
+Commodities:
+
+Group #37
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623515 - Lieferung Fertigteil-Treppen
+Commodity count: 0
+
+Commodities:
+
+Group #38
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623516 - Lieferung Fertigteil-Tübbinge
+Commodity count: 0
+
+Commodities:
+
+Group #39
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623518 - Lieferung Fertigteil-Schächte
+Commodity count: 0
+
+Commodities:
+
+Group #40
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623519 - Lieferung Fertigteil-Stützen
+Commodity count: 0
+
+Commodities:
+
+Group #41
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623520 - Lieferung Fertigteil Lichtschächte
+Commodity count: 0
+
+Commodities:
+
+Group #42
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623600 - Bauelemente,sonst. Baustoffe
+Commodity count: 0
+
+Commodities:
+
+Group #43
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623605 - Fugenbänder, -bleche, Injektionstechnik
+Commodity count: 0
+
+Commodities:
+
+Group #44
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623690 - Pflastersteine
+Commodity count: 0
+
+Commodities:
+
+Group #45
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623700 - Dämmstoffe,Bautenschutz
+Commodity count: 0
+
+Commodities:
+
+Group #46
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623750 - Bauchemie
+Commodity count: 0
+
+Commodities:
+
+Group #47
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623800 - Rohre und Kanalbau
+Commodity count: 0
+
+Commodities:
+
+Group #48
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623900 - Kamine, Schornsteine, Lüftungs- u. Installationssch. 
+Commodity count: 0
+
+Commodities:
+
+Group #49
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623950 - Elektromaterial
+Commodity count: 0
+
+Commodities:
+
+Group #50
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623960 - Glasfaserkabel
+Commodity count: 0
+
+Commodities:
+
+Group #51
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623970 - Kabelwarnband
+Commodity count: 0
+
+Commodities:
+
+Group #52
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623980 - Netzwerktechnik
+Commodity count: 0
+
+Commodities:
+
+Group #53
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623990 - Glasfaser Zubehörmat.
+Commodity count: 0
+
+Commodities:
+
+Group #54
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 623 - übrige Baustoffe
+  Level 3: 623999 - Schrottgutschriften
+Commodity count: 0
+
+Commodities:
+
+Group #55
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 624 - Schütt-/Mischgüter
+  Level 3: 624010 - Baustoffgemische
+Commodity count: 0
+
+Commodities:
+
+Group #56
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 624 - Schütt-/Mischgüter
+  Level 3: 624020 - Bitumen, bit. Mischgut
+Commodity count: 0
+
+Commodities:
+
+Group #57
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625001 - Wasser
+Commodity count: 0
+
+Commodities:
+
+Group #58
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625020 - BE Installationsmaterial
+Commodity count: 0
+
+Commodities:
+
+Group #59
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625030 - Verbrauchsholz
+Commodity count: 0
+
+Commodities:
+
+Group #60
+Depth: 5
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625100 - Energiebezüge Baust.
+  Level 4: 625100_1 - Diesel
+  Level 5: 625100_11 - Diesel
+Commodity count: 1
+
+Commodities:
+  ID: 625100_117
+  Description: Diesel+Schmierstoffe Beton- und Stahlbetonarbeiten
+  UoM: l
+  ChangeRestDate: 2025-08-27
+  ChangeRestUser: ext-lhodoroaba
+  Price: 1.70 EUR
+  ------------------------
+
+Group #61
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625101 - Gas/Öl
+Commodity count: 0
+
+Commodities:
+
+Group #62
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625110 - Strom 
+  Level 4: 625110_12 0 - Elektr. Energie
+Commodity count: 1
+
+Commodities:
+  ID: 625110_127
+  Description: Elektr. Energie (Strom) Beton- und Stahlbetonarbeiten
+  UoM: kWh
+  ChangeRestDate: 2025-06-12
+  ChangeRestUser: oglueck
+  Price: 0.30 EUR
+  ------------------------
+
+Group #63
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625120 - Technische Gase
+Commodity count: 0
+
+Commodities:
+
+Group #64
+Depth: 4
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625200 - Hilfsstoffe Tiefbau
+  Level 4: 625200_1 - Hilfsstoffe und Diverses
+Commodity count: 1
+
+Commodities:
+  ID: 625200_S
+  Description: Hilfsstoffe Schalung allgem.
+  UoM: EUR
+  ChangeRestDate: 2022-09-19
+  ChangeRestUser: pjeschke
+  Price: 1.00 EUR
+  ------------------------
+
+Group #65
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625300 - Sprengmittel
+Commodity count: 0
+
+Commodities:
+
+Group #66
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 625 - Hilfs und Betriebstoffe
+  Level 3: 625900 - übrige Hilfs-/Betriebsstoffe
+Commodity count: 0
+
+Commodities:
+
+Group #67
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 629 - Sonst. Stoffkosten
+  Level 3: 629000 - Lieferskonti
+Commodity count: 0
+
+Commodities:
+
+Group #68
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 629 - Sonst. Stoffkosten
+  Level 3: 629009 - IV RHB-Stoffe Verbrauch
+Commodity count: 0
+
+Commodities:
+
+Group #69
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 629 - Sonst. Stoffkosten
+  Level 3: 629100 - Boni lfds.Jahr+Vorjahre
+Commodity count: 0
+
+Commodities:
+
+Group #70
+Depth: 3
+Category path:
+  Level 1: 62 - Stoffe
+  Level 2: 629 - Sonst. Stoffkosten
+  Level 3: 629200 - Nebenkostenerlöse
+Commodity count: 0
+
+Commodities:
+
+Group #71
+Depth: 3
+Category path:
+  Level 1: 63 - S-R-V
+  Level 2: 630 - Schalung
+  Level 3: 630000 - Käufe Schalungsholz
+Commodity count: 0
+
+Commodities:
+
+Group #72
+Depth: 3
+Category path:
+  Level 1: 63 - S-R-V
+  Level 2: 630 - Schalung
+  Level 3: 630010 - Schalungszubehör
+Commodity count: 0
+
+Commodities:
+
+Group #73
+Depth: 6
+Category path:
+  Level 1: 63 - S-R-V
+  Level 2: 630 - Schalung
+  Level 3: 630100 - Käufe RSV-Systeme incl. Reparaturen
+  Level 4: 630101 - Schalungen
+  Level 5: 630100_17 - Schalungen Schacht,Wand,Decken,Aufpreise
+  Level 6: 630100_17 02 - Schalung  - Oberhaupt-Einlaufbauwerk
+Commodity count: 1
+
+Commodities:
+  ID: 630100_17 02 170
+  Description: Schalung  Pos.07.02.0170- Oberhaupt-Einlaufbauwerk
+  UoM: psch
+  ChangeRestDate: 2025-09-05
+  ChangeRestUser: oglueck
+  Price: 15167.87 EUR
+  ------------------------
+
+Group #74
+Depth: 3
+Category path:
+  Level 1: 63 - S-R-V
+  Level 2: 630 - Schalung
+  Level 3: 630800 - Restbuchwert Rüst-, Schal- u. Verbaumaterial
+Commodity count: 0
+
+Commodities:
+
+Group #75
+Depth: 3
+Category path:
+  Level 1: 63 - S-R-V
+  Level 2: 630 - Schalung
+  Level 3: 631000 - RSV: Fremdmiete
+Commodity count: 0
+
+Commodities:
+
+Group #76
+Depth: 3
+Category path:
+  Level 1: 63 - S-R-V
+  Level 2: 630 - Schalung
+  Level 3: 631100 - RSV: Fremd Reparatur+Verluste
+Commodity count: 0
+
+Commodities:
+
+Group #77
+Depth: 3
+Category path:
+  Level 1: 63 - S-R-V
+  Level 2: 630 - Schalung
+  Level 3: 639009 - IV Rüst-, Schal- u, Verbaumat.
+Commodity count: 0
+
+Commodities:
+
+Group #78
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 640 - Kleingeräte/Werkzeuge
+  Level 3: 640005 - Kleingeräte, Werkzeuge
+Commodity count: 0
+
+Commodities:
+
+Group #79
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 640 - Kleingeräte/Werkzeuge
+  Level 3: 640020 - Sicherheitskleidung
+Commodity count: 0
+
+Commodities:
+
+Group #80
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 640 - Kleingeräte/Werkzeuge
+  Level 3: 640999 - Kauf Gerät/Baustellenausstattung
+Commodity count: 0
+
+Commodities:
+
+Group #81
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 641 - Verschleiß/Geräteverluste
+  Level 3: 641001 - Verbrauch Verschleißteile
+Commodity count: 0
+
+Commodities:
+
+Group #82
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 641 - Verschleiß/Geräteverluste
+  Level 3: 641013 - Geräteverluste
+Commodity count: 0
+
+Commodities:
+
+Group #83
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 641 - Verschleiß/Geräteverluste
+  Level 3: 641100 - Verbrauch Ersatzteile
+Commodity count: 0
+
+Commodities:
+
+Group #84
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 641 - Verschleiß/Geräteverluste
+  Level 3: 641200 - Baggerseile
+Commodity count: 0
+
+Commodities:
+
+Group #85
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 641 - Verschleiß/Geräteverluste
+  Level 3: 641210 - Hebemittel+Zubehör
+Commodity count: 0
+
+Commodities:
+
+Group #86
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 642 - Transportkosten
+  Level 3: 642000 - Fracht-/Transportkosten
+Commodity count: 0
+
+Commodities:
+
+Group #87
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 642 - Transportkosten
+  Level 3: 642060 - Transportkosten RSV
+Commodity count: 0
+
+Commodities:
+
+Group #88
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 643 - Montage/Demontage
+  Level 3: 643100 - Kranmontage, -demontage
+Commodity count: 0
+
+Commodities:
+
+Group #89
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 645 - AfA Kaufgeräte
+  Level 3: 645000 - Kalk. AfA, techn, Anlagen und Maschinen
+Commodity count: 0
+
+Commodities:
+
+Group #90
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 645 - AfA Kaufgeräte
+  Level 3: 646000 - Kalk. AfA, Bter.- u. Gesch.ausst., Kleinger., Mietkl.
+Commodity count: 0
+
+Commodities:
+
+Group #91
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 645 - AfA Kaufgeräte
+  Level 3: 647000 - Restbuchwert Geräte
+Commodity count: 0
+
+Commodities:
+
+Group #92
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648010 - Fremdmieten Geräte (übrige)
+Commodity count: 0
+
+Commodities:
+
+Group #93
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648020 - Fremdgeräte Reparaturen
+Commodity count: 0
+
+Commodities:
+
+Group #94
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648021 - Geräteinspektionen
+Commodity count: 0
+
+Commodities:
+
+Group #95
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648030 - Fremdmiete Betonpumpe
+Commodity count: 1
+
+Commodities:
+  ID: 02851
+  Description: Bet.-Pumpe Verschleiß + Energie
+  UoM: m³
+  ChangeRestDate: 2025-09-08
+  ChangeRestUser: oglueck
+  Price: 18.00 EUR
+  ------------------------
+
+Group #96
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648035 - Fremdmiete Merlo, Stapler, etc.
+Commodity count: 0
+
+Commodities:
+
+Group #97
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648045 - Fremdmiete Fuhrpark (Pritsche, etc.)
+Commodity count: 0
+
+Commodities:
+
+Group #98
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648055 - Fremdmiete Unterkünfte, Baubüro, Container
+Commodity count: 0
+
+Commodities:
+
+Group #99
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648065 - Fremdmiete Turmdrehkräne
+Commodity count: 0
+
+Commodities:
+
+Group #100
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648075 - Fremdmiete Bauzäune, Türen, Tore
+Commodity count: 0
+
+Commodities:
+
+Group #101
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648085 - Fremdmiete Reifenwaschanlage
+Commodity count: 0
+
+Commodities:
+
+Group #102
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648100 - Leasing Geräte
+Commodity count: 0
+
+Commodities:
+
+Group #103
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648160 - Gebühren Betriebsfunk
+Commodity count: 0
+
+Commodities:
+
+Group #104
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648200 - Zinsen Mietkauf + Finance Lease
+Commodity count: 0
+
+Commodities:
+
+Group #105
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648210 - Versicherung Fremdgeräte
+Commodity count: 0
+
+Commodities:
+
+Group #106
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 648 - Fremdmieten / Leasing
+  Level 3: 648250 - Nebenkosten Fremdger.
+Commodity count: 0
+
+Commodities:
+
+Group #107
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 649 - sonst. Gerätekosten
+  Level 3: 649005 - IV Gerätemiete
+Commodity count: 0
+
+Commodities:
+
+Group #108
+Depth: 3
+Category path:
+  Level 1: 64 - Geräte
+  Level 2: 649 - sonst. Gerätekosten
+  Level 3: 649006 - IV Reparatur Pauschale
+Commodity count: 0
+
+Commodities:
+
+Group #109
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 661200 - Reisekosten
+Commodity count: 0
+
+Commodities:
+
+Group #110
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 664000 - Käufe Geschäftsausstattung
+Commodity count: 0
+
+Commodities:
+
+Group #111
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 664290 - Telefonkosten, Porto, Fax, Botendienstleistung
+Commodity count: 0
+
+Commodities:
+
+Group #112
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 664800 - Büromaterial,Zeitungen,Zeitschriften
+Commodity count: 0
+
+Commodities:
+
+Group #113
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 665100 - IT Kosten
+Commodity count: 0
+
+Commodities:
+
+Group #114
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 667030 - Bewirtungskosten
+Commodity count: 0
+
+Commodities:
+
+Group #115
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 667100 - Werbungskosten allgemein
+Commodity count: 0
+
+Commodities:
+
+Group #116
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 660 - Bürokosten der Baustelle
+  Level 3: 667755 - Reprokosten, Planmanagement
+Commodity count: 0
+
+Commodities:
+
+Group #117
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 661 - Mieten und Pachten
+  Level 3: 661150 - Unterkunftsgestellung Gehaltsempfänger
+Commodity count: 0
+
+Commodities:
+
+Group #118
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 661 - Mieten und Pachten
+  Level 3: 661151 - Nebenkosten Unterkunft Personal
+Commodity count: 0
+
+Commodities:
+
+Group #119
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 661 - Mieten und Pachten
+  Level 3: 663010 - Mieten, Pachten, Nutzungsentgelte
+Commodity count: 0
+
+Commodities:
+
+Group #120
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 661 - Mieten und Pachten
+  Level 3: 663015 - Instandhaltg./Reparaturen / Wartung 
+Commodity count: 0
+
+Commodities:
+
+Group #121
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 662 - Rechtsberatungs- und Gerichtskosten
+  Level 3: 667770 - Gerichts- u. Rechtsberatungskosten
+Commodity count: 0
+
+Commodities:
+
+Group #122
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 663 - Avalprovisionen
+  Level 3: 667590 - Avalprovisionen
+Commodity count: 0
+
+Commodities:
+
+Group #123
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 664 - Versicherungen
+  Level 3: 667000 - Versicherungsbeiträge
+Commodity count: 0
+
+Commodities:
+
+Group #124
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 665 - Steuern und Zölle
+  Level 3: 667808 - Steuern
+Commodity count: 0
+
+Commodities:
+
+Group #125
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 665 - Steuern und Zölle
+  Level 3: 667810 - Zölle
+Commodity count: 0
+
+Commodities:
+
+Group #126
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 666 - Geschäftsführungskosten
+  Level 3: 668000 - Technische Geschäftsführung
+Commodity count: 0
+
+Commodities:
+
+Group #127
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 666 - Geschäftsführungskosten
+  Level 3: 668100 - Kaufmännische Geschäftsführung
+Commodity count: 0
+
+Commodities:
+
+Group #128
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 660400 - Gebühren
+Commodity count: 0
+
+Commodities:
+
+Group #129
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 661350 - Arzt- und Gesundheitskosten (Ausland)
+Commodity count: 0
+
+Commodities:
+
+Group #130
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 662000 - Freie Mitarbeit, Zeitarbeit
+Commodity count: 0
+
+Commodities:
+
+Group #131
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 667099 - Sonst. betriebl. Aufwendungen Betriebsstätten
+Commodity count: 0
+
+Commodities:
+
+Group #132
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 667310 - Vertragsstrafen
+Commodity count: 0
+
+Commodities:
+
+Group #133
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 667350 - Schadenersatz
+Commodity count: 0
+
+Commodities:
+
+Group #134
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 667601 - sonstige Gemeinkosten
+Commodity count: 0
+
+Commodities:
+
+Group #135
+Depth: 3
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 668 - Sonstige Gemeinkosten Baustelle
+  Level 3: 667700 - Lohn- und Gehaltsabrechnung
+Commodity count: 0
+
+Commodities:
+
+Group #136
+Depth: 2
+Category path:
+  Level 1: 66 - Allgemeine Kosten
+  Level 2: 679 - übrige Erlöse und Aufwendungen
+Commodity count: 0
+
+Commodities:
+
+========== SUMMARY ==========
+Top-level groups: 4
+Leaf groups: 136
+Total commodities: 34

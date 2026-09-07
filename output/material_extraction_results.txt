@@ -1,0 +1,489 @@
+================================================================================
+OZ: 02.05.0010
+Kurztext: Ortbeton Sauberkeitsschicht MLV-MBR_01100010
+Langtext: Sauberkeitsschicht aus Ortbeton, Untergrund horizontal, obere Betonfläche horizontal, als unbewehrter Beton, Normalbeton C 12/15, X0, Dicke 0,10 m . Oberfläche eben abziehen
+Menge: 17.000 m2
+
+Material: concrete
+Core attributes:
+  strength_class: C 12/15
+  exposure_class: {'x0': 'X0'}
+Supplementary attributes:
+  concrete_type: Normalbeton
+
+================================================================================
+OZ: 02.05.0020
+Kurztext: Ortbeton Streifenfundamente
+Langtext: Ortbeton Streifenfundamente als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA2, W0 DIN EN 206, Bauteil: Fundamente für Wandscheiben einschließlich Schalung: glatte Schalung nach Wahl des AN. Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 4.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 30/37
+  exposure_class: {'xc': 'XC3', 'xf': 'XF1', 'xa': 'XA2'}
+Supplementary attributes:
+  concrete_type: Normalbeton
+
+================================================================================
+OZ: 02.05.0030
+Kurztext: Ortbeton Wandscheiben zwischen den Gleishallenfundamenten 17-19
+Langtext: Ortbeton Wandscheiben als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA1, W0 DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Wandscheiben zwischen den Gleishallenfundamenten 17-19 in Längsrichtung einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 12.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 30/37
+  exposure_class: {'xc': 'XC3', 'xf': 'XF1', 'xa': 'XA1'}
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.05.0040
+Kurztext: Ortbeton Wandscheiben quer auf Gleishallenfundamente 18 und 19
+Langtext: Ortbeton Wandscheiben als Stahlbeton, Normalbeton C 30/37, XC3, XF1, XA1, W0 DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Wandscheiben quer auf die Gleishallenfundamente 18 und 19 einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 6.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 30/37
+  exposure_class: {'xc': 'XC3', 'xf': 'XF1', 'xa': 'XA1'}
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.05.0050
+Kurztext: Betonstabstahl B500B alle Durchmesser
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Fundamente und Wandscheiben
+Menge: 5.100 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.05.0060
+Kurztext: Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Langtext: Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: Verbindung der Wandscheiben mit bestehenden Gleishallenfundamenten 17-19
+Menge: 1.000 psch
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.05.0070
+Kurztext: Hydraulische Hebetechnik
+Langtext: Bereitstellung, Anlieferung, Montage und betriebsbereite Einrichtung sowie Demontage von hydraulischen Pressen/Hebezylindern einschließlich aller erforderlichen Pumpen (manuell oder elektrisch), Leitungen, Druckmess- und Sicherheitseinrichtungen zum kontrollierten, temporären Anheben eines Gleishallenfundamentes. Mindesttragkraft = 5000kN
+Menge: 3.000 St
+
+Material: UNMATCHED
+
+================================================================================
+OZ: 02.05.0080
+Kurztext: Ausführungsplanung u. Statik f. Hebetechnik
+Langtext: Alle für die Hebetechnik der Vorposition notwendigen Ausführungszeichnungen und Statischen Unterlagen einschl. Werkstattzeichnungen erstellen. Unterlagen 1* digital, 5 * in Papierform zur Prüfung liefern, Prüfungsanmerkungen einarbeiten, nach Gleichstellung 1* digital, 1 Original und 4 Kopien an AG liefern. Digitale Unterlagen im Format PDF/A-1b (Level B) gemäß ISO 19005-1, Papierformate gemäß DIN-Norm 476 bzw. EN ISO 216.
+Menge: 1.000 psch
+
+Material: UNMATCHED
+
+================================================================================
+OZ: 02.06.0010
+Kurztext: Ortbeton Sauberkeitsschicht MLV-MBR_01120010
+Langtext: Sauberkeitsschicht aus Ortbeton, Untergrund horizontal, obere Betonfläche horizontal, als unbewehrter Beton, Normalbeton C 12/15, X0 , Dicke 0,10 m , Oberfläche eben abziehen.
+Menge: 900.000 m2
+
+Material: concrete
+Core attributes:
+  strength_class: C 12/15
+  exposure_class: {'x0': 'X0'}
+Supplementary attributes:
+  concrete_type: Normalbeton
+
+================================================================================
+OZ: 02.06.0020
+Kurztext: Fundamentplatte aus Stahlbeton MLV-MBR_01120030
+Langtext: Fundamentplatte Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Bauteil: 'Sohle für (>Postpaketkammer<) ' einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 593.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+
+================================================================================
+OZ: 02.06.0030
+Kurztext: Zulage für Aufdickungen der Fundamentplatte
+Langtext: Zulage zu vorbeschriebener Position für alle Erschwernisse bei Ausführung der Aufdickungen bei der Fundamentplatte. Bauteil: Fundamentplatte in der PPK
+Menge: 20.000 m3
+
+Material: UNMATCHED
+
+================================================================================
+OZ: 02.06.0040
+Kurztext: Betonstabstahl B500B alle Durchmesser für Fundamentplatte
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Fundamentplatte
+Menge: 150.000 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.06.0050
+Kurztext: Zulage für Auswechslungen bei Bewehrung für Hebungsinjektionen
+Langtext: Zulage zur vorbeschriebenen Position für alle Erschwernisse bei Auswechslungen der Bewehrung in den Bereichen, in denen die zukünftigen Hebungsinjektionen durchgeführt werden. Bauteil: Fundamentplatte in der PPK um die Gleishallenfundamente.
+Menge: 1.000 psch
+
+Material: UNMATCHED
+
+================================================================================
+OZ: 02.06.0060
+Kurztext: Ortbeton Stützen und Wände
+Langtext: Ortbeton Stützen und Wände als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stützen und Wände der Postpaketkammer einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 23.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.06.0070
+Kurztext: Aufbeton bestehende westliche Außenwand
+Langtext: Ortbeton Stützen und Wände als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stützen und Wände der Postpaketkammer einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 14.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.06.0080
+Kurztext: Ergänzungsbeton zwischen der Decke
+Langtext: Ergänzungsbeton aus als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: zwischen der bestehenden Decke unter dem Gleis 24 und der neuen Decke vom Bahnsteig 24/25 einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 5.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.06.0090
+Kurztext: Betonstabstahl B500B alle Durchmesser für Stützen und Wände
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Stützen und Wände PPK
+Menge: 9.200 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.06.0100
+Kurztext: Zulage für Einbohren der Stecker
+Langtext: Zulage zu vorbeschriebener Betonstabstahl-Position für Ausführung der horizontalen und vertikalen Bewehrung als Bohrstecker in den bestehenden Bauteilen. Bauteil: neue Wand- und Deckenbereiche bei der westlichen Außenwand im Bereich des Zufahrtstunnels zur PPK und unter der neuen Decke unter dem Bahnsteig 24/25
+Menge: 1.000 t
+
+Material: reinforcing_steel
+Core attributes:
+  -
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.06.0110
+Kurztext: Diagonale Aussteifungen aus Ortbeton
+Langtext: Diagonale Aussteifungen als Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Aussteifungen in Längs- und Querrichtung einschließlich Schalung: glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 14.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.06.0120
+Kurztext: Betonstabstahl B500B alle Durchmesser für Aussteifungen
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil: Aussteifungen in Längs- und Querrichtung
+Menge: 3.400 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.06.0130
+Kurztext: Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Langtext: Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: alle Bauteile
+Menge: 1.000 psch
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0010
+Kurztext: Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 1
+Langtext: Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 301.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.07.0020
+Kurztext: Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 1
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 1 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
+Menge: 76.000 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0030
+Kurztext: Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Langtext: Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für das nachträgliche Verschließen der bauzeitlichen Fluchttreppenöffnung
+Menge: 1.000 psch
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0040
+Kurztext: Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Gleis 25 Bereich 2
+Langtext: Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Gleis 25 im Bereich 2 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 148.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.07.0050
+Kurztext: Betonstabstahl B500B alle Durchmesser für Decke unter Gleis 25 Bereich 2
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Gleis 25 Bereich 2 einschl. Pfahlkopf und Überzug zur Bahnsteig 24/25
+Menge: 37.000 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0060
+Kurztext: Stahlbetonplatte als feste Fahrbahn unter Gleis 25 Bereich 2
+Langtext: Stahlbetonplatte, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Stahlbetonplatte mit Hochzug unter Gleis 25 im Bereich 2 als feste Fahrbahn für den Prellbock einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 17.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.07.0070
+Kurztext: Betonstabstahl B500B alle Durchmesser für feste Fahrbahn unter Gleis 25 Bereich 2
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Stahlbetonplatte unter Gleis 25 Bereich 2 als feste Fahrbahn für den Prellbock
+Menge: 4.300 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0080
+Kurztext: Zulage für Einbau Telleranker
+Langtext: Zulage zu vorbeschriebener Betonstabstahl-Position für die Lieferung und Einbau der Telleranker gemäß Ril 804.5601, 6.1. Bauteil: Anbindung der neuen Stahlbetonplatte unter der Prellbockkonstruktion an die darunterliegende Decke unter dem Gleis 25.
+Menge: 5.000 St
+
+Material: reinforcing_steel
+Core attributes:
+  -
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0090
+Kurztext: Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Bstg. 24/25 Bereich 1
+Langtext: Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 57.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.07.0100
+Kurztext: Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 1
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 1 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzug stirnseitig
+Menge: 14.200 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0110
+Kurztext: Rahmendecke aus Stahlbeton MLV-MBR_01120060 unter Bstg. 24/25 Bereich 2
+Langtext: Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 im Bereich 2 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzüge stirnseitig einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 36.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.07.0120
+Kurztext: Betonstabstahl B500B alle Durchmesser für Decke unter Bstg. 24/25 Bereich 2
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 im Bereich 2 einschl. Unterzug parallel zur Gleisbrücke 24 und Unterzüge stirnseitig
+Menge: 8.900 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0130
+Kurztext: Rahmendecke aus Stahlbeton MLV-MBR_01120060 Höhensprung mit Auskragung Bereich 1
+Langtext: Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 1 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 125.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.07.0140
+Kurztext: Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 1
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 1
+Menge: 31.000 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0150
+Kurztext: Rahmendecke aus Stahlbeton MLV-MBR_01120060 Höhensprung mit Auskragung Bereich 2
+Langtext: Rahmendecke aus Stahlbeton, Normalbeton C 35/45, XC4, XD1, XF2, XA1, WA DIN EN 206, Ausführung als Sichtbeton, Anforderung gem. Sichtbetonklasse SB 2 gemäß DBV-Merkblatt "Sichtbeton". Bauteil: Rahmendecke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 2 einschließlich Schalung glatte Schalung nach Wahl des AN . Schalung vorhalten und beseitigen. Sichtbare Betonkanten mit Dreikantleisten brechen, Kehlen ausrunden. Einschließlich Herstellen von Aussparungen, Nischen, Konsolen etc. Bewehrung wird gesondert vergütet.
+Menge: 111.000 m3
+
+Material: concrete
+Core attributes:
+  strength_class: C 35/45
+  exposure_class: {'xc': 'XC4', 'xd': 'XD1', 'xf': 'XF2', 'xa': 'XA1'}
+  moisture_class: WA
+Supplementary attributes:
+  concrete_type: Normalbeton
+  special_properties: ('Sichtbeton',)
+
+================================================================================
+OZ: 02.07.0160
+Kurztext: Betonstabstahl B500B alle Durchmesser für Höhensprung mit Auskragung Bereich 2
+Langtext: Bewehrung aus Betonstabstahl B500B DIN 488, alle Durchmesser, alle Längen. Bauteil(e): Decke unter Bahnsteig 24/25 Teil 2 - Höhensprung mit Auskragung im Bereich 2
+Menge: 28.000 t
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0170
+Kurztext: Schraub-Bewehrungsanschlüsse MLV-MBR_01100100
+Langtext: Bewehrungsanschlüsse mit Schraubverbindungen nach statisch konstruktiven Erfordernissen gemäß Ausführungsunterlagen. Anschlussbewehrung aus Betonstahl B500B. Bauteil: für den Höhensprung mit Auskragung
+Menge: 1.000 psch
+
+Material: reinforcing_steel
+Core attributes:
+  steel_grade: B500B
+Supplementary attributes:
+  -
+
+================================================================================
+OZ: 02.07.0180
+Kurztext: Spaltverschluss
+Langtext: Herstellen einer Blechkonstruktion aus verzinktem Stahlblech zur temporären Abdeckung eines linearen Spaltes. Verschluss der Öffnung zwischen der neuen Decke der PPK und der bestehenden Gleisbrücke v. Gleis 24.
+Menge: 105.000 m
+
+Material: UNMATCHED

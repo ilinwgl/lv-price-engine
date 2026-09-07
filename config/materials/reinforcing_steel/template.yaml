@@ -20,7 +20,6 @@ core_attributes:
   - steel_grade
   - diameter
   - product_form
-  - ductility_class
 
 supplementary_attributes:
   - surface_type

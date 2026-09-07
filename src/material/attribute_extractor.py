@@ -1,3 +1,4 @@
+import re
 from typing import Any
 
 from src.models.material.attribute_definition import AttributeDefinition
@@ -71,7 +72,8 @@ class AttributeExtractor:
         matches = [
             value
             for value in definition.values
-            if isinstance(value, str) and value in text
+            if isinstance(value, str)
+            and AttributeExtractor._contains_value(text, value)
         ]
 
         if not matches:
@@ -90,7 +92,8 @@ class AttributeExtractor:
         matches = tuple(
             value
             for value in definition.values
-            if isinstance(value, str) and value in text
+            if isinstance(value, str)
+            and AttributeExtractor._contains_value(text, value)
         )
 
         if not matches:
@@ -115,7 +118,10 @@ class AttributeExtractor:
                 continue
 
             matches = [
-                value for value in values if isinstance(value, str) and value in text
+                value
+                for value in values
+                if isinstance(value, str)
+                and AttributeExtractor._contains_value(text, value)
             ]
 
             if not matches:
@@ -130,3 +136,8 @@ class AttributeExtractor:
             return None
 
         return extracted_groups
+
+    @staticmethod
+    def _contains_value(text: str, value: str) -> bool:
+        pattern = rf"(?<!\w){re.escape(value)}(?!\w)"
+        return re.search(pattern, text) is not None
