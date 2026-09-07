@@ -80,7 +80,10 @@ class AttributeExtractor:
             return None
 
         if len(matches) > 1:
-            matches.sort(key=len, reverse=True)
+            raise ValueError(
+                f"Multiple values found for single attribute "
+                f"{definition.name}: {matches}"
+            )
 
         return matches[0]
 
@@ -128,7 +131,10 @@ class AttributeExtractor:
                 continue
 
             if len(matches) > 1:
-                matches.sort(key=len, reverse=True)
+                raise ValueError(
+                    f"Multiple values found for group '{group_name}' "
+                    f"in attribute '{definition.name}': {matches}"
+                )
 
             extracted_groups[group_name] = matches[0]
 
@@ -140,4 +146,4 @@ class AttributeExtractor:
     @staticmethod
     def _contains_value(text: str, value: str) -> bool:
         pattern = rf"(?<!\w){re.escape(value)}(?!\w)"
-        return re.search(pattern, text) is not None
+        return re.search(pattern, text, re.IGNORECASE) is not None
