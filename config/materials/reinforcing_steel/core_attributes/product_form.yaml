@@ -1,0 +1,6 @@
+name: product_form
+type: single
+
+values:
+  - Stab
+  - Ring

@@ -1,0 +1,13 @@
+name: special_properties
+type: multiple
+
+values:
+  - WU-Beton
+  - Sichtbeton
+  - Pumpbeton
+  - Faserbeton
+  - Spritzbeton
+  - Unterwasserbeton
+  - Hochfester_Beton
+  - Hochleistungsbeton
+  - Massenbeton

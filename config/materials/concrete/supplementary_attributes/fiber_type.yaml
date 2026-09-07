@@ -1,0 +1,9 @@
+name: fiber_type
+type: multiple
+
+values:
+  - Stahlfaser
+  - Kunststofffaser
+  - Glasfaser
+  - Basaltfaser
+  - Carbonfaser

@@ -1,0 +1,8 @@
+name: aggregate_type
+type: single
+
+values:
+  - natürliche_Gesteinskörnung
+  - rezyklierte_Gesteinskörnung
+  - leichte_Gesteinskörnung
+  - schwere_Gesteinskörnung

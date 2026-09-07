@@ -1,0 +1,4 @@
+name: water_cement_ratio
+type: numeric
+
+unit: ratio

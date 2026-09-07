@@ -1,0 +1,5 @@
+materials:
+  concrete: materials/concrete/template.yaml
+  reinforcing_steel: materials/reinforcing_steel/template.yaml
+  reinforcement_mesh: materials/reinforcement_mesh/template.yaml
+  reinforcement_accessory: materials/reinforcement_accessory/template.yaml

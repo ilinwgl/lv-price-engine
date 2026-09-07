@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from src.models.match_result import MatchCandidate
+from src.models.results.match_result import MatchCandidate
 
 
 class BaseRetriever(ABC):

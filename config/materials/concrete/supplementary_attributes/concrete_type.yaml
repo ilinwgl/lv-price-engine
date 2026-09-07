@@ -1,0 +1,7 @@
+name: concrete_type
+type: single
+
+values:
+  - Normalbeton
+  - Leichtbeton
+  - Schwerbeton

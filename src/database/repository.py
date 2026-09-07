@@ -8,7 +8,7 @@ from src.db_article_importing.db_article_models import (
     ParsedEstimatePrice,
     ParsedProductGroup,
 )
-from src.models.commodity_candidate import (
+from src.models.database_candidate.commodity_candidate import (
     CommodityCandidate,
     CommodityPrice,
     EstimatePrice,

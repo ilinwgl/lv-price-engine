@@ -1,0 +1,8 @@
+name: moisture_class
+type: single
+
+values:
+  - W0
+  - WF
+  - WA
+  - WS

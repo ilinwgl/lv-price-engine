@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-from src.models.match_result import MatchCandidate
+from src.models.results.match_result import MatchCandidate
 
 
 class RRFFusion:

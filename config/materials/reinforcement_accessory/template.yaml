@@ -1,0 +1,28 @@
+material_type: reinforcement_accessory
+
+keywords:
+  - value: Abstandhalter
+    level: high
+
+  - value: Distanzhalter
+    level: high
+
+  - value: Bindedraht
+    level: high
+
+  - value: Unterstützungskorb
+    level: high
+
+  - value: Bewehrungszubehör
+    level: medium
+
+core_attributes:
+  - accessory_type
+  - material
+
+supplementary_attributes:
+  - diameter
+  - dimensions
+  - concrete_cover
+  - coating
+  - special_properties

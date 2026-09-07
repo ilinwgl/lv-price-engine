@@ -1,0 +1,9 @@
+name: material
+type: single
+
+values:
+  - Stahl
+  - Edelstahl
+  - Kunststoff
+  - Beton
+  - Faserbeton

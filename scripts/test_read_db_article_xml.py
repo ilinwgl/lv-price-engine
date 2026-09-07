@@ -112,7 +112,7 @@ for group in top_groups:
     total_commodity_count += commodity_count
 
 
-output_path = Path("./data/output/article_inspection.txt")
+output_path = Path("./output/article_inspection.txt")
 output_path.parent.mkdir(parents=True, exist_ok=True)
 
 with output_path.open("w", encoding="utf-8") as file:

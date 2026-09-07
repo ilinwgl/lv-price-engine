@@ -1,0 +1,8 @@
+name: mesh_type
+type: single
+
+values:
+  - Q-Matte
+  - R-Matte
+  - Lagermatte
+  - Listenmatte
