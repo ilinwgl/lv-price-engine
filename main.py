@@ -1,7 +1,7 @@
 import logging
 from pathlib import Path
 
-from src.config.model_config_load import load_models_config
+from src.configuration.model_config_loader import load_models_config
 from src.database.connector import DBConnector
 from src.database.repository import DBRepository
 from src.exporter.result_exporter import ResultExporter

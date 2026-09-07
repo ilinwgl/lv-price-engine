@@ -9,7 +9,7 @@ load_dotenv()
 
 
 def load_models_config() -> tuple[dict[str, Any], dict[str, Any]]:
-    config_path = os.getenv("CONFIG_PATH")
+    config_path = os.getenv("MODELS_CONFIG_PATH")
 
     if not config_path:
         raise ValueError("CONFIG_PATH is not set.")
