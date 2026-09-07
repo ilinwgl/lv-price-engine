@@ -154,5 +154,5 @@ def test_load_concrete_keyword_levels():
 
     keywords = {keyword.value: keyword.level.value for keyword in concrete.keywords}
 
-    assert keywords["Normalbeton"] == "high"
-    assert keywords["Beton"] == "low"
+    assert keywords["Normalbeton"] == 3
+    assert keywords["Beton"] == 1

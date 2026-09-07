@@ -116,8 +116,8 @@ class MaterialConfigLoader:
                 )
 
             try:
-                keyword_level = KeywordLevel(level)
-            except ValueError as exc:
+                keyword_level = KeywordLevel[level.upper()]
+            except KeyError as exc:
                 raise ValueError(
                     f"Invalid keyword level '{level}' in {template_path}"
                 ) from exc
