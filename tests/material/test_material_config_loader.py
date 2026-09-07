@@ -26,8 +26,10 @@ def test_load_concrete_template():
 
     assert concrete.material_type == "concrete"
 
-    assert "Beton" in concrete.keywords
-    assert "Normalbeton" in concrete.keywords
+    keyword_values = {keyword.value for keyword in concrete.keywords}
+
+    assert "Beton" in keyword_values
+    assert "Normalbeton" in keyword_values
 
     assert "strength_class" in concrete.core_attributes
     assert "exposure_class" in concrete.core_attributes
@@ -93,7 +95,7 @@ def test_print_all_material_templates():
 
         print("\nKeywords:")
         for keyword in template.keywords:
-            print(f"  - {keyword}")
+            print(f"  - {keyword.value} [{keyword.level.value}]")
 
         print("\nCore attributes:")
         for name, attribute in template.core_attributes.items():
@@ -107,6 +109,7 @@ def test_print_all_material_templates():
                 print("    values:")
                 for value in attribute.values:
                     print(f"      - {value}")
+
             if attribute.groups:
                 print("    groups:")
 
@@ -130,6 +133,7 @@ def test_print_all_material_templates():
                 print("    values:")
                 for value in attribute.values:
                     print(f"      - {value}")
+
             if attribute.groups:
                 print("    groups:")
 
@@ -140,3 +144,15 @@ def test_print_all_material_templates():
 
                     for value in values:
                         print(f"        - {value}")
+
+
+def test_load_concrete_keyword_levels():
+    loader = MaterialConfigLoader(MATERIALS_CONFIG_PATH)
+
+    templates = loader.load_all()
+    concrete = templates["concrete"]
+
+    keywords = {keyword.value: keyword.level.value for keyword in concrete.keywords}
+
+    assert keywords["Normalbeton"] == "high"
+    assert keywords["Beton"] == "low"

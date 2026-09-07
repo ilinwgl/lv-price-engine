@@ -50,13 +50,19 @@ class MaterialConfigLoader:
     def _load_template(self, path: Path) -> MaterialTemplate:
         data = self._load_yaml(path)
 
-        material_dir = path.parent
+        material_type = data.get("material_type")
+        if not isinstance(material_type, str):
+            raise TypeError(
+                f"Invalid material_type in {path}: "
+                f"expected str, got {type(material_type).__name__}"
+            )
 
         keywords = self._load_keywords(
             data.get("keywords", []),
             path,
         )
 
+        material_dir = path.parent
         core_attributes = self._load_attributes(
             material_dir / "core_attributes",
             data.get("core_attributes", []),
@@ -68,7 +74,7 @@ class MaterialConfigLoader:
         )
 
         return MaterialTemplate(
-            material_type=data["material_type"],
+            material_type=material_type,
             keywords=keywords,
             core_attributes=core_attributes,
             supplementary_attributes=supplementary_attributes,
@@ -79,6 +85,12 @@ class MaterialConfigLoader:
         keyword_data: list[Any],
         template_path: Path,
     ) -> tuple[MaterialKeyword, ...]:
+        if not isinstance(keyword_data, list):
+            raise TypeError(
+                f"Invalid keywords config in {template_path}: "
+                f"expected list, got {type(keyword_data).__name__}"
+            )
+
         keywords: list[MaterialKeyword] = []
 
         for item in keyword_data:
@@ -124,13 +136,31 @@ class MaterialConfigLoader:
         directory: Path,
         attribute_names: list[str],
     ) -> dict[str, AttributeDefinition]:
+        if not isinstance(attribute_names, list):
+            raise TypeError(
+                f"Invalid attribute list for {directory}: "
+                f"expected list, got {type(attribute_names).__name__}"
+            )
+
         attributes: dict[str, AttributeDefinition] = {}
 
         for attribute_name in attribute_names:
+            if not isinstance(attribute_name, str):
+                raise TypeError(
+                    f"Invalid attribute name in {directory}: "
+                    f"expected str, got {type(attribute_name).__name__}"
+                )
+
             path = directory / f"{attribute_name}.yaml"
             data = self._load_yaml(path)
 
             configured_name = data["name"]
+            if not isinstance(configured_name, str):
+                raise TypeError(
+                    f"Invalid attribute name in {path}: "
+                    f"expected str, got {type(configured_name).__name__}"
+                )
+
             if configured_name != attribute_name:
                 raise ValueError(
                     "Attribute name mismatch: "
@@ -138,12 +168,26 @@ class MaterialConfigLoader:
                     f"but {path} defines '{configured_name}'"
                 )
 
+            values = data.get("values", [])
+            if not isinstance(values, list):
+                raise TypeError(
+                    f"Invalid values in {path}: "
+                    f"expected list, got {type(values).__name__}"
+                )
+
+            groups = data.get("groups", {})
+            if not isinstance(groups, dict):
+                raise TypeError(
+                    f"Invalid groups in {path}: "
+                    f"expected dict, got {type(groups).__name__}"
+                )
+
             attributes[attribute_name] = AttributeDefinition(
                 name=configured_name,
                 value_type=data["type"],
-                values=tuple(data.get("values", [])),
+                values=tuple(values),
                 unit=data.get("unit"),
-                groups=data.get("groups", {}),
+                groups=groups,
             )
 
         return attributes
